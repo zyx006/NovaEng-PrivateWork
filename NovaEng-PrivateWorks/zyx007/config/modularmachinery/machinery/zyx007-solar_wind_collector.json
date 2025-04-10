@@ -1,0 +1,55 @@
+{
+    "registryname": "solar_wind_collector",
+    "localizedname": "实验性太阳风收集器",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "has-factory": true,
+    "parts": [
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "gugu-utils:environmenthatch"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockmeiteminputbus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus",
+				"modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockupgradebus"
+            ]
+        }
+    ]
+}
