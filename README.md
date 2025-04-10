@@ -40,11 +40,13 @@
 
 随后你就可以开始分支流程，并最终跳转到你创建的仓库。
 
-### 📊📜3、修改分支
+### 📜3、修改分支
 
 此时你就可以对自己的分支仓库进行修改了，修改也可以以多种方式进行，你可以直接在网页上对文件进行修改，或创建和删除文件，你也可以使用 VSCode 来将文件克隆至本地，然后直接在本地进行修改。
 
 修改后，你需要在 VSCode 的`源代码管理`中填写commit消息，随后点击下三角菜单内`提交和推送`将修改推送到你的fork仓库中。
+
+当然这边有很多软件可以方便你的修改如<strong>[github desktop](https://desktop.github.com/download/)</strong>与<strong>[gitkraken](https://www.c.com/)</strong>。
 
 ![alt text](./img/image-3.png)
 
