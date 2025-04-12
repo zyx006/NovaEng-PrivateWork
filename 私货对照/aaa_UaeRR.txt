@@ -1,0 +1,53 @@
+1、更多巨构
+config\modularmachinery\machinery\
+    megastructure
+    space_elevator
+scripts\contenttweaker
+    mm_items.zs
+scripts\misc
+    mm_tooltips.zs
+scripts\modularmachinery
+    more_megestructure
+resources\contenttweaker\textures\items
+    anti_viod.png
+    mm_dcjz.png
+    mm_hwjz.png
+    mm_hysz.png
+    mm_jbbmc.png
+    mm_jgjz.png
+    mm_ldx.png
+    mm_xxjz1.png
+    mm_yljz.png
+    mm_yzjz.png
+    quasar_energy.png
+    rfns.png
+    stellaris_alloy.png
+    stellaris_crystal.png
+    stellaris_darkmatter.png
+    stellaris_gas.png
+    stellaris_shipboard_ship.png
+mods
+    nae2-1.6.5.jar
+2、奇观拓展
+config\modularmachinery\machinery\
+    age_of_wonder
+scripts\contenttweaker
+    aw_items.zs
+mods
+    nae2-1.6.5.jar
+scripts\modularmachinery
+    age_of_wonder
+resources\contenttweaker\textures\items
+    aw_pmc.png
+    aw_pmc_pro.png
+    stellaris_shipboard_ship_mk2.png
+    stellaris_shipboard_ship_mk3.png
+    stellaris_shipboard_ship_mk4.png
+3、寰宇牛牛机
+config\modularmachinery\machinery\age_of_wonder
+    world_jb.json
+scripts\modularmachinery\age_of_wonder
+    world_jb.zs
+4、量子操纵者&more
+scripts\modularmachinery\age_of_wonder
+    qft_and_more.zs
