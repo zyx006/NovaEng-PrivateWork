@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: -3.0d,
+	dependencies: [
+		"b865213e"
+	],
+	tasks: [{
+		uid: "34b5f96f",
+		type: "item",
+		items: [{
+			item: "modularmachinery:odm_megav4_controller"
+		}]
+	}]
+}

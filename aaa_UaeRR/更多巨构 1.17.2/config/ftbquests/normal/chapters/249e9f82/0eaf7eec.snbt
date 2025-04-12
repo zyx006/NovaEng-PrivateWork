@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	text: [
+		"大饼！"
+	],
+	dependencies: [
+		"fb3659b6",
+		"41cfc6de",
+		"7384b1d9"
+	],
+	tasks: [{
+		uid: "80c827ae",
+		type: "item",
+		items: [{
+			item: "contenttweaker:mm_yzjz"
+		}]
+	}]
+}

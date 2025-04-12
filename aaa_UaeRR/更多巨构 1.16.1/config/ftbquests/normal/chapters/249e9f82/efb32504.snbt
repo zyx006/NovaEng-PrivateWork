@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: 1.0d,
+	dependencies: [
+		"3681cb13"
+	],
+	tasks: [{
+		uid: "17ccde24",
+		type: "item",
+		items: [{
+			item: "modularmachinery:g_co_factory_controller"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: -3.0d,
+	text: [
+		"快速!!!!!!!!!!"
+	],
+	dependencies: [
+		"c93f4130"
+	],
+	tasks: [{
+		uid: "0a7ad1a9",
+		type: "item",
+		items: [{
+			item: "modularmachinery:odal_ar_factory_controller"
+		}]
+	}]
+}

@@ -1,0 +1,265 @@
+{
+    "registryname": "super_dirt_garden",
+    "localizedname": "§e究极原始人种植站ProMax+",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "factory-only": true,
+    "color": "FFFFFF",
+    "parts": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockfactorycontroller@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "minecraft:dirt",
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        }
+    ]}

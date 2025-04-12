@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: -1.0d,
+	text: [
+		"有点用,但是大饼"
+	],
+	dependencies: [
+		"c93f4130"
+	],
+	tasks: [{
+		uid: "a0f93f9c",
+		type: "item",
+		items: [{
+			item: "modularmachinery:dptf_cc_factory_controller"
+		}]
+	}]
+}

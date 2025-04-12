@@ -1,0 +1,1934 @@
+{
+    "registryname": "g_mt",
+    "localizedname": "§B'家用'小锤子",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "has-factory": true,
+    "factory-only": true,
+    "color": "4E4A4A",
+    "parts": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:g_mt_factory_controller"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 14,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 15,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:neutronforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 14,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 15,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 14,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 14,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 15,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 10,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 15,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 11,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 15,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 14,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 13,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 15,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "contenttweaker:neutronforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 10,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 14,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 13,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 11,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 13,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 10,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": 14,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 12,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 12,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 11,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 7,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "contenttweaker:universalforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 8,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 15,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "avaritia:block_resource@0"
+            ]
+        }
+    ]}
