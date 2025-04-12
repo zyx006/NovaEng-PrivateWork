@@ -1,0 +1,31 @@
+1、真空干燥炉
+config\modularmachinery\machinery
+    zyx007-vacuum_dryer.json
+    zyx007-vacuum_dryer_mkii.json
+scripts
+    zyx007-vacuum_dryer.zs
+
+2、小黑塔工厂
+config\modularmachinery\machinery
+    zyx007-enderman.json
+scripts
+    zyx007-enderman.zs
+
+3、沉浸机器辅助搭建
+config\modularmachinery\machinery
+    zyx007-auto-arcfurnace.json
+    zyx007-auto-autoworkbench.json
+    zyx007-auto-crusher.json
+    zyx007-auto-excavator.json
+scripts
+    zyx007-autocraft-ie.zs
+
+4、实验性太阳风收集器
+config\modularmachinery\machinery
+    zyx007-solar_wind_collector.json
+scripts
+    zyx007-helium3.zs
+
+5、数据库研究数据转移
+scripts
+    zyx007-move_research.zs
