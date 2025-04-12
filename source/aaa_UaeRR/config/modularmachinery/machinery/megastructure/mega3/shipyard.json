@@ -1,0 +1,4507 @@
+{
+    "registryname": "mega3_shipyard",
+    "localizedname": "§b船坞",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcontroller@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -10,
+            "z": 14,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": 16,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -10,
+            "z": -8,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -10,
+            "z": -4,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -10,
+            "z": -3,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": 9,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "avaritiaddons:infinity_glass@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": 15,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": -8,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -10,
+            "z": 12,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -10,
+            "z": 14,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -10,
+            "z": 16,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "avaritiaddons:infinity_glass@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "avaritiaddons:infinity_glass@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "avaritiaddons:infinity_glass@7"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -10,
+            "z": 15,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -10,
+            "z": 13,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "avaritiaddons:infinity_glass@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 17,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -10,
+            "z": -8,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "avaritiaddons:infinity_glass@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 17,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": 10,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": 16,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -10,
+            "z": -2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": 15,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -10,
+            "z": 16,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "avaritiaddons:infinity_glass@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -10,
+            "z": -6,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "avaritiaddons:infinity_glass@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "avaritiaddons:infinity_glass@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 17,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -10,
+            "z": 12,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -10,
+            "z": -5,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 17,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": -8,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "avaritiaddons:infinity_glass@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "avaritiaddons:infinity_glass@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -10,
+            "z": 11,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "avaritiaddons:infinity_glass@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "avaritiaddons:infinity_glass@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -10,
+            "z": 11,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -10,
+            "z": 17,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "avaritiaddons:infinity_glass@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -10,
+            "z": -4,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": 10,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -10,
+            "z": 13,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -10,
+            "z": 5,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -10,
+            "z": 15,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 17,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -10,
+            "z": 16,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": 16,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": -8,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -10,
+            "z": -8,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -10,
+            "z": 9,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 4,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -10,
+            "z": -6,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -10,
+            "z": -5,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -10,
+            "z": 3,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "avaritia:block_resource@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "avaritiaddons:infinity_glass@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "avaritiaddons:infinity_glass@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -10,
+            "z": -3,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -10,
+            "z": 17,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "avaritiaddons:infinity_glass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -10,
+            "z": -7,
+            "elements": [
+                "chisel:tyrian@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": -9,
+            "elements": [
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "nuclearcraft:fluid_plasma@1"
+            ]
+        }
+    ]}
