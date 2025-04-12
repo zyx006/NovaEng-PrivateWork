@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: -1.0d,
+	dependencies: [
+		"b865213e"
+	],
+	tasks: [{
+		uid: "cf2844c2",
+		type: "item",
+		items: [{
+			item: "modularmachinery:tc_star_weaver_factory_controller"
+		}]
+	}]
+}
