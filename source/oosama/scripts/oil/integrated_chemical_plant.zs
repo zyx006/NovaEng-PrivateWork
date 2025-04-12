@@ -1,3 +1,4 @@
+//石化配方
 #priority 10
 #loader crafttweaker reloadable
 
@@ -33,16 +34,16 @@ import novaeng.hypernet.HyperNetHelper;
 
 
 //内置并行设置
-MachineModifier.setInternalParallelism("twist_space_technology", 16);
+MachineModifier.setInternalParallelism("integrated_chemical_plant", 16);
 
 //工厂线程设置
-MachineModifier.setMaxThreads("twist_space_technology", 8);
+MachineModifier.setMaxThreads("integrated_chemical_plant", 8);
 
 //最大并行数 512
-MachineModifier.setMaxParallelism("twist_space_technology", 512);
+MachineModifier.setMaxParallelism("integrated_chemical_plant", 512);
 
 //扭集成控制器
-RecipeBuilder.newBuilder("twist_space_technology_controller", "machine_arm", 1800)
+RecipeBuilder.newBuilder("integrated_chemical_plant_controller", "machine_arm", 1800)
     .addEnergyPerTickInput(96000)
     .addInputs([
         <contenttweaker:industrial_circuit_v3> * 8,
@@ -51,13 +52,18 @@ RecipeBuilder.newBuilder("twist_space_technology_controller", "machine_arm", 180
         <modularmachinery:chemical_complex_controller> * 2,
         <modularmachinery:blockcasing:4>,
     ])
-    .addOutput(<modularmachinery:twist_space_technology_factory_controller>)
+    .addOutput(<modularmachinery:integrated_chemical_plant_factory_controller>)
+    .build();
+
+//扭配方继承虽然来说似乎都没有用的
+RecipeAdapterBuilder.create("integrated_chemical_plant", "nuclearcraft:chemical_reactor")
+    .addModifier(RecipeModifierBuilder.create("modularmachinery:duration", "input", 0.025, 1, false).build())
+    .addModifier(RecipeModifierBuilder.create("modularmachinery:energy",   "input", 4000, 1, false).build())
     .build();
 
 
-
 //硫酸3.0
-    RecipeBuilder.newBuilder("liusuan30", "twist_space_technology",480,0)
+    RecipeBuilder.newBuilder("liusuan30", "integrated_chemical_plant",480,0)
         .addEnergyPerTickInput(3200000)
         .addCatalystInput(<avaritia:resource:5>,
         ["催化配方以2倍速度运行"],
@@ -71,7 +77,7 @@ RecipeBuilder.newBuilder("twist_space_technology_controller", "machine_arm", 180
     .build();
 
 //碳纳米管 集成 替代 上位
-RecipeBuilder.newBuilder("carbon_nanotube", "twist_space_technology", 80)
+RecipeBuilder.newBuilder("carbon_nanotube", "integrated_chemical_plant", 80)
     .addEnergyPerTickInput(40000)
     .addInputs(<contenttweaker:graphene> * 2)
     .addInput(<mets:niobium_titanium_plate> * 1).setChance(0)
@@ -79,7 +85,7 @@ RecipeBuilder.newBuilder("carbon_nanotube", "twist_space_technology", 80)
     .build();
 
 //生产营养精华液-普通配方
-RecipeBuilder.newBuilder("nutrient_distillation_0", "twist_space_technology", 200)
+RecipeBuilder.newBuilder("nutrient_distillation_0", "integrated_chemical_plant", 200)
     .addEnergyPerTickInput(28800)
     .addFluidInputs(<liquid:water> * 4000)
     .addIngredientArrayInput(
@@ -106,7 +112,7 @@ RecipeBuilder.newBuilder("nutrient_distillation_0", "twist_space_technology", 20
     .build();
 
 //生产营养精华液-低级配方
-RecipeBuilder.newBuilder("nutrient_distillation_1", "twist_space_technology", 200)
+RecipeBuilder.newBuilder("nutrient_distillation_1", "integrated_chemical_plant", 200)
     .addEnergyPerTickInput(28800)
     .addFluidInputs(<liquid:water> * 4000)
     .addIngredientArrayInput(
@@ -125,7 +131,7 @@ RecipeBuilder.newBuilder("nutrient_distillation_1", "twist_space_technology", 20
     .build();
 
 //生产营养精华液-高级配方
-RecipeBuilder.newBuilder("nutrient_distillation_2", "twist_space_technology", 200)
+RecipeBuilder.newBuilder("nutrient_distillation_2", "integrated_chemical_plant", 200)
     .addEnergyPerTickInput(28800)
     .addFluidInputs(<liquid:water> * 4000)
     .addIngredientArrayInput(
@@ -144,7 +150,7 @@ RecipeBuilder.newBuilder("nutrient_distillation_2", "twist_space_technology", 20
     .build();
     
 //营养糊剂生产营养精华液-顶级配方
-RecipeBuilder.newBuilder("nutrient_distillation_3","twist_space_technology", 200)
+RecipeBuilder.newBuilder("nutrient_distillation_3","integrated_chemical_plant", 200)
     .addEnergyPerTickInput(28800)
     .addFluidInputs(<liquid:water> * 4000) 
     .addInputs(<minecraft:skull:5>)
@@ -153,7 +159,7 @@ RecipeBuilder.newBuilder("nutrient_distillation_3","twist_space_technology", 200
     .build();
 
 //扭冷却液
-RecipeBuilder.newBuilder("lengqueyan_niu","twist_space_technology",10)
+RecipeBuilder.newBuilder("lengqueyan_niu","integrated_chemical_plant",10)
    .addEnergyPerTickInput(54000)
    .addInputs(<ic2:dust:9>*9)
    .addFluidInputs(<liquid:water>* 1000) 
@@ -161,21 +167,21 @@ RecipeBuilder.newBuilder("lengqueyan_niu","twist_space_technology",10)
     .build();
 
     //扭DT燃料的D
-RecipeBuilder.newBuilder("mekdtranliaoded_niu", "twist_space_technology", 10)
+RecipeBuilder.newBuilder("mekdtranliaoded_niu", "integrated_chemical_plant", 10)
     .addEnergyPerTickInput(1024000)
     .addFluidInputs(<liquid:heavywater>* 1000) 
     .addFluidOutput(<liquid:deuterium>* 1000)
     .build();
 
     //扭DT燃料的T
-RecipeBuilder.newBuilder("mekdtranliaodet_niu", "twist_space_technology", 10)
+RecipeBuilder.newBuilder("mekdtranliaodet_niu", "integrated_chemical_plant", 10)
     .addEnergyPerTickInput(1024000)
     .addFluidInputs(<liquid:liquidlithium>* 1000) 
     .addFluidOutput(<liquid:tritium>* 1000)
     .build();
 
     //扭红石水晶
-RecipeBuilder.newBuilder("hongshishuijing_niu", "twist_space_technology", 10)
+RecipeBuilder.newBuilder("hongshishuijing_niu", "integrated_chemical_plant", 10)
     .addEnergyPerTickInput(1024000)
     .addInputs(<minecraft:diamond>) 
     .addFluidInputs(<liquid:redstone>* 500) 
@@ -183,7 +189,7 @@ RecipeBuilder.newBuilder("hongshishuijing_niu", "twist_space_technology", 10)
     .build();
 
     //扭极寒水晶
-RecipeBuilder.newBuilder("jihanshuijing_niu", "twist_space_technology", 10)
+RecipeBuilder.newBuilder("jihanshuijing_niu", "integrated_chemical_plant", 10)
     .addEnergyPerTickInput(1024000)
     .addInputs(<minecraft:emerald>) 
     .addFluidInputs(<liquid:cryotheum>* 1000) 
@@ -191,7 +197,7 @@ RecipeBuilder.newBuilder("jihanshuijing_niu", "twist_space_technology", 10)
     .build();
 
     //扭极寒末影锭
-RecipeBuilder.newBuilder("jihanmoyinding_niu", "twist_space_technology", 10)
+RecipeBuilder.newBuilder("jihanmoyinding_niu", "integrated_chemical_plant", 10)
     .addEnergyPerTickInput(1024000)
     .addInputs(<thermalfoundation:material:167>) 
     .addFluidInputs(<liquid:cryotheum>* 1000) 
@@ -199,7 +205,7 @@ RecipeBuilder.newBuilder("jihanmoyinding_niu", "twist_space_technology", 10)
     .build();
 
     //原油裂解成4个
-RecipeBuilder.newBuilder("oil_liejie", "twist_space_technology", 800)
+RecipeBuilder.newBuilder("oil_liejie", "integrated_chemical_plant", 800)
     .addEnergyPerTickInput(40000)
     .addFluidInputs(<liquid:oil>*1000)
     .addFluidOutput(<liquid:oil_sulfur_rich_refinery_gas>*250)
@@ -209,7 +215,7 @@ RecipeBuilder.newBuilder("oil_liejie", "twist_space_technology", 800)
     .build();
 
     //含硫轻燃油+氢气=硫化氢+轻燃油
-RecipeBuilder.newBuilder("oil_hlqrycl", "twist_space_technology", 800)
+RecipeBuilder.newBuilder("oil_hlqrycl", "integrated_chemical_plant", 800)
     .addEnergyPerTickInput(40000)
     .addFluidInputs([
         <liquid:oil_sulfur_rich_light_fuel>*1000,
@@ -220,7 +226,7 @@ RecipeBuilder.newBuilder("oil_hlqrycl", "twist_space_technology", 800)
     .build();
 
     //硫化氢+水=硫酸
-RecipeBuilder.newBuilder("oil_lhqcl", "twist_space_technology", 800)
+RecipeBuilder.newBuilder("oil_lhqcl", "integrated_chemical_plant", 800)
     .addEnergyPerTickInput(40000)
     .addFluidInputs([
         <liquid:oil_h2s>*1000,
@@ -230,7 +236,7 @@ RecipeBuilder.newBuilder("oil_lhqcl", "twist_space_technology", 800)
     .build();
 
     //轻燃油+重燃油=燃油
-RecipeBuilder.newBuilder("oil_ryhc", "twist_space_technology", 800)
+RecipeBuilder.newBuilder("oil_ryhc", "integrated_chemical_plant", 800)
     .addEnergyPerTickInput(40000)
     .addFluidInputs([
         <liquid:oil_light_fuel>*1000,
@@ -240,7 +246,7 @@ RecipeBuilder.newBuilder("oil_ryhc", "twist_space_technology", 800)
     .build();
 
     //含硫重燃油+氢气=硫化氢+重燃油
-RecipeBuilder.newBuilder("oil_hlzrycl", "twist_space_technology", 800)
+RecipeBuilder.newBuilder("oil_hlzrycl", "integrated_chemical_plant", 800)
     .addEnergyPerTickInput(40000)
     .addFluidInputs([
         <liquid:oil_sulfur_rich_heavy_fuel>*1000,
@@ -252,7 +258,7 @@ RecipeBuilder.newBuilder("oil_hlzrycl", "twist_space_technology", 800)
 
 
     //燃油+四硝基甲烷=高十六烷值柴油
-RecipeBuilder.newBuilder("oil_gaoshiliusc", "twist_space_technology", 800)
+RecipeBuilder.newBuilder("oil_gaoshiliusc", "integrated_chemical_plant", 800)
     .addEnergyPerTickInput(40000)
     .addFluidInputs([
         <liquid:oil_fuel>*1000,
@@ -262,7 +268,7 @@ RecipeBuilder.newBuilder("oil_gaoshiliusc", "twist_space_technology", 800)
     .build();
 
       //乙烯酮+硝酸=四硝基甲烷
-RecipeBuilder.newBuilder("oil_sxjjwcl", "twist_space_technology", 800)
+RecipeBuilder.newBuilder("oil_sxjjwcl", "integrated_chemical_plant", 800)
     .addEnergyPerTickInput(40000)
     .addFluidInputs([
         <liquid:oil_c2h2o>*1000,
@@ -272,7 +278,7 @@ RecipeBuilder.newBuilder("oil_sxjjwcl", "twist_space_technology", 800)
     .build();
   
     //水+氧气+硝石=硝酸
-RecipeBuilder.newBuilder("oil_xssc", "twist_space_technology", 800)
+RecipeBuilder.newBuilder("oil_xssc", "integrated_chemical_plant", 800)
     .addEnergyPerTickInput(40000)
     .addInputs(<thermalfoundation:material:772>*9)
     .addFluidInputs([
@@ -283,7 +289,7 @@ RecipeBuilder.newBuilder("oil_xssc", "twist_space_technology", 800)
     .build();
 
     //乙酸+硫酸=乙酸酮
-RecipeBuilder.newBuilder("oil_yxtsc", "twist_space_technology", 800)
+RecipeBuilder.newBuilder("oil_yxtsc", "integrated_chemical_plant", 800)
     .addEnergyPerTickInput(40000)
     .addFluidInputs([
         <liquid:oil_c2h4o2>*1000,
@@ -293,7 +299,7 @@ RecipeBuilder.newBuilder("oil_yxtsc", "twist_space_technology", 800)
     .build();
 
     //乙烯+氧气=乙酸
-RecipeBuilder.newBuilder("oil_yssc333", "twist_space_technology", 800)
+RecipeBuilder.newBuilder("oil_yssc333", "integrated_chemical_plant", 800)
     .addEnergyPerTickInput(40000)
     .addFluidInputs([
         <liquid:ethene>*1000,

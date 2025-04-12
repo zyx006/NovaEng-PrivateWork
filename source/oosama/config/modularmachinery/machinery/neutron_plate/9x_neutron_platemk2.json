@@ -3,7 +3,6 @@
     "localizedname": "§e压缩§7中子素吸积盘§2MK2",
     "failure-action": "still",
     "has-factory": true,
-    "factory-only": true,
     "requires-blueprint": false,
     "color": "B4950C",
     "parts": [

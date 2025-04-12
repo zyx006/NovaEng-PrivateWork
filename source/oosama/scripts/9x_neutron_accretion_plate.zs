@@ -14,12 +14,27 @@ MachineModifier.setMaxThreads("9x_neutron_platemk2", 16);
 
 // 9重压缩中子素吸积盘mk1 控制器
 recipes.addShaped( 
+    <modularmachinery:9x_neutron_platemk1_controller>, // 输出物品
+    [[<modularmachinery:neutron_accretion_plate_controller>, <modularmachinery:neutron_accretion_plate_controller>, <modularmachinery:neutron_accretion_plate_controller>],
+    [<modularmachinery:neutron_accretion_plate_controller>, <modularmachinery:neutron_accretion_plate_controller>, <modularmachinery:neutron_accretion_plate_controller>],
+    [<modularmachinery:neutron_accretion_plate_controller>, <modularmachinery:neutron_accretion_plate_controller>, <modularmachinery:neutron_accretion_plate_controller>]]
+);
+// 9重压缩中子素吸积盘mk2控制器 控制器
+recipes.addShaped(
+    <modularmachinery:9x_neutron_platemk2_controller>, // 输出物品
+    [[<modularmachinery:9x_neutron_platemk1_controller>, <modularmachinery:9x_neutron_platemk1_controller>, <modularmachinery:9x_neutron_platemk1_controller>],
+    [<modularmachinery:9x_neutron_platemk1_controller>, <modularmachinery:9x_neutron_platemk1_controller>, <modularmachinery:9x_neutron_platemk1_controller>],
+    [<modularmachinery:9x_neutron_platemk1_controller>, <modularmachinery:9x_neutron_platemk1_controller>, <modularmachinery:9x_neutron_platemk1_controller>]]
+);
+
+// 9重压缩中子素吸积盘mk1集成控制器
+recipes.addShaped( 
     <modularmachinery:9x_neutron_platemk1_factory_controller>, // 输出物品
     [[<modularmachinery:neutron_accretion_plate_factory_controller>, <modularmachinery:neutron_accretion_plate_factory_controller>, <modularmachinery:neutron_accretion_plate_factory_controller>],
     [<modularmachinery:neutron_accretion_plate_factory_controller>, <modularmachinery:neutron_accretion_plate_factory_controller>, <modularmachinery:neutron_accretion_plate_factory_controller>],
     [<modularmachinery:neutron_accretion_plate_factory_controller>, <modularmachinery:neutron_accretion_plate_factory_controller>, <modularmachinery:neutron_accretion_plate_factory_controller>]]
 );
-// 9重压缩中子素吸积盘mk2控制器 控制器
+// 9重压缩中子素吸积盘mk2控制器集成控制器
 recipes.addShaped(
     <modularmachinery:9x_neutron_platemk2_factory_controller>, // 输出物品
     [[<modularmachinery:9x_neutron_platemk1_factory_controller>, <modularmachinery:9x_neutron_platemk1_factory_controller>, <modularmachinery:9x_neutron_platemk1_factory_controller>],

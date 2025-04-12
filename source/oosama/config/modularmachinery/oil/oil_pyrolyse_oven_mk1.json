@@ -1,5 +1,5 @@
 {
-    "registryname": "oil_yrolysis_furnace_1",
+    "registryname": "oil_pyrolyse_oven_mk1",
     "localizedname": "基础热解炉",
     "requires-blueprint": false,
     "parts": [
