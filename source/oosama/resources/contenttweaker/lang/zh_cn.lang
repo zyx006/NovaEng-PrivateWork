@@ -1,0 +1,408 @@
+fluid.crystalloid=紫晶素
+fluid.crystalloidneutron=中子晶流体
+fluid.liquid_energy=液态能量
+fluid.unsteady_plasma=非稳态等离子体
+fluid.steady_ultra_dense_atomic_matter=稳态超密原子物质
+
+fluid.d_dicarboxybenzene=对苯二甲酸
+fluid.ethylene_glycol=乙二醇
+fluid.triethyl_aluminum=三乙基铝
+fluid.methane=甲烷
+fluid.carbon_tetrachloride=四氯化碳
+fluid.chloroform=氯仿
+fluid.tetrafloroethylene=四氟乙烯
+fluid.magnesium_chloride=氯化镁
+fluid.triethyl_aluminum=三乙基铝
+fluid.ammonium_presulfate=过硫酸铵
+fluid.oslash_matter=§9ø 无定流体物质
+fluid.phi_matter=§cɸ 无定流体物质
+fluid.trq=天然气
+fluid.wt=烷烃混合物
+fluid.jfh=激发态氦
+
+
+fluid.oil_tetranitromethane=四硝基甲烷
+fluid.oil_cetan_eboosted_diesel=高十六烷值柴油
+fluid.oil_sulfur_rich_light_fuel=含硫轻燃油
+fluid.oil_sulfur_rich_heavy_fuel=含硫重燃油
+fluid.oil_sulfur_rich_naphtha=含硫石脑油
+fluid.oil_sulfur_rich_refinery_gas=含硫炼油气
+fluid.oil_heavy_fuel=重燃油
+fluid.oil_light_fuel=轻燃油
+fluid.oil_fuel=燃油
+fluid.oil_h2s=硫化氢
+fluid.oil_hno3=硝酸
+fluid.oil_c2h2o=乙烯酮
+fluid.oil_c2h4o2=乙酸
+fluid.oil_charcoal_byproducts=木炭副产
+
+
+item.contenttweaker.universalalloyt1.name=§e基础通用合金
+item.contenttweaker.universalalloyt2.name=§c强化通用合金
+item.contenttweaker.universalalloyt3.name=§5终极通用合金
+
+item.contenttweaker.willowalloyingot.name=柳钢锭
+
+item.contenttweaker.crystalred.name=§c异端碎片 - §4赤红
+item.contenttweaker.crystalpurple.name=异端碎片 - §5邃紫
+item.contenttweaker.crystalgreen.name=§a异端碎片 - §2深绿
+
+tile.contenttweaker.extrememachineblock.name=§6究极机械外壳
+tile.contenttweaker.arkmachineblock.name=§9方舟机械外壳
+tile.contenttweaker.reinforced_vent.name=强化机械通风口
+
+# item.contenttweaker.cpu_tier_1.name=基础中央处理器
+# item.contenttweaker.cpu_tier_1_arm.name=基础中央处理器
+# item.contenttweaker.cpu_tier_2.name=§b精英中央处理器
+# item.contenttweaker.cpu_tier_3.name=§5终极中央处理器
+# item.contenttweaker.cpu_tier_4.name=§6究极中央处理器
+# item.contenttweaker.cpu_1.name=基础中央处理器核心
+# item.contenttweaker.cpu_1_arm.name=基础中央处理器核心
+# item.contenttweaker.cpu_2.name=§b精英中央处理器核心
+# item.contenttweaker.cpu_3.name=§5终极中央处理器核心
+# item.contenttweaker.cpu_4.name=§6究极中央处理器核心
+# item.contenttweaker.cpu_board_gold_tier_1.name=基础蚀刻处理器基板
+# item.contenttweaker.cpu_board_gold_tier_2.name=§b精英蚀刻处理器基板
+# item.contenttweaker.cpu_board_gold_tier_3.name=§5终极蚀刻处理器基板
+# item.contenttweaker.cpu_board_fallenstar_tier_4.name=§6究极蚀刻处理器基板
+# item.contenttweaker.cpu_gold_line.name=金 处理器电路线缆
+# item.contenttweaker.cpu_fallenstar_line.name=§b落星§c合金 §r处理器电路线缆
+# item.contenttweaker.cpu_board_tier_1.name=基础处理器基板
+# item.contenttweaker.cpu_board_tier_2.name=§b精英处理器基板
+# item.contenttweaker.cpu_board_tier_3.name=§5终极处理器基板
+# item.contenttweaker.cpu_board_tier_4.name=§6究极处理器基板
+# item.contenttweaker.circuit_board_basic_universal.name=§a基础通用电路板
+# item.contenttweaker.circuit_board_advanced_universal.name=§c高级通用电路板
+# item.contenttweaker.circuit_board_elite_universal.name=§b精英通用电路板
+# item.contenttweaker.circuit_board_ultimate_universal.name=§5终极通用电路板
+# item.contenttweaker.circuit_board_extreme_universal.name=§6究极通用电路板
+# item.contenttweaker.circuit_board_basic_gold.name=§a基础蚀刻电路板
+# item.contenttweaker.circuit_board_advanced_gold.name=§c高级蚀刻电路板
+# item.contenttweaker.circuit_board_elite_gold.name=§b精英蚀刻电路板
+# item.contenttweaker.circuit_board_ultimate_gold.name=§5终极蚀刻电路板
+# item.contenttweaker.circuit_board_extreme_platinum.name=§6究极蚀刻电路板
+# item.contenttweaker.circuit_board_basic.name=§a基础电路基板
+# item.contenttweaker.circuit_board_advanced.name=§c高级电路基板
+# item.contenttweaker.circuit_board_elite.name=§b精英电路基板
+# item.contenttweaker.circuit_board_ultimate.name=§5终极电路基板
+# item.contenttweaker.circuit_board_extreme.name=§6究极电路基板
+
+item.contenttweaker.general_data_card.name=§9通用数据存储卡
+
+item.contenttweaker.data_model_card.name=§5高级数据模型存储卡
+item.contenttweaker.data_model_copper.name=§9铜 - §5高级数据模型存储卡
+item.contenttweaker.data_model_crystal_flux.name=§9红石水晶 - §5高级数据模型存储卡
+item.contenttweaker.data_model_diamond.name=§9钻石 - §5高级数据模型存储卡
+item.contenttweaker.data_model_electrum_flux.name=§9红石琥珀金 - §5高级数据模型存储卡
+item.contenttweaker.data_model_emerald.name=§9绿宝石 - §5高级数据模型存储卡
+item.contenttweaker.data_model_gelid_enderium.name=§9极寒末影 - §5高级数据模型存储卡
+item.contenttweaker.data_model_gelid_gem.name=§9极寒水晶 - §5高级数据模型存储卡
+item.contenttweaker.data_model_gold.name=§9金 - §5高级数据模型存储卡
+item.contenttweaker.data_model_iridium.name=§9铱 - §5高级数据模型存储卡
+item.contenttweaker.data_model_iron.name=§9铁 - §5高级数据模型存储卡
+item.contenttweaker.data_model_lapis.name=§9青金石 - §5高级数据模型存储卡
+item.contenttweaker.data_model_lead.name=§9铅 - §5高级数据模型存储卡
+item.contenttweaker.data_model_nickel.name=§9镍 - §5高级数据模型存储卡
+item.contenttweaker.data_model_platinum.name=§9铂 - §5高级数据模型存储卡
+item.contenttweaker.data_model_quartz.name=§9石英 - §5高级数据模型存储卡
+item.contenttweaker.data_model_redstone.name=§9红石 - §5高级数据模型存储卡
+item.contenttweaker.data_model_silver.name=§9银 - §5高级数据模型存储卡
+item.contenttweaker.data_model_tin.name=§9锡 - §5高级数据模型存储卡
+item.contenttweaker.data_model_orichalcos.name=§9奥利哈刚 - §5高级数据模型存储卡
+
+item.contenttweaker.dyson_cloud_pos_data_card.name=§6戴森云坐标数据存储卡
+item.contenttweaker.dyson_cloud_operation_data_card.name=§6戴森云运行数据存储卡
+item.contenttweaker.dyson_cloud_tuning_data_card.name=§6戴森云调谐数据存储卡
+
+item.contenttweaker.programming_circuit_0.name=编程电路-0x00
+item.contenttweaker.programming_circuit_a.name=编程电路-0x0A
+item.contenttweaker.programming_circuit_b.name=编程电路-0x0B
+item.contenttweaker.programming_circuit_c.name=编程电路-0x0C
+item.contenttweaker.programming_circuit_d.name=编程电路-0x0D
+item.contenttweaker.programming_circuit_e.name=编程电路-0x0E
+item.contenttweaker.programming_circuit_f.name=编程电路-0x0F
+item.contenttweaker.programming_circuit_g.name=编程电路-0x0G
+
+item.contenttweaker.exponential_level_processor.name=§9指数级处理器
+item.contenttweaker.lifesense_processor.name=§4生命源质处理器
+item.contenttweaker.infinity_processor.name=§c无限处理器
+
+item.contenttweaker.antimatter_core.name=§5反物质核心
+
+item.contenttweaker.sensor_v1.name=传感器（等级 1）
+item.contenttweaker.sensor_v2.name=传感器（等级 2）
+item.contenttweaker.sensor_v3.name=传感器（等级 3）
+item.contenttweaker.sensor_v4.name=§2传感器（等级 4）
+item.contenttweaker.sensor_v5.name=§5传感器（等级 5）
+
+item.contenttweaker.coil_v2.name=金属线圈（等级 2）
+item.contenttweaker.coil_v3.name=合金线圈（等级 3）
+item.contenttweaker.coil_v4.name=§d合金线圈（等级 4）
+item.contenttweaker.coil_v5.name=§9合金线圈（等级 5）
+
+item.contenttweaker.electric_motor_v1.name=电动马达（等级 1）
+item.contenttweaker.electric_motor_v2.name=电动马达（等级 2）
+item.contenttweaker.electric_motor_v3.name=电动马达（等级 3）
+item.contenttweaker.electric_motor_v4.name=电动马达（等级 4）
+item.contenttweaker.electric_motor_v5.name=§5电动马达（等级 5）
+
+item.contenttweaker.robot_arm_v1.name=机械臂（等级 1）
+item.contenttweaker.robot_arm_v2.name=机械臂（等级 2）
+item.contenttweaker.robot_arm_v3.name=机械臂（等级 3）
+item.contenttweaker.robot_arm_v4.name=机械臂（等级 4）
+item.contenttweaker.robot_arm_v5.name=§5机械臂（等级 5）
+
+item.contenttweaker.field_generator_v1.name=力场发生器（等级 1）
+item.contenttweaker.field_generator_v2.name=力场发生器（等级 2）
+item.contenttweaker.field_generator_v3.name=§c力场发生器（等级 3）
+item.contenttweaker.field_generator_v4.name=§b力场发生器（等级 4）
+item.contenttweaker.field_generator_v5.name=§5力场发生器（等级 5）
+
+item.contenttweaker.energized_fuel_v1.name=充能燃料单元（等级 1）
+item.contenttweaker.energized_fuel_v2.name=充能燃料单元（等级 2）
+item.contenttweaker.energized_fuel_v3.name=充能燃料单元（等级 3）
+item.contenttweaker.energized_fuel_v4.name=§c充能燃料单元（等级 4）
+
+item.contenttweaker.engineering_battery_v1.name=工程电池（等级 1）
+item.contenttweaker.engineering_battery_v2.name=工程电池（等级 2）
+item.contenttweaker.engineering_battery_v3.name=工程电池（等级 3）
+item.contenttweaker.engineering_battery_v4.name=工程电池（等级 4）
+
+item.contenttweaker.industrial_circuit_v1.name=工程控制电路（等级 1）
+item.contenttweaker.industrial_circuit_v2.name=工程控制电路（等级 2）
+item.contenttweaker.industrial_circuit_v3.name=工程控制电路（等级 3）
+item.contenttweaker.industrial_circuit_v4.name=§d工程控制电路（等级 4）
+item.contenttweaker.industrial_circuit_v5.name=§c工程控制电路（等级 5）
+
+item.contenttweaker.energized_fuel_depleted_v1.name=充能燃料单元（竭尽，等级 1）
+item.contenttweaker.energized_fuel_depleted_v2.name=充能燃料单元（竭尽，等级 2）
+item.contenttweaker.energized_fuel_depleted_v3.name=充能燃料单元（竭尽，等级 3）
+item.contenttweaker.energized_fuel_depleted_v4.name=§c充能燃料单元（竭尽，等级 4）
+
+item.contenttweaker.energized_fuel_container_v1.name=空的充能燃料容器（等级 1）
+item.contenttweaker.energized_fuel_container_v2.name=空的充能燃料容器（等级 2）
+item.contenttweaker.energized_fuel_container_v3.name=空的充能燃料容器（等级 3）
+item.contenttweaker.energized_fuel_container_v4.name=§c空的充能燃料容器（等级 4）
+
+item.contenttweaker.hypernet_connect_card.name=§9HyperNet 网络密钥卡
+
+item.contenttweaker.hypernet_cpu_t1.name=§9HyperNet 数据处理计算机 CPU 模块§a（等级 1）
+item.contenttweaker.hypernet_cpu_t2.name=§9HyperNet 数据处理计算机 CPU 模块（等级 2）
+item.contenttweaker.hypernet_cpu_t3.name=§9HyperNet 数据处理计算机 CPU 模块§5（等级 3）
+item.contenttweaker.hypernet_cpu_t4.name=§9HyperNet 数据处理计算机 CPU 模块§c（等级 4）
+item.contenttweaker.hypernet_gpu_t1.name=§9HyperNet 数据处理计算机 GPU 模块§9（等级 1）
+item.contenttweaker.hypernet_gpu_t2.name=§9HyperNet 数据处理计算机 GPU 模块§6（等级 2）
+item.contenttweaker.hypernet_gpu_t3.name=§9HyperNet 数据处理计算机 GPU 模块§c（等级 3）
+item.contenttweaker.hypernet_ram_t1.name=§9HyperNet 数据处理计算机内存模块§a（等级 1）
+item.contenttweaker.hypernet_ram_t2.name=§9HyperNet 数据处理计算机内存模块§9（等级 2）
+item.contenttweaker.hypernet_ram_t3.name=§9HyperNet 数据处理计算机内存模块§5（等级 3）
+item.contenttweaker.hypernet_ram_t4.name=§9HyperNet 数据处理计算机内存模块§6（等级 4）
+item.contenttweaker.hypernet_ram_t5.name=§9HyperNet 数据处理计算机内存模块§c（等级 5）
+
+item.contenttweaker.alpha_matter.name=§9α §b物质
+item.contenttweaker.beta_matter.name=§2β §a物质
+item.contenttweaker.delta_matter.name=§5Δ §6物质
+item.contenttweaker.polymer_matter.name=§a时§9空§5物§6质§5聚§9合§a体
+
+item.contenttweaker.graphene.name=石墨烯
+item.contenttweaker.carbon_nanotube.name=碳纳米管
+
+item.contenttweaker.geocentric_crystal.name=§6地心石英水晶块
+item.contenttweaker.geocentric_quartz_crystal.name=§6地心石英水晶
+item.contenttweaker.purified_geocentric_quartz_crystal.name=§6提纯地心石英水晶
+item.contenttweaker.geocentric_quartz_crystal_charged.name=§6盈能地心石英水晶
+
+tile.contenttweaker.copper_coil.name=铜线圈
+tile.contenttweaker.iron_coil.name=钢线圈
+tile.contenttweaker.nickel_coil.name=镍线圈
+tile.contenttweaker.fixed_star_alloys_coil.name=恒星合金线圈
+tile.contenttweaker.infinite_coil.name=§c无尽线圈
+tile.contenttweaker.space_time_coil.name=§8时空线圈
+
+item.contenttweaker.nickel_wire.name=镍导线
+item.contenttweaker.stellar_alloy_wire.name=恒星合金导线
+item.contenttweaker.infinity_wire.name=§c无尽导线
+
+tile.contenttweaker.dark_steel_wire_reel.name=玄钢线圈盘
+tile.contenttweaker.neutron_coil_discs.name=§7中子素线圈盘
+
+tile.contenttweaker.space_time_condensation_block.name=§8时空凝结块
+
+tile.contenttweaker.crystalmatrixforcefieldcontrolblock.name=§b水晶矩阵力场控制矩阵
+tile.contenttweaker.neutronforcefieldcontrolblock.name=§7中子力场控制矩阵
+tile.contenttweaker.fallenstarforcefieldcontrolblock.name=§d落星合金力场控制矩阵
+tile.contenttweaker.universalforcefieldcontrolblock.name=§c寰宇力场控制矩阵
+tile.contenttweaker.arkforcefieldcontrolblock.name=§9方舟力场控制矩阵
+
+item.contenttweaker.fragments_of_the_space_time_continuum.name=§8时空连续体碎片
+
+item.contenttweaker.building_wand.name=§6平台手杖
+item.contenttweaker.suicide.name=§4世界再见
+item.contenttweaker.sunny.name=§b晴朗之空
+item.contenttweaker.locate.name=§e地狱堡垒定位器
+
+# AFP
+itemgroup.contenttweaker.atomicfurnace_block=§6AFP —— 原子炉计划 §f· §b方块
+
+tile.contenttweaker.carbon_fiber_engineering_block.name=碳纤维工程块
+tile.contenttweaker.iridium_alloy_engineering_block.name=§b铱合金工程块
+tile.contenttweaker.super_iridiumalloy_engineering_block.name=§b超级铱合金工程块
+tile.contenttweaker.acid_resistant_aluminum_engineering_block.name=§d耐酸铝工程块
+tile.contenttweaker.ryonsu_engineering_block.name=§5龙素工程块
+tile.contenttweaker.arousal_engineering_block.name=§6神龙工程块
+tile.contenttweaker.neutron_engineering_block.name=§8中子素工程块
+
+tile.contenttweaker.carbon_fiber_building_block.name=碳纤维结构壳
+tile.contenttweaker.iridium_alloy_fiber_building_block.name=§b铱合金结构壳
+tile.contenttweaker.super_iridiumalloy_building_block.name=§b超级铱合金结构壳
+tile.contenttweaker.acid_resistant_aluminum_building_block.name=§d耐酸铝结构块
+tile.contenttweaker.ryonsu_building_block.name=§5龙素结构块
+tile.contenttweaker.arousal_building_block.name=§6神龙结构块
+tile.contenttweaker.neutron_building_block.name=§8中子素结构块
+
+tile.contenttweaker.carbon_fiber_housing.name=碳纤维结构框架
+tile.contenttweaker.iridium_alloy_fiber_housing.name=§b铱合金结构框架
+tile.contenttweaker.super_iridiumalloy_housing.name=§b超级铱合金结构框架
+tile.contenttweaker.acid_resistant_aluminum_fiber_housing.name=§d耐酸铝结构框架
+tile.contenttweaker.ryonsu_fiber_housing.name=§5龙素结构框架
+tile.contenttweaker.arousal_fiber_housing.name=§6神龙结构框架
+tile.contenttweaker.neutron_fiber_housing.name=§8中子素结构框架
+
+tile.contenttweaker.iridium_alloy_mechanical_housing.name=铱合金机械外壳
+
+tile.contenttweaker.las_cio_large_lasers.name=§8[LAS-CIO] §2C1 型离子激光器
+tile.contenttweaker.las_bio_large_lasers.name=§9[LAS-BIO] §bB1 型离子激光器
+tile.contenttweaker.las_aio_large_lasers.name=§2[LAS-AIO] §aA1 型离子激光器
+tile.contenttweaker.las_sio_large_lasers.name=§d[LAS-SIO] §dS1 型离子激光器
+tile.contenttweaker.las_zio_large_lasers.name=§9[LAS-ZIO] §9Z1 型离子激光器
+tile.contenttweaker.las_yio_large_lasers.name=§6[LAS-YIO] §eY1 型离子激光器
+
+tile.contenttweaker.neutron_space_force_field_constraint_framework_longitudinal.name=§b中子空间力场约束框架（纵向）
+tile.contenttweaker.neutron_space_force_field_constraint_framework_transverse.name=§b中子空间力场约束框架（横向）
+tile.contenttweaker.neutron_space_force_field_control_columns_longitudinal.name=§b中子空间力场控制柱
+tile.contenttweaker.neutron_space_force_field_control_bus.name=§b中子空间力场连接块
+
+item.contenttweaker.yunshi.name=高度密集陨石精华
+item.contenttweaker.cxyunshi.name=淬血陨石精华
+item.contenttweaker.zbk.name=模式定位坐标卡
+
+item.contenttweaker.tyf1.name=水晶太阳帆
+item.contenttweaker.tyf2.name=寰宇太阳帆
+item.contenttweaker.tyf3.name=方舟太阳帆
+item.contenttweaker.ljgz.name=星能聚集光子
+item.contenttweaker.hxs.name=核心素
+item.contenttweaker.ymysq.name=湮灭约束器
+item.contenttweaker.hxsrlb.name=核心素燃料棒
+item.contenttweaker.fwzrlb.name=反物质燃料棒
+item.contenttweaker.kjcl.name=戴森球框架材料
+item.contenttweaker.kjzj.name=戴森球组件
+item.contenttweaker.yltj.name=引力透镜
+item.contenttweaker.iridescence.name=虹彩花瓣
+item.contenttweaker.universe.name=万象符文
+item.contenttweaker.guilt.name=原罪符文
+contenttweaker.part.raw_ore=粗%s
+contenttweaker.part.raw_ore_gem=未雕琢的%s
+contenttweaker.part.raw_block=粗%s块
+base.material.ancient_debris=下界合金碎片
+base.material.astral_starmetal=星辉
+base.material.boron=硼
+base.material.dilithium=二锂
+base.material.magnesium=镁
+base.material.willowalloy=柳钢
+base.material.mithril=秘银
+base.material.abyssum=深渊金属
+base.material.adamant=铿金
+base.material.astrium=曜金
+base.material.aurorium=极光金属
+base.material.basalt=玄武岩
+base.material.dilithium=双锂
+base.material.duranite=杜兰特
+base.material.dyonite=烈金
+base.material.eezo=零素
+base.material.fractum=碎金
+base.material.ignitz=焰晶
+base.material.imperomite=帝金
+base.material.iox=离金
+base.material.jauxum=若氏铁
+base.material.karmesine=绯红铁
+base.material.lumix=流光合金
+base.material.magma=岩浆
+base.material.meteorite=陨铁
+base.material.nihilite=虚金
+base.material.niob=铌
+base.material.nitronite=硝化合金
+base.material.nucleum=辐光合金
+base.material.obsidiorite=黑陨铁
+base.material.osram=熔晶
+base.material.ovium=欧维姆
+base.material.palladium=钯
+base.material.prometheum=钷
+base.material.proxii=普罗克希
+base.material.seismum=地动合金
+base.material.solarium=阳光合金
+base.material.terrax=地母
+base.material.tiberium=泰伯利亚
+base.material.triberium=泰伯利安
+base.material.tritonite=漩金
+base.material.uru=乌鲁
+base.material.valyrium=瓦雷利亚
+base.material.vibranium=振金
+base.material.violium=瑟蓝
+base.material.yrdeen=原金
+base.material.aquamarine=海蓝宝石
+base.material.amber=琥珀
+base.material.peridot=橄榄石
+base.material.fluorite=氟石
+base.material.charged_certus_quartz=充能赛特斯石英
+base.material.dimensional_shard=维度碎片
+base.material.quartz_black=焦黑石英
+jaopca.entry.AncientDebris=下界合金碎片
+jaopca.entry.Willowalloy=柳钢
+
+item.contenttweaker.awakened_draconium_plasma_nozzle.name=觉醒龙素等离子喷口
+item.contenttweaker.chaostic_draconium_resonant_tube.name=混沌龙素谐振管
+
+item.contenttweaker.infinity_undying_totem.name=§c不朽驻世神躯
+item.contenttweaker.level_infinity_orb.name=§c万象气血宝珠
+item.contenttweaker.hypernet_gpu_max.name=§9HyperNet 数据处理计算机 GPU 模块§d 「核心」
+item.contenttweaker.hypernet_ram_max.name=§9HyperNet 数据处理计算机内存模块§d 「核心」
+
+item.contenttweaker.wyvern_upgrade_device.name=§5飞龙§9注入升级装置
+item.contenttweaker.draconic_upgrade_device.name=§6神龙§9注入升级装置
+item.contenttweaker.draconic_conversion_device.name=§6神龙§9注入转化装置
+item.contenttweaker.chaotic_upgrade_device.name=§8混沌§9注入升级装置
+item.contenttweaker.chaotic_conversion_device.name=§8混沌§9注入转化装置
+
+item.contenttweaker.additional_component_0.name=聚能碎岩钻头
+item.contenttweaker.additional_component_1.name=高能激光组件
+item.contenttweaker.additional_component_2.name=物质分解元件
+item.contenttweaker.additional_component_3.name=§c寰宇操纵核心
+item.contenttweaker.barrel_key.name=§6桶钥匙
+item.contenttweaker.tky.name=探矿棒
+
+
+item.contenttweaker.superluminal_core.name=§c超§6光§e速§a核§b心
+item.contenttweaker.mana_core.name=§b魔力核心
+item.contenttweaker.world_energy_core.name=§c寰§6宇§e能§a源§b核§9心
+item.contenttweaker.life_regeneration_core.name=§c生命再生核心
+item.contenttweaker.rainbow_core.name=§c彩§6虹§e核§a心
+item.contenttweaker.soul_core.name=§5灵魂核心
+item.contenttweaker.eclipse_core.name=§8失色核心
+item.contenttweaker.chaos_radiation_core.name=§c混沌超辐射核心
+item.contenttweaker.element_core.name=§9元素核心
+item.contenttweaker.forgotten_core.name=§dForgotten核心
+item.contenttweaker.charging_crystal.name=§2盈能水晶
+item.contenttweaker.charging_crystal_block.name=§a盈能水晶块
+item.contenttweaker.mana_crystal_1.name=§b注能魔力水晶（等级 1）
+item.contenttweaker.mana_crystal_2.name=§b注能魔力水晶（等级 2）
+item.contenttweaker.mana_crystal_3.name=§b注能魔力水晶（等级 3）
+item.contenttweaker.uu_crystal_1.name=§5注能 UU 水晶（等级 1）
+item.contenttweaker.uu_crystal_2.name=§5注能 UU 水晶（等级 2）
+item.contenttweaker.uu_crystal_3.name=§5注能 UU 水晶（等级 3）
+item.contenttweaker.horologium_star_map.name=§e时钟座§6星图
+item.contenttweaker.corvus_star_map.name=§7乌鸦座§f星图
+item.contenttweaker.lyra_star_map.name=§3天琴座§f星图
+item.contenttweaker.fornax_star_map.name=§6天炉座§f星图
+item.contenttweaker.bootes_star_map.name=§a牧夫座§f星图
+item.contenttweaker.monoceros_star_map.name=§d麒麟座§f星图
+item.contenttweaker.thunderbolt_star_map.name=§e天雷座§f星图
