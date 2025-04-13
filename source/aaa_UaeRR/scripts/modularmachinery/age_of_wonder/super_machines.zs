@@ -1028,3 +1028,15 @@ RecipeBuilder.newBuilder("super_compactor_quasar_energy","super_compactor",1)
     .addOutput(<contenttweaker:quasar_energy> * 4000)
     .addInput(<contenttweaker:anti_viod> * 1)
     .build();
+//Pt(铂)=Potato+Tomato
+<thermalfoundation:material:134>.addTooltip("§ePt");
+RecipeBuilder.newBuilder("pt_p_t","dptf_spc",1)
+    .addOutput(<botania_tweaks:compressed_tiny_potato_8> * 1073741824)
+    .addOutput(<harvestcraft:tomatoitem> * 1073741824)
+    .addInput(<thermalfoundation:material:134> * 1)
+    .addRecipeTooltip([
+        "§9§l通过时空线圈。。。算了编不下去了",
+        "那我问你那我问你",
+        "Pt(铂)=Potato(土豆)+Tomato(番茄)",
+    ])
+    .build();

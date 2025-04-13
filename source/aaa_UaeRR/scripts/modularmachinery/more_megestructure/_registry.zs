@@ -25,12 +25,10 @@ RegistryHyperNet.addResearchStationType(ResearchStationType.create("kysn_researc
 
 //千载星辰
 MachineModifier.setMaxThreads("qzxc", 0);
-RegistryHyperNet.addDataProcessorType(DataProcessorType.create("qzxc", 100 * 1000000,
+RegistryHyperNet.addDataProcessorType(DataProcessorType.create("qzxc", 1,
         // 热量散发量 过热阈值
-        1,        2147483647)
-        .addRadiatorIngredient(3000000, [<liquid:ice> * 100], [<liquid:water> * 100])
-        .addRadiatorIngredient(3000000, [<liquid:liquid_nitrogen> * 8], [<liquid:nitrogen> * 2560])
-        .addRadiatorIngredient(3000000, [<liquid:cryotheum> * 7], [])
+        0,        2000000000)
+        .addRadiatorIngredient(2000000000, [<liquid:cryotheum> * 7], [])
 );
 MachineModifier.setInternalParallelism("qzxc", 16);
 
