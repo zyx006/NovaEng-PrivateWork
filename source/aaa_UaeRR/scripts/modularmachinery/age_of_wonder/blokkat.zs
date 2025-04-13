@@ -68,15 +68,14 @@ MMEvents.onControllerGUIRender("blokkat",function(event as ControllerGUIRenderEv
 <modularmachinery:blokkat_factory_controller>.addTooltip("§a§l关于ECO-QD");
 <modularmachinery:blokkat_factory_controller>.addTooltip("§a§lECO-QD是ECO实验室在星海10721年研发出的基于内置类星体及开采者的武器");
 <modularmachinery:blokkat_factory_controller>.addTooltip("§a§l通过类星体的巨大引力施加至敌方舰船或星体至上,这股能量也被工作人员成为'亿万烈阳之怒'");
-<modularmachinery:blokkat_factory_controller>.addTooltip("§l创造me元件jei标记控制器获取");
-<contenttweaker:stellaris_shipboard_ship_mk3>.addTooltip("§a§l归墟引弦MK-IV:您无权查看ECO-T22及以上档案");
-<contenttweaker:stellaris_shipboard_ship_mk3>.addTooltip("§a§l'你要相信我,收割这个概念绝对不是从群星mod订阅量第二名里的最强天灾获得的'————芙提雅如是说");
+<contenttweaker:stellaris_shipboard_ship_mk4>.addTooltip("§a§l归墟引弦MK-IV:您无权查看ECO-T22及以上档案");
+<contenttweaker:stellaris_shipboard_ship_mk4>.addTooltip("§a§l'你要相信我,收割这个概念绝对不是从群星mod订阅量第二名里的最强天灾获得的'————芙提雅如是说");
 MachineModifier.addCoreThread("blokkat", FactoryRecipeThread.createCoreThread("§a§lECO-D格纳库"));
 MachineModifier.addCoreThread("blokkat", FactoryRecipeThread.createCoreThread("§a§l'收割行动'船坞"));
 MachineModifier.addCoreThread("blokkat", FactoryRecipeThread.createCoreThread("§a§l'收割行动'监控"));
 MachineModifier.addCoreThread("blokkat", FactoryRecipeThread.createCoreThread("§a§l'收割行动'物资接收器"));
 MachineModifier.setMaxThreads("blokkat",0);
-MachineModifier.setInternalParallelism("blokkat", 1073741824);
+MachineModifier.setInternalParallelism("blokkat", 2000000000);
 RecipeBuilder.newBuilder("aw_ship_board_ship_mk4", "ark_space_station", 3600)
     .addInput(<contenttweaker:aw_pmc_pro> * 2)
     .addInput(<contenttweaker:stellaris_shipboard_ship_mk3> * 2)
@@ -249,3 +248,12 @@ RecipeBuilder.newBuilder("blokkat_recive","blokkat",1)
     .addRecipeTooltip("§a§l将收割星系的资源接收,并行数取决于§c§l已收割星系§a§l数量§f")
     .setThreadName("§a§l'收割行动'物资接收器")
     .build();
+//blokkat=猫块=猫,所以我写个黄油吐司猫面包发电机没问题吧
+RecipeBuilder.newBuilder("blokkat_energy","cat_vs_bread",1)
+    .addEnergyPerTickOutput(4000000000000)
+    .addRecipeTooltip("§a§l????????????????§f")
+    .addRecipeTooltip("§a§l爱猫TV之黄油吐司vs猫你们知道吗,天哪不会吧怎么可能§f")
+    .build();
+<modularmachinery:blokkat_factory_controller>.addTooltip("§a§l注:本型号控制台受到ECOAI监管,收割范围限于10个银河系范围内");
+<modularmachinery:blokkat_factory_controller>.addTooltip("§a§l通过创造me元件标记获取");
+<modularmachinery:cat_vs_bread_controller>.addTooltip("§a§l通过创造me元件标记获取");
