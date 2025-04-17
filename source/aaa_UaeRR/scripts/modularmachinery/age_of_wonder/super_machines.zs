@@ -884,7 +884,7 @@ RecipeBuilder.newBuilder("pmc_item_super_fucking_odal", "super_fucking_odal",720
         ])
         .build();
 //宇宙矩阵
-RecipeBuilder.newBuilder("ODAL_AR6", "super_fucking_odal", 1)
+RecipeBuilder.newBuilder("yzjz_super_fucking_odal", "super_fucking_odal", 1)
         .addInput(<contenttweaker:anti_viod> * 1)
         .addInput(<contenttweaker:space_time_condensation_block> * 1024)
         .addInput(<avaritia:block_resource:1> * 16384)
@@ -898,23 +898,23 @@ RecipeBuilder.newBuilder("ODAL_AR6", "super_fucking_odal", 1)
         .build();
 MachineModifier.setInternalParallelism("super_fucking_odal", 1048576);
 MachineModifier.setMaxThreads("super_fucking_odal", 0);
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l跨维锻造核心").addRecipe("aw_odal_anti_viod_keeper"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-I"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-II"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-III"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-IV"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-V"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VI"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VII"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VIII"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-IX"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-X"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XI"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XII"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XIII"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XIV"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XV"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XVI"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l跨维锻造核心").addRecipe("aw_odal_anti_viod_keeper"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-I"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-II"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-III"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-IV"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-V"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VI"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VII"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VIII"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-IX"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-X"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XI"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XII"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XIII"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XIV"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XV"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XVI"));
 //舰载机配方
 RecipeBuilder.newBuilder("aw_ship_board_ship_mk2", "ark_space_station", 3600)
     .addInput(<contenttweaker:industrial_circuit_v4> * 128)
