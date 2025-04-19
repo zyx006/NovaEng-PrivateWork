@@ -1,3 +1,4 @@
+作者QQ:2741449505
 将压缩文件拖到对应整合包版本的根目录(一般为.minecraft\versions\NovaEngineering-World-x.xx.x)
 直接解压到此处即可
 注意:一定要点击覆盖!
