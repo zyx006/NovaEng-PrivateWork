@@ -522,6 +522,17 @@ RecipeBuilder.newBuilder("aw_s_msm", "aw_s_msm", 1)
     .addOutput(<minecraft:prismarine_crystals> * 32)
     .addOutput(<minecraft:fish> * 64)
     .addOutput(<minecraft:gunpowder> * 64)
+    .addOutput(<botania:manaresource:5> * 64)
+    .addOutput(<extrabotany:material:3>)
+    .addOutput(<botania:manaresource> * 16)
+    .addOutput(<botania:managlass> * 16)
+    .addOutput(<botania:quartz:1> * 16)
+    .addOutput(<botania:manaresource:2> * 16)
+    .addOutput(<botania:manaresource:23> * 16)
+    .addOutput(<botania:manaresource:1> * 16)
+    .addOutput(<extrabotany:buddhistrelics>).setChance(0.1)
+    .addOutput(<enderio:item_material:20> * 64)
+    .addOutput(<thermalfoundation:material:770> * 64)
     .addRecipeTooltip([
         "§3§l通过展开奇点创造一个微型宇宙并给予智能自迭代"
     ])
@@ -759,6 +770,7 @@ RecipeBuilder.newBuilder("arc_ark_ingot_super_fucking_odal", "super_fucking_odal
     .addItemInputs([
         <ore:ingotInfinity>
     ])
+    .addInput(<contenttweaker:crystalpurple> * 1)
     .addOutput(<additions:novaextended-star_ingot> * 2)
     .addRecipeTooltip([
         "§3§l通过创世之力将原子重新排列"
@@ -1038,5 +1050,23 @@ RecipeBuilder.newBuilder("pt_p_t","dptf_spc",1)
         "§9§l通过时空线圈。。。算了编不下去了",
         "那我问你那我问你",
         "Pt(铂)=Potato(土豆)+Tomato(番茄)",
+    ])
+    .build();
+//Melons.gif(指1G西瓜) =Mg(镁)+Li(锂)+Fe(铁)+O(氧)+Sn(锡)
+<nuclearcraft:ingot:7>.addTooltip("§eMg");
+<nuclearcraft:ingot:6>.addTooltip("§eLi");
+<minecraft:iron_ingot>.addTooltip("§eFe");
+<thermalfoundation:material:129>.addTooltip("§eSn");
+RecipeBuilder.newBuilder("melon_melon_fuck_you","dptf_spc",1)
+    .addOutput(<minecraft:melon_block> * 1073741824)
+    .addInput(<nuclearcraft:ingot:7> * 1)
+    .addInput(<nuclearcraft:ingot:6> * 1)
+    .addInput(<minecraft:iron_ingot> * 1)
+    .addInput(<thermalfoundation:material:129> * 1)
+    .addInput(<liquid:oxygen> * 1000)
+    .addRecipeTooltip([
+        "§9§l通过时空线圈。。。算了编不下去了",
+        "那我问你那我问你",
+        "Melons.gif(指1G西瓜) =Mg(镁)+Li(锂)+Fe(铁)+O(氧)+Sn(锡)",
     ])
     .build();
