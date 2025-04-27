@@ -18373,7 +18373,8 @@
             "y": -1,
             "z": 0,
             "elements": [
-                "modularmachinery:blockenergyinputhatch"
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
             ]
         },
         {
@@ -42705,7 +42706,8 @@
             "y": 1,
             "z": 0,
             "elements": [
-                "modularmachinery:blockmepatternprovider"
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:bloackmeitemoutputbus"
             ]
         },
         {
@@ -48685,7 +48687,8 @@
             "y": -1,
             "z": 0,
             "elements": [
-                "modularmachinery:blockenergyinputhatch"
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
             ]
         },
         {
@@ -54969,7 +54972,8 @@
             "y": -1,
             "z": 0,
             "elements": [
-                "modularmachinery:blockoutputbus"
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:bloackmeitemoutputbus"
             ]
         },
         {
@@ -61068,8 +61072,8 @@
             "y": 1,
             "z": 0,
             "elements": [
-                "modularmachinery:blockmefluidinputbus",
-                "modularmachinery:blockmepatternprovider"
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
             ]
         },
         {
@@ -61362,8 +61366,8 @@
             "y": 0,
             "z": 0,
             "elements": [
-                "modularmachinery:blockfluidinputhatch",
-                "modularmachinery:blockmepatternprovider"
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
             ]
         },
         {
@@ -61658,8 +61662,8 @@
             "y": 0,
             "z": 0,
             "elements": [
-                "modularmachinery:blockfluidinputhatch",
-                "modularmachinery:blockmepatternprovider"
+                "casings_all",
+                "modularmachinery:blockmepatternprovider@0"
             ]
         },
         {
@@ -92491,7 +92495,8 @@
             "y": 1,
             "z": 0,
             "elements": [
-                "modularmachinery:blockmepatternprovider"
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:bloackmeitemoutputbus"
             ]
         },
         {

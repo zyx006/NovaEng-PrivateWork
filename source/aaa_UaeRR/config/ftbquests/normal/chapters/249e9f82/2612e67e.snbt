@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 1.0d,
+	dependencies: [
+		"b865213e"
+	],
+	tasks: [{
+		uid: "9a4169ed",
+		type: "item",
+		items: [{
+			item: "modularmachinery:stellar_firmament_anchor_controller"
+		}]
+	}]
+}

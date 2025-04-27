@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: -1.0d,
+	dependencies: [
+		"8767c68f"
+	],
+	tasks: [{
+		uid: "7941bd87",
+		type: "item",
+		items: [{
+			item: "modularmachinery:kysn_core_factory_controller"
+		}]
+	}]
+}

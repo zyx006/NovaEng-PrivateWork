@@ -4,6 +4,28 @@
 import novaeng.hypernet.RegistryHyperNet;
 import novaeng.hypernet.research.ResearchCognitionData;
 
+RegistryHyperNet.addResearchCognitionData(ResearchCognitionData.create("starting_mega_tech", "黎明的曙光",<modularmachinery:gshag_controller>,    // 预览物品
+        10.8,                                 // 科技等级（难度）
+        250000000,                          // 需要科研点
+        5000.0F,                               // 最低每 Tick 算力要求
+        [
+            "建造集成式处理车间后,Nova至高无上帝国的技术进入了爆炸式增长",
+            "工程部看着隔壁科研部无止境的§c§m内卷§f工作,他们开始思考自己的落后",
+            "渐渐地,总部对如今的产能产生极大不满",
+            "工程部逐渐失去了信心,就连eco-y7+满超频复制机配合终极并行仓也无法满足需求",
+            "工程部将无尽这一材料与其分支当做黎明的曙光",
+            "不能再等待了",
+            "By GigaV4.3.3 BugFix & Add Tech * 1 & Pull Request",
+        ],
+        [
+            "§2什么都没解锁",
+        ],
+        [
+            "eco_y7",
+            "assembly_line",
+            "tokmak_reactor",                               // 前置科技
+        ]
+));
 RegistryHyperNet.addResearchCognitionData(ResearchCognitionData.create("gshag", "§k巨构计划§k§k§k§k:平流层风力发电初步运用",<modularmachinery:gshag_controller>,    // 预览物品
         10.8,                                 // 科技等级（难度）
         250000000,                          // 需要科研点
@@ -23,7 +45,8 @@ RegistryHyperNet.addResearchCognitionData(ResearchCognitionData.create("gshag", 
         [
             "eco_y7",
             "assembly_line",
-            "tokmak_reactor",                               // 前置科技
+            "tokmak_reactor",
+            "starting_mega_tech",                               // 前置科技
         ]
 ));
 
@@ -66,8 +89,9 @@ RegistryHyperNet.addResearchCognitionData(ResearchCognitionData.create("ACAA", "
             "§2初始并行数:2048",
         ],
         [
-            "ACAA",
-            "assembly_line",                       // 前置科技
+            "APAC",
+            "assembly_line",
+            "gshag_factory"                       // 前置科技
         ]
 ));
 
@@ -87,7 +111,8 @@ RegistryHyperNet.addResearchCognitionData(ResearchCognitionData.create("APAC", "
             "§2初始并行数:8192",
         ],
         [
-            "assembly_line",                           // 前置科技
+            "assembly_line",
+            "gshag_factory"                           // 前置科技
         ]
 ));
 
@@ -110,7 +135,8 @@ RegistryHyperNet.addResearchCognitionData(ResearchCognitionData.create("G_MT", "
         ],
         [
             "starburst_reactor",
-            "assembly_line",                      // 前置科技
+            "assembly_line",
+            "gshag_factory"                      // 前置科技
         ] 
 ));
 
@@ -132,7 +158,8 @@ RegistryHyperNet.addResearchCognitionData(ResearchCognitionData.create("G_IC", "
         ],
         [
             "starburst_reactor",
-            "assembly_line",                      // 前置科技
+            "assembly_line",
+            "gshag_factory"                      // 前置科技
         ] 
 ));
 
@@ -154,7 +181,8 @@ RegistryHyperNet.addResearchCognitionData(ResearchCognitionData.create("G_CO", "
         ],
         [
             "starburst_reactor",
-            "assembly_line",                      // 前置科技
+            "assembly_line", 
+            "gshag_factory"                     // 前置科技
         ] 
 ));
 
@@ -175,7 +203,8 @@ RegistryHyperNet.addResearchCognitionData(ResearchCognitionData.create("G_HTMP",
         ],
         [
             "starburst_reactor",
-            "assembly_line",                      // 前置科技
+            "assembly_line",   
+            "gshag_factory"                   // 前置科技
         ] 
 ));
 
@@ -196,7 +225,8 @@ RegistryHyperNet.addResearchCognitionData(ResearchCognitionData.create("SE_tech1
         ],
         [
             "starburst_reactor",
-            "assembly_line",                      // 前置科技
+            "assembly_line", 
+            "gshag_factory"                     // 前置科技
         ] 
 ));
 

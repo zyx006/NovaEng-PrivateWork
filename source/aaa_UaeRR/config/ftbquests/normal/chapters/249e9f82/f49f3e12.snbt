@@ -1,0 +1,30 @@
+{
+	x: -4.0d,
+	y: 1.0d,
+	text: [
+		"现阶段其实没必要做,但是举星者出来之后不做存储爆炸,建议先搓个几组这东西"
+	],
+	dependencies: [
+		"c93f4130"
+	],
+	tasks: [{
+		uid: "381b1058",
+		type: "item",
+		items: [{
+			id: "nae2:storage_cell_fluid_singularity",
+			tag: {}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "387fc7a0",
+		type: "item",
+		items: [{
+			id: "nae2:storage_cell_singularity",
+			tag: {}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

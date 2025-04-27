@@ -1,0 +1,20 @@
+{
+	title: "终末科技",
+	icon: "harvestcraft:bbqchickenpizzaitem",
+	always_invisible: 0b,
+	group: 0,
+	default_quest_shape: "circle",
+	images: [{
+		x: 9.5d,
+		y: -1.0d,
+		width: 1.0d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "minecraft:minecraft\\versions\\novaengineering-world-1.17.2-curseforge\\resources\\contenttweaker\\textures\\items\\stellaris_shipboard_ship.png",
+		hover: [
+			"终章"
+		],
+		click: "",
+		dev: 0b
+	}]
+}
