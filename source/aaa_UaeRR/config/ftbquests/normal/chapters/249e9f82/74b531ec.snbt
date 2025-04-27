@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -3.0d,
+	dependencies: [
+		"8767c68f"
+	],
+	tasks: [{
+		uid: "48a285cf",
+		type: "item",
+		items: [{
+			item: "modularmachinery:wzjyq_controller"
+		}]
+	}]
+}

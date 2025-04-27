@@ -1,0 +1,14 @@
+{
+	x: -6.5d,
+	y: -3.0d,
+	dependencies: [
+		"3681cb13"
+	],
+	tasks: [{
+		uid: "a76caefa",
+		type: "item",
+		items: [{
+			item: "modularmachinery:g_ic_factory_controller"
+		}]
+	}]
+}
