@@ -1,0 +1,13 @@
+{
+    "name": "§c「§3求真§c」§e矩阵§9聚合§1之门§r",
+    "icon": "modularmachinery:truthseek_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 18,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:truthseek_factory_controller",
+            "text": "横亘在我们之前的真理之门的具象化，唯有以无穷的能量、物质、时空、灵魂以及魔力将之推开，我们才能够真正登堂入室"
+        }
+    ]
+}

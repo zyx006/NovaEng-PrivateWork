@@ -1,0 +1,13 @@
+{
+    "name": "弦歌缭绕",
+    "icon": "modularmachinery:songofsuperstring_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:songofsuperstring_factory_controller",
+            "text": "更为强大的原子重构机$(br)速度为原子重构机的10倍，制作无尽锭的配方有着6并行，其余为4并行$(br)由于结构的对称性，可以4共用$(br)有着提高速度的结构升级，可以在JEI的多方块结构信息之中查看"
+        }
+    ]
+}

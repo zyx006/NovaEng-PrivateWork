@@ -1,0 +1,13 @@
+{
+    "name": "寰宇装配机",
+    "icon": "modularmachinery:universalassembly_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:universalassembly_factory_controller",
+            "text": "为装配线自动化的复杂、高级元件的低效和专业化装配线的昂贵而感到难受吗？这个机器将是你的不二之选！它甚至还兼容集成化处理车间的配方！$(br)虽然造价依旧不菲，但却也有着多达16的线程，并且每个线程都能够享受到4并行$(br)不过无论是在什么状态，它都会有着9000TFloPs的基础算力消耗，所以如果不用的时候，或许可以将之拆卸或者关闭以节约你的算力"
+        }
+    ]
+}

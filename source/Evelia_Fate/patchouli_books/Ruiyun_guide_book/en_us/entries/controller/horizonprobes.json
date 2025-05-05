@@ -1,0 +1,13 @@
+{
+    "name": "视界探针",
+    "icon": "modularmachinery:horizonprobes_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 15,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:horizonprobes_factory_controller",
+            "text": "超越光速之后迈出的第一步$(br)可以借助于黑洞的力量将时空本身彻底粉碎，产出巨量的α 物质、时空连续体碎片和时空凝结块$(br)需要先制作出一个稳定的黑洞才能运行"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "电路装配线",
+    "icon": "modularmachinery:circuitassembly_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 13,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:circuitassembly_factory_controller",
+            "text": "更为高效地产出大量算力元件$(br)需要安装线圈以运行配方，额外的线圈能够获得速度加成，详情可以查看控制器的tooltips$(br)此机器仅能够通过无线电网供电"
+        }
+    ]
+}

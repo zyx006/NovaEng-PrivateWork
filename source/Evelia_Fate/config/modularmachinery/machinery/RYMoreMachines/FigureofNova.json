@@ -1,0 +1,8785 @@
+{
+    "registryname":"FigureofNova",
+    "localizedname": "Kasumi_Nova的手办",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": -4,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -13,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -22,
+            "z": -2,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -30,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -31,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -14,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "armourers_workshop:tile.skin-cube-glowing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -14,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -23,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -22,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -25,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -29,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "minecraft:wool@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -24,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -22,
+            "z": -2,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -27,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -28,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -30,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -26,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -28,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -29,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -31,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -27,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -30,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -26,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -14,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -22,
+            "z": 3,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -22,
+            "z": -2,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "minecraft:wool@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -31,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -20,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -31,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -27,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -24,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -19,
+            "z": 1,
+            "elements": [
+                "armourers_workshop:tile.skin-cube-glowing@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -25,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -31,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -25,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -30,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -24,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "minecraft:wool@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -26,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -19,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -18,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -22,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -22,
+            "z": 3,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -29,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -22,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -23,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "minecraft:wool@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -20,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -28,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -23,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -21,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -18,
+            "z": 1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -22,
+            "z": 0,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -22,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -23,
+            "z": 1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -24,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -22,
+            "z": 1,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -18,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -22,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -20,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -29,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -27,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -19,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -21,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -23,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -23,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -28,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "mekanism:glowplasticblock@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -26,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -26,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -24,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -29,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -31,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -20,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -22,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -25,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -21,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -31,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -18,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -27,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -21,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -25,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -18,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -30,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -28,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -19,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -24,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "mekanism:glowplasticblock@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -25,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -29,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -18,
+            "z": -1,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -29,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -22,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -14,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -26,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -31,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "minecraft:wool@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -23,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "armourers_workshop:tile.skin-cube-glowing@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -19,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -28,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -31,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -27,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -26,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -22,
+            "z": -1,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -24,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -14,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -20,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -27,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -29,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -31,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -25,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -22,
+            "z": -2,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -28,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "armourers_workshop:tile.skin-cube-glowing@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -21,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -19,
+            "z": -1,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -30,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -24,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -31,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -20,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -25,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -19,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "minecraft:wool@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -21,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -22,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -18,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -18,
+            "z": 0,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "minecraft:wool@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -23,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -21,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -19,
+            "z": -1,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -23,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -19,
+            "z": 2,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -31,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -18,
+            "z": 1,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -25,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -19,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -21,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -19,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -21,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -22,
+            "z": 1,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "armourers_workshop:tile.skin-cube-glowing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -19,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -31,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -22,
+            "z": 3,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -18,
+            "z": 1,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -26,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -28,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -30,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -30,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -27,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -14,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -29,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -21,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -29,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -14,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -22,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -27,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -23,
+            "z": 0,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@6"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -24,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -18,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -14,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -19,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -30,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -20,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -22,
+            "z": -2,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -28,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -31,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -25,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -27,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -21,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -18,
+            "z": 1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -26,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -23,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -25,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -19,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -20,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -25,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -31,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -21,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -22,
+            "z": 3,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -19,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -14,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -23,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -21,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -29,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -30,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -19,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -20,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -22,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -31,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -30,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -26,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -18,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -21,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -23,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "minecraft:wool@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -19,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -25,
+            "z": 1,
+            "elements": [
+                "armourers_workshop:tile.skin-cube-glowing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -20,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -13,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -25,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -18,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -21,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -24,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -19,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -27,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -22,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -29,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -30,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -21,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -11,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -25,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -9,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -28,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -29,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -31,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -26,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -24,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -28,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -22,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -24,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -23,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -13,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -27,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -28,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -23,
+            "z": 1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -29,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -26,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -18,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -27,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -24,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -30,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -20,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -20,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -26,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -13,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -25,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -21,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -29,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -22,
+            "z": -2,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -19,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -31,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -15,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:wool@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -21,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -27,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -18,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -20,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -30,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -22,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -26,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -19,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -28,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -22,
+            "z": -2,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -31,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -22,
+            "z": 2,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -23,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -21,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -22,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -13,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -29,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "armourers_workshop:tile.skin-cube-glowing@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -18,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -23,
+            "z": 2,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -11,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -22,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -23,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -28,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -26,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -24,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -9,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -18,
+            "z": 2,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -15,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -25,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -31,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -27,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -25,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -19,
+            "z": 2,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -17,
+            "z": 2,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -24,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -19,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -26,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -29,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "armourers_workshop:tile.skin-cube-glowing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -27,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -12,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -28,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -31,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -27,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -30,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -29,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -31,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -28,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -30,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -26,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -31,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -24,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -31,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -25,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -30,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -16,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -13,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -22,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "minecraft:stained_hardened_clay@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -14,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -23,
+            "z": -1,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -17,
+            "z": -1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:wool@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -30,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -13,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "minecraft:wool@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -27,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -19,
+            "z": 0,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -13,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -28,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -29,
+            "z": 1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -22,
+            "z": -2,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -31,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -30,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -22,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -22,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -18,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -19,
+            "z": 1,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -31,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -24,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -18,
+            "z": -1,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -21,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -24,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -14,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -20,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -18,
+            "z": 2,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -23,
+            "z": 0,
+            "elements": [
+                "minecraft:wool@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -13,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -26,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -18,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -20,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -31,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -25,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -18,
+            "z": 0,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -18,
+            "z": -1,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -22,
+            "z": 0,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -19,
+            "z": 0,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -20,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -31,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -22,
+            "z": -1,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -27,
+            "z": 0,
+            "elements": [
+                "armourers_workshop:tile.skin-cube-glowing@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -28,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -27,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -16,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -15,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -30,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -31,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -29,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": -3,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -14,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -19,
+            "z": 1,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -13,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": 3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -31,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": 4,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -26,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -13,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "minecraft:stained_hardened_clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -19,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -20,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:concrete@14"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -31,
+            "z": 0,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -17,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -18,
+            "z": 0,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": -3,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -28,
+            "z": -1,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -9,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -13,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -28,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -10,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -22,
+            "z": 3,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -26,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -12,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -11,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@6"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -13,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -31,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -22,
+            "z": 2,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -24,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -20,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -11,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -10,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -8,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -7,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -22,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -19,
+            "z": 1,
+            "elements": [
+                "armourers_workshop:tile.skin-cube-glowing@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -18,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -9,
+            "z": 1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -14,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -22,
+            "z": 3,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -16,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -18,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -20,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -18,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -8,
+            "z": 0,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -12,
+            "z": -1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -24,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -15,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -12,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -8,
+            "z": -1,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -22,
+            "z": 2,
+            "elements": [
+                "minecraft:snow@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -17,
+            "z": 1,
+            "elements": [
+                "mekanism:glowplasticblock@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -7,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -20,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -16,
+            "z": 2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -22,
+            "z": 3,
+            "elements": [
+                "actuallyadditions:block_testifi_bucks_white_fence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": -2,
+            "elements": [
+                "minecraft:quartz_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -14,
+            "z": 2,
+            "elements": [
+                "minecraft:concrete@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -13,
+            "z": 1,
+            "elements": [
+                "minecraft:clay@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -10,
+            "z": 2,
+            "elements": [
+                "minecraft:stained_hardened_clay@9"
+            ]
+        }
+    ]}

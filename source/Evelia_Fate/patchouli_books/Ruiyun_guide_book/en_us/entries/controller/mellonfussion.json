@@ -1,0 +1,18 @@
+{
+    "name": "模块化瓜聚变",
+    "icon": "modularmachinery:deepmelon_controller",
+    "category": "patchouli:controller",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:deepmelon_controller",
+            "text": "可以一步将西瓜和水变成最终产物，也即液态高能燃料、HDPE弹和多余的氧气$(br)没有并行，但可以通过编程电路调整制造速度$(br)配合乙烯掌控者可以快速且高效地发电"
+        },
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:ethenecontroller_controller",
+            "text": "高效地燃烧乙烯以快速发电，避免在前期堆叠大量燃气发电机造成卡顿$(br)没有并行，但可以通过编程电路调整发电速度$(br)配合深度西瓜扭曲仪可以快速且高效地发电$(br)值得一提的是，使用后面的编程电路虽然会有更大的乙烯消耗量，但单位乙烯的发电量却是在增加的"
+        }
+    ]
+}

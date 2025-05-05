@@ -1,10 +1,8 @@
 1、私货王私货合集
 config\modularmachinery\machinery\
-    Evelia_Fate-machines
-scripts\contenttweaker
-    item_more.zs
+    RYMoreMachines
 scripts\modularmachinery
-    Evelia_Fate-scripts
+    RYMorescripts
 resources\contenttweaker\textures\items
     ark_launch_vehicle.png
     charged_max_energy_containers.png
@@ -15,5 +13,8 @@ resources\contenttweaker\textures\items
     steady_supercritical_photons.png
     sunrune.png
     truthmatrix.png
+    ...
 mods
     avaritiaio-1.4.jar
+patchouli_books
+    Ruiyun_guide_book

@@ -1,0 +1,42 @@
+{
+    "name": "仿星器系列",
+    "icon": "modularmachinery:stellarator_controller",
+    "category": "patchouli:controller",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "text",
+            "text": "这是一个和超零点/戴森球这两条线平行的后期发展线路，你几乎可以完全选择不走这条线路——如果你愿意舍弃其所拥有的廉价却巨大的产能的话"
+        },
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:stellarator_controller",
+            "text": "比高级火箭更能够快速高效地产出大量廉价的氦-3$(br)把你在月球上的建造机拿回来挖矿吧！你再也不会需要一次又一次地更换它们的位置了$(br)轻松且高效，就像是直接抽氦-3的虚拟油田一样"
+        },
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:compressed_stellarator_factory_controller",
+            "text": "更好地产出不定型水晶矩阵和托卡马克聚变反应堆二型的产物$(br)有一定量的反物质作为副产物，甚至还能无比高效产出大量氦-3并发电$(br)就连托卡马克也不会有这么庞大的发电量"
+        },
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:advanced_stellarator_factory_controller",
+            "text": "比常规手段更高效地产出无尽锭，但更重要的是会大量发电"
+        },
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:prototype_factory_controller",
+            "text": "大型化的仿星器，有着强大的产能$(br)相较于原子重构机配方，能够四倍地产出方舟锭，代价仅是需要核电工艺的冷却器固化一下$(br)由于其对称的结构，可以四个控制器共用一个结构以节省材料"
+        },
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:extreme_stellarator_factory_controller",
+            "text": "最终级的仿星器，有着高达200GRF/t的荒谬产能$(br)能够高效地生产调律源金和异世界水晶$(br)也是永恒新星增殖的辅助机"
+        },
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:artificial_star_factory_controller",
+            "text": "被约束于方寸之间的星空之神，足可以粉碎世界的屏障，产生无穷的寰宇之力$(br)通过输入氢、氦-3以及其余辅助材料发电和产出大量物质，详情可阅读tooltips$(br)其结构与§c「§6裁光§c」§b星海§a原初§c之髓§r完全相同且旋转对称，可以共用结构"
+        }
+    ]
+}

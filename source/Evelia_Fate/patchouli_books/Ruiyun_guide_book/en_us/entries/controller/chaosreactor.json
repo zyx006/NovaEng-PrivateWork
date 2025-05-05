@@ -1,0 +1,13 @@
+{
+    "name": "混沌反应堆",
+    "icon": "modularmachinery:chaosreactor_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:chaosreactor_factory_controller",
+            "text": "比复制机更好的生产混沌碎片的机器$(br)可以消耗uu物质将少量觉醒龙素变成大量的混沌碎片，同时少量发电$(br)就像煤炭和煤炭块的区别一样，在反应堆之中，1个觉醒龙块相当于10个觉醒龙锭"
+        }
+    ]
+}

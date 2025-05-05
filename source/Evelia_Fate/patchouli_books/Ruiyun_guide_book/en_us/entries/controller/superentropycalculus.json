@@ -1,0 +1,13 @@
+{
+    "name": "超熵演算机",
+    "icon": "modularmachinery:superentropycalculus_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 14,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:superentropycalculus_factory_controller",
+            "text": "终极的合金冶炼炉$(br)可以执行几乎所有相位炼化棱镜与高温合金熔铸枢纽的配方，更重要的是廉价生产极为大量的无尽锭并少量产出β 物质，是你继续向前迈步必不可少的机器$(br)需要先以无尽箱子的无穷空间创造出一个稳定持续的时空场，再为时空场充能，并提供足够的算力以演算数据，否则无法运行"
+        }
+    ]
+}

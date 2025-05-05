@@ -1,0 +1,13 @@
+{
+    "name": "§c「§6衡宇§c」§b六方§a巡天§c监测",
+    "icon": "modularmachinery:spacesurvey_controller",
+    "category": "patchouli:controller",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:spacesurvey_controller",
+            "text": "基于对星能的深度洞见而制造出来的强大机器$(br)可以无视月相快速制作星图，也可以相对简单地制作星座核心和完美水晶石$(br)也能够更高效地制作异端碎片-赤红"
+        }
+    ]
+}

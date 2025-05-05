@@ -1,0 +1,18 @@
+{
+    "name": "§c「§5玉衡§c」§2手工工场",
+    "icon": "modularmachinery:manufactory_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:terrace_controller",
+            "text": "基于获得女仆的仪式改造出来的幻想技术$(br)能够制作大量的人偶女仆$(br)是玉衡工场的重要前置"
+        },
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:manufactory_factory_controller",
+            "text": "通过“消耗”人偶女仆来进行工作的强大机器$(br)有着远超普通机器的生产力$(br)详细情况可以通过阅读控制器的tooltip以了解"
+        }
+    ]
+}
