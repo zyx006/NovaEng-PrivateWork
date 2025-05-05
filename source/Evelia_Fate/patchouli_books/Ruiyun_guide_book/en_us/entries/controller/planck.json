@@ -1,0 +1,13 @@
+{
+    "name": "普朗克之门",
+    "icon": "modularmachinery:thegateofplanck_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:thegateofplanck_factory_controller",
+            "text": "仅仅是在轨道上收集材料还是太慢了，直接登陆中子星表面直接挖掘才是最快速的$(br)需要JEI之中有着打开虫洞的提示的配方正在运行的时候，机器才能够消耗水晶矩阵产出中子素块$(br)所以请不要随意拆下控制器，会导致需要重新打开虫洞"
+        }
+    ]
+}

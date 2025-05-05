@@ -1,0 +1,6 @@
+{
+	"name": "§6机器",
+	"description": "一些全新的机器，通常有着强大的功能和不菲的造价$(br)基本上按照难度排序$(br)系列机器会放在一起，位置取决于难度最低的机器",
+	"icon": "modularmachinery:paradox_controller",
+	"sortnum": 0
+}

@@ -1,0 +1,23 @@
+{
+    "name": "玉衡工场材料",
+    "icon": "contenttweaker:surprise",
+    "category": "patchouli:item",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:surprise",
+            "text": "记录着实验室高层听到人偶工场这个计划时的有趣表情，是控制器的重要材料"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:mola",
+            "text": "在一点点铜上面镀金之后制造出来的货币，只能在工场内部流通，购买力非常一般，几乎只能买到生命维持相关的东西，不过却是工具人唯一认可的工资，所以缺少的话就会罢工"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:essencecore",
+            "text": "工具人死亡之后留下的核心，仍残留着将之制造出来的那位大妖怪的魔力，虽然不能点石成金，但却可以将原本蕴藏在岩石深处的矿物提取出来"
+        }
+    ]
+}

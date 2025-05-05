@@ -1,0 +1,23 @@
+{
+    "name": "超越物质生成机、创造计算机、星规阵列",
+    "icon": "modularmachinery:transcendentmattergenerator_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 12,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:transcendentmattergenerator_factory_controller",
+            "text": "更强大的ECO Y7-物质生成机，也能以液态能量的形式发电$(br)紫晶素生成没有并行，但可以通过编程电路调整速度$(br)发电可以通过催化剂增加产出速度，最高可达大约3PRF/tick$(br)两种配方的运行都需要先以无尽箱子的无穷空间创造出一个稳定持续的时空场，再在时空场之中充入巨量能量以模拟大爆炸才能运行（看不懂的话可以去翻这个机器的JEI配方）"
+        },
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:creativecomputer_factory_controller",
+            "text": "5级计算机，算力上限达到了9220PFloPs$(br)消耗紫晶素来冷却，冷却过后会残留少量液态能量"
+        },
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:stellarregulatorarray_factory_controller",
+            "text": "4级网络中心，算力上限9220PFloPs,最大连接数960"
+        }
+    ]
+}

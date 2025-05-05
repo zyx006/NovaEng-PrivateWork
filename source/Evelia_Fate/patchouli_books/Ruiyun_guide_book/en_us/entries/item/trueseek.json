@@ -1,0 +1,23 @@
+{
+    "name": "求真相关材料",
+    "icon": "contenttweaker:starry_orgin",
+    "category": "patchouli:item",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:sunrune",
+            "text": "通过特殊的方式聚合凝聚在一起的神异物品，虽然有着和其余符文相近的外形，但用途却是截然不同"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:starry_orgin",
+            "text": "无穷的地心奥秘、物质与时空被压缩于一片极小的区域之中，在恒星符文的催化之下产生了异常的变化，是几乎囊括了整个星空的神奇物质"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:infinitycore",
+            "text": "凝聚了大量无尽之力的核心，虽然不能以常规方式利用其中的物质或者算力，但却有着制造出一个全新世界的潜力"
+        }
+    ]
+}

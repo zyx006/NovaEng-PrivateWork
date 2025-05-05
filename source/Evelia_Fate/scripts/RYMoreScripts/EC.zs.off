@@ -1,0 +1,103 @@
+import mods.modularmachinery.MMEvents;
+import mods.modularmachinery.RecipeCheckEvent;
+import mods.modularmachinery.FactoryRecipeFinishEvent;
+import mods.modularmachinery.MachineModifier;
+import mods.modularmachinery.FactoryRecipeThread;
+import mods.modularmachinery.ControllerGUIRenderEvent;
+
+
+MachineModifier.setMaxThreads("EC",0);//将工厂控制器自带的线程清空，避免出现一些bug
+MachineModifier.addCoreThread("EC",FactoryRecipeThread.createCoreThread("电量输入").addRecipe("EnergyInput"));
+MachineModifier.addCoreThread("EC",FactoryRecipeThread.createCoreThread("电量输出").addRecipe("EnergyOutput"));
+MachineModifier.addCoreThread("EC",FactoryRecipeThread.createCoreThread("能量聚合"));//为机器添加三个名字特定的线程，在线程池之中的位置取决于代码的顺序
+//addRecipe(string a)会让这个线程只能够执行名字为a的配方，能够有效限制配方随意占用线程的现象
+//对于已经放置的这种控制器，更改这部分之后会需要拆除并重新放置才会生效
+
+val maxenergy = 100000000000 as long;
+val energyin = 1000 as long;
+val energyout = 1000 as long;//将输入输出电量的速度以及可存储的最大电量写成一个变量，以方便后续更改和操作
+RecipeBuilder.newBuilder("EnergyInput","EC",1)
+    .addEnergyPerTickInput(energyin)
+    .addPreCheckHandler(function(event as RecipeCheckEvent){
+        val data = event.controller.customData;//获得控制器的自定义nbt，
+        var dData = D(data);//将自定义nbt转化为容易以代码进行交互的形式
+        var energy = dData.getLong("energy",0);//获得被命名为energy的自定义nbt，如果尚不存在则会定义为零
+        if((energy + energyin) > maxenergy){
+            event.setFailed("电量存储已达极限！");//当已有电量加上输入电量会超过上限时则不会输入电量
+        }
+    })
+    .addFactoryFinishHandler(function(event as FactoryRecipeFinishEvent){
+        val data = event.controller.customData;
+        var dData = D(data);
+        val map = data.asMap();//将自定义nbt的结构转化为一个map，以方便后续读写
+        var energy = dData.getLong("energy",0);
+        map["energy"] = energy + energyin;//将map之中的energy这个部分加上energyin的数值
+        event.controller.customData = data;//同步数值，如果没有这一步，自定义nbt不会改变
+    })
+    .setThreadName("电量输入")//让本配方只能在这个线程之中运行
+    .build();
+RecipeBuilder.newBuilder("EnergyOutput","EC",1)
+    .addEnergyPerTickOutput(energyout)
+    .addPreCheckHandler(function(event as RecipeCheckEvent){
+        val data = event.controller.customData;
+        var dData = D(data);
+        var energy = dData.getLong("energy",0);
+        val map = data.asMap();
+        if(energy < energyout){
+            event.setFailed("电量不够输出！");
+        }else{
+            map["energy"] = energy - energyout;
+        }
+        event.controller.customData = data;
+    })
+    .setThreadName("电量输出")
+    .build()
+RecipeBuilder.newBuilder("EnergyOutput","EC",1)
+    .addInputs([
+        <minecraft:coal> * 256,
+    ])
+    .addOutput(<minecraft:diamond_block>)
+    .addPreCheckHandler(function(event as RecipeCheckEvent){
+        val data = event.controller.customData;
+        var dData = D(data);
+        var energy = dData.getLong("energy",0);
+        val map = data.asMap();
+        if(energy < 5000000){
+            event.setFailed("能量存储不够！");
+        }else{
+            map["energy"] = energy - 250000;
+        }
+        event.controller.customData = data;
+    })
+    .addRecipeTooltip("需要存储5M的电量","会消耗250k的电量")
+    //在JEI的配方显示之中给这个配方添加一个介绍，输入输出电量的部分也可以添加类似的介绍
+    //中间以,分隔的两个介绍会分开成两行，可以用以避免配方页面过长，不方便观看
+    .setThreadName("能量聚合")//前面的输入输出已经限制在了特定的线程之中，并且对应的线程也只能运行这两个配方，所以其实这里可以不添加这部分
+    .build()
+MMEvents.onControllerGUIRender("EC",function(event as ControllerGUIRenderEvent){
+    val ctrl = event.controller;
+    val data = ctrl.customData;
+    val dData = D(data);
+    val energy = dData.getLong("energy",0);
+    var info as string[] = [];//定义空的一个字符串数组，并逐渐添加，这样的格式可以让之后的查看更加轻松
+    info += "—————能量核心监控器—————";
+    info += formatNumber(energy)+"/"+formatNumber(maxenergy);
+    event.extraInfo = info;//将添加的gui信息显示上去，没有这一步则不会显示
+});
+function formatNumber(value as long) as string {
+    if (value < 1000) {
+        return "" + value;
+    } else if (value < 1000000) {
+        return "" + (value / 1000) + "K";
+    } else if (value < 1000000000) {
+        return "" + ((value / 1000) as float / 1000) + "M";
+    } else if (value < 1000000000000) {
+        return "" + ((value / 1000000) as float / 1000) + "G";
+    } else if (value < 1000000000000000) {
+        return "" + ((value / 1000000000) as float / 1000) + "T";
+    } else if (value < 1000000000000000000) {
+        return "" + ((value / 1000000000000) as float / 1000) + "P";
+    } else {
+        return "" + ((value / 1000000000000000) as float / 1000) + "E";
+    }
+}

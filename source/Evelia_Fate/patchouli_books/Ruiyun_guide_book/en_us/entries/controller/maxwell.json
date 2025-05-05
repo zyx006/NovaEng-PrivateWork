@@ -1,0 +1,18 @@
+{
+    "name": "电磁解离、物质结构破坏机",
+    "icon": "modularmachinery:electromagnetic_dissociation_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:electromagnetic_dissociation_factory_controller",
+            "text": "更强大的电解机，有着512的基础并行和多达5个的并行控制器位置$(br)除此之外，还能够将液态氘氚燃料分离成氘和氚$(br)如果使用足够好的结构升级的话，会使得配方执行时间小于1t，从而获得更高的并行$(br)可以和物质结构破坏机共用同一个结构以节省结构升级"
+        },
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:structural_failure_factory_controller",
+            "text": "更强大的粉碎机，有着512的基础并行和多达5个的并行控制器位置$(br)除此之外，还能够将中子素尘埃粉碎成二重压缩基岩粉块（再也不用一直挂着sag磨粉机了）$(br)如果使用足够好的结构升级的话，会使得配方执行时间小于1t，从而获得更高的并行$(br)可以和电磁解离机共用同一个结构以节省结构升级"
+        }
+    ]
+}

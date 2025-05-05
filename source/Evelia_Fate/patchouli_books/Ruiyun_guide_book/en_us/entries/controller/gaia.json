@@ -1,0 +1,13 @@
+{
+    "name": "盖亚共振器",
+    "icon": "modularmachinery:resonatorofgaia_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 11,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:resonatorofgaia_factory_controller",
+            "text": "更加强大的尘世维度之门$(br)需要输入10mb/tick的液态魔力以维持基本运行，每个配方都可以享受到32并行$(br)需要注意的是，控制器的原料有着律者核心种类的要求，无法制作的时候可以看看律者核心种类是否正确"
+        }
+    ]
+}
