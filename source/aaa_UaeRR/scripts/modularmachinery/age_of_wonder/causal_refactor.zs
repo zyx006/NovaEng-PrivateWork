@@ -288,35 +288,35 @@ RecipeBuilder.newBuilder("cr_electric_motorfirst" ,"causal_refactor", 1)
         .build();
 RecipeBuilder.newBuilder("cr_sensor_first" ,"causal_refactor", 1)
         .addInput(<thermalfoundation:material:130>)
-        .addOutput(<contenttweaker:sensor_v2>)
+        .addOutput(<contenttweaker:sensor_v1>)
         .addRecipeTooltip([
                 "§6§l终焉的造物,'更多巨构'产能的极限"
             ])
         .build();
 RecipeBuilder.newBuilder("cr_field_generator_first", "causal_refactor", 1)
         .addInput(<thermalfoundation:material:136>)
-        .addOutput(<contenttweaker:field_generator_v2>)
+        .addOutput(<contenttweaker:field_generator_v1>)
         .addRecipeTooltip([
                 "§6§l终焉的造物,'更多巨构'产能的极限"
             ])
         .build();
 RecipeBuilder.newBuilder("cr_industrial_circuit_first" ,"causal_refactor", 1)
         .addInput(<thermalfoundation:material:129>)
-        .addOutput(<contenttweaker:industrial_circuit_v2>)
+        .addOutput(<contenttweaker:industrial_circuit_v1>)
         .addRecipeTooltip([
                 "§6§l终焉的造物,'更多巨构'产能的极限"
             ])
         .build();
 RecipeBuilder.newBuilder("cr_energized_fuel_first" ,"causal_refactor", 1)
         .addInput(<minecraft:coal>)
-        .addOutput(<contenttweaker:energized_fuel_v2>)
+        .addOutput(<contenttweaker:energized_fuel_v1>)
         .addRecipeTooltip([
                 "§6§l终焉的造物,'更多巨构'产能的极限"
             ])
         .build();
 RecipeBuilder.newBuilder("cr_engineering_battery_first", "causal_refactor", 1)
         .addInput(<thermalfoundation:material:132>)
-        .addOutput(<contenttweaker:engineering_battery_v2>)
+        .addOutput(<contenttweaker:engineering_battery_v1>)
         .addRecipeTooltip([
                 "§6§l终焉的造物,'更多巨构'产能的极限"
             ])

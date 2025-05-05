@@ -40,5 +40,6 @@ RecipeBuilder.newBuilder("infinite_cell", "miracle_top", 1)
         .addRecipeTooltip("§l§d时代的终焉")
         .addInput(<nae2:storage_cell_singularity> * 1024)
         .addInput(<contenttweaker:aw_pmc_pro> * 128)
+        .addInput(<contenttweaker:ftyingot> * 4)
         .addOutput(<appliedenergistics2:creative_storage_cell> * 1048576)
         .build();
