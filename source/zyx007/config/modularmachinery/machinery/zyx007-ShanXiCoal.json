@@ -1,0 +1,85 @@
+{
+	"registryname": "shanxi_coal",
+    "localizedname": "§6山西煤矿",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "has-factory": true,
+    "parts": [
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmefluidoutputbus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockparallelcontroller"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockupgradebus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blocksmartinterface@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockmeiteminputbus"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        }
+    ]}

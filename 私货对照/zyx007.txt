@@ -29,3 +29,9 @@ scripts
 5、数据库研究数据转移
 scripts
     zyx007-move_research.zs
+
+6、山西煤矿
+config\modularmachinery\machinery
+    zyx007-ShanXiCoal.json
+scripts
+    zyx007-ShanXiCoal.zs
