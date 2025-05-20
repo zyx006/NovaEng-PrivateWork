@@ -5204,7 +5204,7 @@
             "y": -6,
             "z": -7,
             "elements": [
-                "minecraft:daylight_detector@9"
+                "minecraft:daylight_detector"
             ]
         },
         {
@@ -6148,7 +6148,7 @@
             "y": -6,
             "z": -7,
             "elements": [
-                "minecraft:daylight_detector@9"
+                "minecraft:daylight_detector"
             ]
         },
         {
