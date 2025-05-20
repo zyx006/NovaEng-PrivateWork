@@ -1,21 +1,732 @@
 {
-	"registryname": "shanxi_coal",
+    "registryname": "shanxi_coal",
     "localizedname": "§6山西煤矿",
     "failure-action": "still",
     "requires-blueprint": false,
     "has-factory": true,
     "parts": [
         {
-            "x": 1,
-            "y": -2,
+            "x": 14,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": -10,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
             "z": 0,
             "elements": [
-                "modularmachinery:blockoutputbus",
-                "modularmachinery:blockmeitemoutputbus"
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -4,
+            "z": 17,
+            "elements": [
+                "tinymobfarm:iron_farm@2"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
             ]
         },
         {
             "x": 0,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "futuremc:smooth_stone@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockparallelcontroller"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "futuremc:smooth_stone@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockupgradebus"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "minecraft:cake@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
             "y": -2,
             "z": 0,
             "elements": [
@@ -24,39 +735,8369 @@
             ]
         },
         {
-            "x": -1,
-            "y": -2,
+            "x": 7,
+            "y": -6,
             "z": 0,
             "elements": [
-                "modularmachinery:blockenergyoutputhatch"
+                "chisel:netherbrick@15"
             ]
         },
         {
-            "x": 1,
-            "y": -1,
-            "z": 0,
+            "x": 9,
+            "y": -6,
+            "z": 17,
             "elements": [
-                "modularmachinery:blockparallelcontroller"
+                "chisel:netherbrick@15"
             ]
         },
         {
-            "x": 0,
-            "y": -1,
-            "z": 0,
+            "x": -7,
+            "y": -6,
+            "z": 15,
             "elements": [
-                "modularmachinery:blockupgradebus"
+                "chisel:netherbrick@15"
             ]
         },
         {
-            "x": -1,
-            "y": -1,
+            "x": -13,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
             "z": 0,
             "elements": [
                 "modularmachinery:blocksmartinterface@0"
             ]
         },
         {
+            "x": 11,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
             "x": 1,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "futuremc:smooth_stone@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "futuremc:smooth_stone@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@8"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": -10,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": -10,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": -10,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@8"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -10,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": -10,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": -10,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": -10,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": -10,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": -10,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -4,
+            "z": -10,
+            "elements": [
+                "tinymobfarm:iron_farm@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": -1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@8"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockmefluidinputbus"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "minecraft:daylight_detector@9"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": -7,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "futuremc:smooth_stone@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -4,
+            "z": -10,
+            "elements": [
+                "tinymobfarm:iron_farm@2"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": -7,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@8"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "futuremc:smooth_stone@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": -7,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:iron_bars@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@8"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "minecraft:daylight_detector@9"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 4,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 13,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": -7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "botania:felpumpkin@3"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": -2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 18,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 2,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": -4,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": -7,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "futuremc:smooth_stone@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 3,
+            "elements": [
+                "futuremc:smooth_stone@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "minecraft:unpowered_repeater@2"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 3,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "minecraft:iron_block@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "cfm:candle@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "futuremc:smooth_stone@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "futuremc:smooth_stone@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "futuremc:smooth_stone@0"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": -5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": -7,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 11,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -10,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": -9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": -7,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:obsidian@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "cfm:candle@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": 5,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": -7,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 5,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -7,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "minecraft:stone_slab@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 14,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -4,
+            "z": 17,
+            "elements": [
+                "tinymobfarm:iron_farm@5"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": -7,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": -8,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "minecraft:portal@1"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 9,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 11,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 12,
+            "y": -6,
+            "z": 2,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 0,
+            "elements": [
+                "astralsorcery:blockmarblestairs@2"
+            ]
+        },
+        {
+            "x": -6,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 1,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 8,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -13,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -5,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": -4,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 4,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -11,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 6,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 7,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 10,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -1,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "astraladditions:block_marble_runed_wall@0"
+            ]
+        },
+        {
+            "x": 13,
+            "y": -6,
+            "z": 4,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "minecraft:cake@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": -6,
+            "z": 0,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -15,
+            "y": -6,
+            "z": 9,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": -10,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -12,
+            "y": -6,
+            "z": -3,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch"
+            ]
+        },
+        {
+            "x": -14,
+            "y": -6,
+            "z": 3,
+            "elements": [
+                "chisel:netherbrick@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -6,
+            "z": 14,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": -6,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -6,
+            "z": -11,
+            "elements": [
+                "chisel:netherbrick@7"
+            ]
+        },
+        {
+            "x": 2,
             "y": -3,
             "z": 0,
             "elements": [
@@ -66,20 +9107,35 @@
             ]
         },
         {
-            "x": 0,
-            "y": -3,
-            "z": 0,
+            "x": -2,
+            "y": -6,
+            "z": -8,
             "elements": [
-                "modularmachinery:blockfluidinputhatch",
-                "modularmachinery:blockmefluidinputbus"
+                "chisel:netherbrick@15"
             ]
         },
         {
-            "x": -1,
-            "y": -3,
-            "z": 0,
+            "x": 3,
+            "y": -6,
+            "z": 17,
             "elements": [
-                "modularmachinery:blockenergyinputhatch"
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 12,
+            "elements": [
+                "chisel:netherbrick@15"
+            ]
+        },
+        {
+            "x": -9,
+            "y": -6,
+            "z": 15,
+            "elements": [
+                "chisel:netherbrick@15"
             ]
         }
     ]}
