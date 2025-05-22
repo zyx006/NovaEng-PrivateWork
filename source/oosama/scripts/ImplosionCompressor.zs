@@ -65,7 +65,7 @@ RecipeBuilder.newBuilder("gaojihejinzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
         [
-            RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+            RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
         ]
 
     ).setChance(0.1)
@@ -79,7 +79,7 @@ RecipeBuilder.newBuilder("yikuangshizhizuo", "ImplosionCompressor", 2)
     .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -92,7 +92,7 @@ RecipeBuilder.newBuilder("taibingzhizuo", "ImplosionCompressor", 2)
     .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
         [
-            RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+            RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
         ]
 
     ).setChance(0.1)
@@ -106,7 +106,7 @@ RecipeBuilder.newBuilder("gangbanbgzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -119,7 +119,7 @@ RecipeBuilder.newBuilder("qingtongbangzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -132,7 +132,7 @@ RecipeBuilder.newBuilder("tiebingzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -145,7 +145,7 @@ RecipeBuilder.newBuilder("tiezhalanzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -158,7 +158,7 @@ RecipeBuilder.newBuilder("zhimiyibanzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -171,7 +171,7 @@ RecipeBuilder.newBuilder("nthejinbanzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -185,7 +185,7 @@ RecipeBuilder.newBuilder("xc1zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -198,7 +198,7 @@ RecipeBuilder.newBuilder("xc2zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -211,7 +211,7 @@ RecipeBuilder.newBuilder("xc3zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -224,7 +224,7 @@ RecipeBuilder.newBuilder("xc4zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -237,7 +237,7 @@ RecipeBuilder.newBuilder("gaojiyibanzhizuo", "ImplosionCompressor", 2)
     .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();    
@@ -250,7 +250,7 @@ RecipeBuilder.newBuilder("gaojiyibanzhizuo", "ImplosionCompressor", 2)
     .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -264,7 +264,7 @@ RecipeBuilder.newBuilder("nlsjzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();    
@@ -277,7 +277,7 @@ RecipeBuilder.newBuilder("wk1zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -290,7 +290,7 @@ RecipeBuilder.newBuilder("wk2zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -303,7 +303,7 @@ RecipeBuilder.newBuilder("wk3zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -316,7 +316,7 @@ RecipeBuilder.newBuilder("wk4zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -329,7 +329,7 @@ RecipeBuilder.newBuilder("wk5zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -342,7 +342,7 @@ RecipeBuilder.newBuilder("wk6zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -355,7 +355,7 @@ RecipeBuilder.newBuilder("wk7zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -375,7 +375,7 @@ RecipeBuilder.newBuilder("taibanzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
         [
-            RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+            RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
         ]
 
     ).setChance(0.1)
@@ -396,7 +396,7 @@ RecipeBuilder.newBuilder("taiwaikezhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
         [
-            RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+            RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
         ]
 
     ).setChance(0.1)
@@ -410,7 +410,7 @@ RecipeBuilder.newBuilder("ghdzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -423,7 +423,7 @@ RecipeBuilder.newBuilder("yasuotanbanzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -436,7 +436,7 @@ RecipeBuilder.newBuilder("zhongzizhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -449,7 +449,7 @@ RecipeBuilder.newBuilder("zhizisuipianzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -462,7 +462,7 @@ RecipeBuilder.newBuilder("zhizizhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -482,7 +482,7 @@ RecipeBuilder.newBuilder("yasuomeiqiuzhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -495,7 +495,7 @@ RecipeBuilder.newBuilder("gongyezuanszhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -508,7 +508,7 @@ RecipeBuilder.newBuilder("chongnengbanzi1zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -521,7 +521,7 @@ RecipeBuilder.newBuilder("chongnengbanzi2zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -534,7 +534,7 @@ RecipeBuilder.newBuilder("chongnengbanzi3zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -547,7 +547,7 @@ RecipeBuilder.newBuilder("chongnengbanzi4zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -559,7 +559,7 @@ RecipeBuilder.newBuilder("chongnengbanzi5zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
@@ -571,7 +571,7 @@ RecipeBuilder.newBuilder("chongnengbanzi6zhizuo", "ImplosionCompressor", 2)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
     [
-    RecipeModifierBuilder.create("modularmachinery:gas", "output", 2.0F, 1, false).build(),
+    RecipeModifierBuilder.create("modularmachinery:item", "output", 2.0F, 1, false).build(),
     ]
     ).setChance(0.1)
     .build();
