@@ -18,9 +18,9 @@ MachineModifier.setMaxParallelism("shanxi_coal", 64);
 
 //控制器合成
 recipes.addShaped(<modularmachinery:shanxi_coal_controller>, [
-    [<minecraft:soul_sand>, <minecraft:skull:1>, <futuremc:soul_soil>],
+    [<minecraft:soul_sand>, <minecraft:skull:1>, <chisel:dirt:6>],
     [<minecraft:skull:1>, <enderio:item_material:53>, <minecraft:skull:1>],
-    [<futuremc:soul_soil>, <minecraft:skull:1>, <minecraft:soul_sand>]
+    [<chisel:dirt:6>, <minecraft:skull:1>, <minecraft:soul_sand>]
 ]);
 RecipeBuilder.newBuilder("shanxi_coal", "mach_crafter", 600, recipeCounter, false)
     .addEnergyPerTickInput(5120)
