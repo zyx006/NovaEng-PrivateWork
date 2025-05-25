@@ -255,7 +255,7 @@ RecipeBuilder.newBuilder("xhzz_medal", "starlight_matrix", 40)
     .addItemInput(<extrabotany:material:3> * 1) // 英雄徽章 x1
     .addItemInput(<additions:novaextended-terraalloy> * 1) // 泰拉合金 x1
     .addItemInput(<additions:novaextended-ingot8>* 2) // 柳木合金 x2
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 8) // 星能液桶 1000 MB * 8
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 8000) // 星能液桶 1000 MB * 8
     .addItemOutput(<additions:novaextended-novaextended_medal>) // 输出：星耀勋章
     .addRecipeTooltip("星耀共鸣：\n汇聚星光之力，铸就荣耀勋章！") // 提示信息：描述配方功能
     .build();
@@ -269,7 +269,7 @@ RecipeBuilder.newBuilder("xhzz_medal1", "starlight_matrix", 40)
     .addItemInput(<minecraft:iron_ore> * 1) // 铁矿石 x1
     .addItemInput(<minecraft:diamond_ore> * 1) // 钻石矿石 x1
     .addItemInput(<minecraft:emerald_ore> * 1) // 绿宝石矿石 x1
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 4) // 星能液桶 1000 MB * 4
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 4000) // 星能液桶 1000 MB * 4
     .addItemOutput(<additions:novaextended-novaextended_medal1>) // 输出：星耀勋章1
     .addRecipeTooltip("晶金共鸣：\n结合矿物的力量，提升勋章等级！") // 提示信息：描述配方功能
     .build();
@@ -283,7 +283,7 @@ RecipeBuilder.newBuilder("xhzz_medal2", "starlight_matrix", 40)
     .addItemInput(<minecraft:redstone> * 1) // 红石粉 x1
     .addItemInput(<minecraft:glowstone_dust> * 1) // 萤石粉 x1
     .addItemInput(<rftools:timer_block> * 1) // RFTools 定时器 x1
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 4) // 星能液桶 1000 MB * 4
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 4000) // 星能液桶 1000 MB * 4
     .addItemOutput(<additions:novaextended-novaextended_medal2>) // 输出：星耀勋章2
     .addRecipeTooltip("时钟共鸣：\n融合时间的力量，提升勋章等级！") // 提示信息：描述配方功能
     .build();
@@ -299,7 +299,7 @@ RecipeBuilder.newBuilder("xhzz_medal3", "starlight_matrix", 40)
     .addItemInput(<extrabotany:material:3> * 1) // 英雄徽章 x1
     .addItemInput(<jaopca:block_blockwillowalloy> * 1) // 柳木合金块 x1
     .addItemInput(<avaritia:resource:6>* 1) // 无尽锭 x1
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 4) // 星能液桶 1000 MB * 4
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 4000) // 星能液桶 1000 MB * 4
     .addItemOutput(<additions:novaextended-novaextended_medal3>) // 输出：星耀勋章3
     .addRecipeTooltip("避役共鸣：\n融合无尽的力量，提升勋章等级！") // 提示信息：描述配方功能
     .build();
@@ -313,7 +313,7 @@ RecipeBuilder.newBuilder("xhzz_medal4", "starlight_matrix", 40)
     .addItemInput(<minecraft:melon> * 1) // 西瓜 x1
     .addItemInput(<minecraft:hay_block> * 1) // 干草块 x1
     .addItemInput(<minecraft:wool> * 1) // 羊毛块 x1
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 4) // 星能液桶 1000 MB * 4
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 4000) // 星能液桶 1000 MB * 4
     .addItemOutput(<additions:novaextended-novaextended_medal4>) // 输出：星耀勋章4
     .addRecipeTooltip("牧夫共鸣：\n融合丰收的力量，提升勋章等级！") // 提示信息：描述配方功能
     .build();
@@ -327,7 +327,7 @@ RecipeBuilder.newBuilder("xhzz_medal5", "starlight_matrix", 40)
     .addItemInput(<minecraft:nether_star> * 1) // 下界之星 x1
     .addItemInput(<minecraft:ender_pearl> * 1) // 末影珍珠 x1
     .addItemInput(<deepmoblearning:glitch_heart> * 1) // 故障核心 x1
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 4) // 星能液桶 1000 MB * 4
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 4000) // 星能液桶 1000 MB * 4
     .addItemOutput(<additions:novaextended-novaextended_medal5>) // 输出：星耀勋章5
     .addRecipeTooltip("唤生共鸣：\n融合星辰的力量，提升勋章等级！") // 提示信息：描述配方功能
     .build();
@@ -511,7 +511,7 @@ RecipeBuilder.newBuilder("hs_colored_lens_convergence", "starlight_matrix", 20)
 RecipeBuilder.newBuilder("hs_tree_beacon", "starlight_matrix", 20) // 时间调整为20 ticks (1秒)
     .addInput(<ore:treeLeaves>*6)
     .addInput(<ore:treeSapling>)
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 1) // 星能液桶 x1
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 1000) // 星能液桶 x1
     .addItemInput(<astralsorcery:blockmarble:6> * 4) // 大理石块（元数据6）x4
     .addItemInput(<astralsorcery:itemcraftingcomponent> * 1) // 海蓝宝石 x1
     .addEnergyPerTickInput(500) // 每 tick 输入 500 单位电力 (总电力消耗 = 500 * 20 = 10000)
@@ -537,7 +537,7 @@ RecipeBuilder.newBuilder("hs_shifting_star", "starlight_matrix", 20) // 时间�
     .addItemInput(<astralsorcery:itemcraftingcomponent:2> * 2) // 星尘 x2
     .addItemInput(<astralsorcery:itemcraftingcomponent> * 4) // 海蓝宝石 x4
     .addItemInput(<astralsorcery:blockmarble:6> * 4) // 大理石柱（元数据6）x4
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 1) // 星能液桶 x1
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 1000) // 星能液桶 x1
     .addItemInput(<astralsorcery:itemusabledust> * 2) // 辉光粉 x2
     .addEnergyPerTickInput(500) // 每 tick 输入 500 单位电力 (总电力消耗 = 500 * 20 = 10000)
     .addItemOutput(<astralsorcery:itemshiftingstar>* 1) // 输出：更替之星 x1
@@ -629,7 +629,7 @@ RecipeBuilder.newBuilder("hs_ritual_pedestal", "starlight_matrix", 20) // 时间
     .addItemInput(<astralsorcery:blockmarble:2> * 4) // 大理石（元数据2）x4
     .addItemInput(<astralsorcery:blockmarble:4> * 2) // 大理石（元数据4）x2
     .addItemInput(<minecraft:gold_ingot> * 2) // 金锭 x2
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 1) // 星能液桶 x1
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 1000) // 星能液桶 x1
     .addItemInput(<astralsorcery:itemrockcrystalsimple> * 1) // 水晶石 x1
     .addEnergyPerTickInput(600) // 每 tick 输入 600 单位电力 (总电力消耗 = 600 * 30 = 18000)
     .addItemOutput(<astralsorcery:blockritualpedestal> * 1) // 输出：仪式基座 x1
@@ -640,7 +640,7 @@ RecipeBuilder.newBuilder("hs_ritual_pedestal", "starlight_matrix", 20) // 时间
 RecipeBuilder.newBuilder("hs_starlight_infuser", "starlight_matrix", 20) // 时间1秒，
     .addItemInput(<minecraft:gold_ingot> * 2) // 金锭 x2
     .addItemInput(<astralsorcery:itemcraftingcomponent> * 2) // 海蓝宝石 x2
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 1) // 星能液桶 x1
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 1000) // 星能液桶 x1
     .addItemInput(<astralsorcery:itemcraftingcomponent:2> * 1) // 星尘 x1
     .addItemInput(<astralsorcery:blockmarble:5> * 2) // 大理石（元数据5）x2
     .addItemInput(<astralsorcery:blockmarble:2> * 6) // 大理石（元数据2）x6
@@ -811,7 +811,7 @@ RecipeBuilder.newBuilder("hs_attunement_altar", "starlight_matrix", 20)
 // 新配方：大理石 + 星能液桶 + 大理石 制作 星辉祭坛
 RecipeBuilder.newBuilder("hs_starlight_altar", "starlight_matrix", 20)
     .addItemInput(<astralsorcery:blockmarble:4> * 2) // 大理石块（元数据4）x2
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 1) // 星能液桶 x1
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 1000) // 星能液桶 x1
     .addItemInput(<astralsorcery:blockmarble:2> * 4) // 大理石块（元数据2）x4
     .addEnergyPerTickInput(600) // 每 tick 输入 600 单位电力 (总电力消耗 = 600 * 30 = 18000)
     .addItemOutput(<astralsorcery:blockaltar:1> * 1) // 输出：星辉祭坛 x1
@@ -847,7 +847,7 @@ RecipeBuilder.newBuilder("hs_prismatic_altar", "starlight_matrix", 20)
 RecipeBuilder.newBuilder("hs_attunement_crafter", "starlight_matrix", 20)
     .addItemInput(<packagedastral:discovery_crafter> * 1) // 星辉封包合成器 x1
     .addItemInput(<astralsorcery:blockblackmarble> * 2) // 熏黑大理石 x2
-    .addItemInput(<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000}) * 1) // 星能液桶 x1
+    .addInput(<liquid:astralsorcery.liquidstarlight>* 1000) // 星能液桶 x1
     .addItemInput(<astralsorcery:itemcraftingcomponent:2> * 2) // 星尘 x2
     .addItemInput(<astralsorcery:itemrockcrystalsimple> * 1) // 水晶石 x1
     .addItemInput(<astralsorcery:blockmarble:4> * 2) // 大理石块（元数据4）x2

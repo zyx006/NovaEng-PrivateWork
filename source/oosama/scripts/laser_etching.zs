@@ -58,8 +58,3 @@ RecipeBuilder.newBuilder("laser_etching", "workshop", 300)
     .addModifier(RecipeModifierBuilder.create("modularmachinery:duration", "input", 0.25F, 1, false).build())
     .addModifier(RecipeModifierBuilder.create("modularmachinery:energy",   "input", 2.0F, 1, false).build())
     .build();
-
- RecipeAdapterBuilder.create("laser_etching", "modularmachinery:acar")
-    .addModifier(RecipeModifierBuilder.create("modularmachinery:duration", "input", 0.25F, 1, false).build())
-    .addModifier(RecipeModifierBuilder.create("modularmachinery:energy",   "input", 2.0F, 1, false).build())
-    .build();

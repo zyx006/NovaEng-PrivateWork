@@ -3586,6 +3586,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -6488,6 +6489,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -6720,6 +6722,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -7964,6 +7967,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -8040,6 +8044,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -8530,6 +8535,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -12644,6 +12650,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -16813,6 +16820,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -18282,6 +18290,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -21886,6 +21895,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -22014,6 +22024,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -22542,6 +22553,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -22812,6 +22824,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -24885,6 +24898,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -27477,6 +27491,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -27700,6 +27715,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -32832,6 +32848,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -32926,6 +32943,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -33768,6 +33786,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -34412,6 +34431,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -34658,6 +34678,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -34867,6 +34888,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -35175,6 +35197,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -40744,6 +40767,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -41324,6 +41348,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -42528,6 +42553,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -44505,6 +44531,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -45270,6 +45297,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -45838,6 +45866,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -52277,6 +52306,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -53229,6 +53259,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
@@ -55173,6 +55204,7 @@
         "modularmachinery:blockmefluidinputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmepatternprovider",
         "modularmachinery:blockenergyoutputhatch"
             ]
         },
