@@ -9948,14 +9948,6 @@
             ]
         },
         {
-            "x": 35,
-            "y": 77,
-            "z": -25,
-            "elements": [
-                "minecraft:air@0"
-            ]
-        },
-        {
             "x": 19,
             "y": 34,
             "z": 28,
@@ -19484,14 +19476,6 @@
             ]
         },
         {
-            "x": 10,
-            "y": -2,
-            "z": -1,
-            "elements": [
-                "minecraft:air@0"
-            ]
-        },
-        {
             "x": -26,
             "y": 24,
             "z": -10,
@@ -26409,14 +26393,6 @@
             "z": 32,
             "elements": [
                 "minecraft:stained_glass_pane@3"
-            ]
-        },
-        {
-            "x": 5,
-            "y": -2,
-            "z": -14,
-            "elements": [
-                "minecraft:air@0"
             ]
         },
         {
@@ -77585,14 +77561,6 @@
             "z": 7,
             "elements": [
                 "thermalfoundation:storage@4"
-            ]
-        },
-        {
-            "x": 8,
-            "y": -2,
-            "z": -1,
-            "elements": [
-                "minecraft:air@0"
             ]
         },
         {

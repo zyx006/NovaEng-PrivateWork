@@ -180,7 +180,7 @@ RecipeBuilder.newBuilder("nthejinbanzhizuo", "ImplosionCompressor", 2)
 //制作线材
 RecipeBuilder.newBuilder("xc1zhizuo", "ImplosionCompressor", 2)
     .addEnergyPerTickInput(14400) //电
-    .addInput(<techguns:itemshared:79>)  //铜锭
+    .addInput(<ore:ingotCopper>)  //铜锭
     .addItemOutput(<ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte})*4)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],

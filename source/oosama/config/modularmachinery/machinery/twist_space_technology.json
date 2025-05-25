@@ -150,14 +150,6 @@
             ]
         },
         {
-            "x": -6,
-            "y": -1,
-            "z": 6,
-            "elements": [
-                "minecraft:air@0"
-            ]
-        },
-        {
             "x": -3,
             "y": 18,
             "z": 7,
@@ -289,14 +281,6 @@
             ]
         },
         {
-            "x": -1,
-            "y": -1,
-            "z": 11,
-            "elements": [
-                "minecraft:air@0"
-            ]
-        },
-        {
             "x": 3,
             "y": 7,
             "z": 7,
@@ -413,14 +397,6 @@
         },
         {
             "x": 0,
-            "y": -1,
-            "z": 11,
-            "elements": [
-                "minecraft:air@0"
-            ]
-        },
-        {
-            "x": 0,
             "y": 14,
             "z": 6,
             "elements": [
@@ -468,14 +444,6 @@
             "z": 6,
             "elements": [
                 "mekanism:reinforcedplasticblock@15"
-            ]
-        },
-        {
-            "x": -6,
-            "y": -1,
-            "z": 5,
-            "elements": [
-                "minecraft:air@0"
             ]
         },
         {
@@ -711,14 +679,6 @@
             "z": 5,
             "elements": [
                 "mekanism:reinforcedplasticblock@15"
-            ]
-        },
-        {
-            "x": -6,
-            "y": -1,
-            "z": 11,
-            "elements": [
-                "minecraft:air@0"
             ]
         },
         {
@@ -1341,14 +1301,6 @@
             ]
         },
         {
-            "x": -6,
-            "y": -1,
-            "z": 3,
-            "elements": [
-                "minecraft:air@0"
-            ]
-        },
-        {
             "x": -1,
             "y": 7,
             "z": 5,
@@ -1502,14 +1454,6 @@
             ]
         },
         {
-            "x": 2,
-            "y": -1,
-            "z": 11,
-            "elements": [
-                "minecraft:air@0"
-            ]
-        },
-        {
             "x": -4,
             "y": -1,
             "z": 3,
@@ -1651,14 +1595,6 @@
             "z": 3,
             "elements": [
                 "libvulpes:metal0@6"
-            ]
-        },
-        {
-            "x": -6,
-            "y": -1,
-            "z": 4,
-            "elements": [
-                "minecraft:air@0"
             ]
         },
         {
@@ -2452,14 +2388,6 @@
             ]
         },
         {
-            "x": 1,
-            "y": -1,
-            "z": 11,
-            "elements": [
-                "minecraft:air@0"
-            ]
-        },
-        {
             "x": -5,
             "y": 20,
             "z": 5,
@@ -2561,14 +2489,6 @@
             "z": 7,
             "elements": [
                 "libvulpes:metal0@6"
-            ]
-        },
-        {
-            "x": -2,
-            "y": -1,
-            "z": 11,
-            "elements": [
-                "minecraft:air@0"
             ]
         },
         {
@@ -3204,14 +3124,6 @@
             "z": 5,
             "elements": [
                 "mekanism:reinforcedplasticblock@15"
-            ]
-        },
-        {
-            "x": -6,
-            "y": -1,
-            "z": 7,
-            "elements": [
-                "minecraft:air@0"
             ]
         },
         {
