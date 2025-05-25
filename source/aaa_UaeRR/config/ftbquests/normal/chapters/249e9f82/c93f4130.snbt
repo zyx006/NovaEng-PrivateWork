@@ -1,0 +1,17 @@
+{
+	x: -4.0d,
+	y: -1.0d,
+	text: [
+		"很好的产矿,能在50小时内填满18个L9（削弱过的）"
+	],
+	dependencies: [
+		"3681cb13"
+	],
+	tasks: [{
+		uid: "a5fc4a7a",
+		type: "item",
+		items: [{
+			item: "modularmachinery:space_elevator_factory_controller"
+		}]
+	}]
+}

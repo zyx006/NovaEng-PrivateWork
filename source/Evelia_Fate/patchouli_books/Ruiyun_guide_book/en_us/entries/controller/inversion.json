@@ -1,0 +1,13 @@
+{
+    "name": "§c「§e规天§c」§0视界§o§f反演§r§3约束装置§r",
+    "icon": "modularmachinery:inversion_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 17,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:inversion_factory_controller",
+            "text": "借助视界反演的力量简单快速地完成对恒星乃至于大质量黑洞的规划约束$(br)需要先搜索以将机器的目标锁定为对应的星球，再对其发射相应的探测装置，然后便能够接收其传回的物质了$(br)对近超新星的收集是一次性的，大部分材料都会被损毁，其余则是可以永续收集$(br)不过拆除控制器之后会丢失信息$(br)使用超光速核心升级可以大幅提高搜索和发射的速度"
+        }
+    ]
+}

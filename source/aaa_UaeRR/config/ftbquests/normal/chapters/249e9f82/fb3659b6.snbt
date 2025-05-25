@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: 1.0d,
+	dependencies: [
+		"41cfc6de"
+	],
+	tasks: [{
+		uid: "cc7aa3b8",
+		type: "item",
+		items: [{
+			item: "modularmachinery:qft_factory_controller"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 2.5d,
+	y: -1.0d,
+	text: [
+		"星河奇迹的起点,终末科技的中期,在AR空间站维度制造它以开始你的巨构时代"
+	],
+	dependencies: [
+		"0eaf7eec"
+	],
+	tasks: [{
+		uid: "71dfc911",
+		type: "item",
+		items: [{
+			item: "modularmachinery:ark_space_station_factory_controller"
+		}]
+	}]
+}

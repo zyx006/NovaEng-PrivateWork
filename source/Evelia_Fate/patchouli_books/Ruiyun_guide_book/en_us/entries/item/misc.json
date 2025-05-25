@@ -1,0 +1,23 @@
+{
+    "name": "杂项物品",
+    "icon": "contenttweaker:network_card",
+    "category": "patchouli:item",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:network_card",
+            "text": "无线电力网络的便携可视化终端，将鼠标移动到物品上以查看使用方式"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:eternity_nova",
+            "text": "永恒循环的主体材料，蕴藏着超越尘世的强大力量"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:shirabon",
+            "text": "永恒循环的辅助材料，和永恒新星有着极高的亲和度，是被专门开发出来的特殊物质"
+        }
+    ]
+}

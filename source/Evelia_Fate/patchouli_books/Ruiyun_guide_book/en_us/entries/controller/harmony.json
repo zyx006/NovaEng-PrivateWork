@@ -1,0 +1,13 @@
+{
+    "name": "§c「§e塑世§c」§5鸿蒙§b演化§9控制机§r",
+    "icon": "modularmachinery:harmony_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 16,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:harmony_factory_controller",
+            "text": "通过无穷的能量和宏伟的结构来做到过往认为不可能做到的事情$(br)能够将无尽锭拆解，同时额外产出一定量β 物质，可以执行大部分原子重构机配方，后续机器和一些独特材料也需要它制作$(br)无线电网供电并在机器内部存储以供消耗，在智能数据接口处调整进电速度"
+        }
+    ]
+}

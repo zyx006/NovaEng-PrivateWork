@@ -1,0 +1,28 @@
+{
+    "name": "生物系列相关材料",
+    "icon": "contenttweaker:rado_dish",
+    "category": "patchouli:item",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:petri_dish",
+            "text": "空空如也的普通培养皿，不过因为融合了盈能水晶的原因，也有着独特的力量"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:petri_dish_a",
+            "text": "灌注了大量营养物的培养皿，虽然只能提供最基础的培养环境，但却也足够让细菌在其中长久存在"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:petri_dish_a",
+            "text": "在培养皿之中加入核心素以及混沌之力后制造出来的强大培养皿，可以提供异氙菌所需的营养物质，并保护其免受伤害"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:rado_dish",
+            "text": "经过特殊处理的培养皿，足可以满足拉多菌对于环境的任何苛刻要求，就算是暴露在外界，也依旧能够保护其中的细菌"
+        }
+    ]
+}

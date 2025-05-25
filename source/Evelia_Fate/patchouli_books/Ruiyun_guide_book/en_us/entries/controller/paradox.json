@@ -1,0 +1,13 @@
+{
+    "name": "§c「§l§e§k悖论§r§c」§r§o§l§3无限§r§l§9神机§r",
+    "icon": "modularmachinery:paradox_controller",
+    "category": "patchouli:controller",
+    "sortnum": 20,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:paradox_controller",
+            "text": "§9§l§o这就是一切的结束了"
+        }
+    ]
+}

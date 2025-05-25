@@ -1,0 +1,38 @@
+{
+    "name": "规天相关材料",
+    "icon": "contenttweaker:truthmatrix",
+    "category": "patchouli:item",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:truthmatrix",
+            "text": "以近乎不可思议的方式记录着浩繁至极的信息，几乎是实质化的宇宙规律，是深入了解世界本质不可缺少的材料"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:ark_launch_vehicle",
+            "text": "以方舟之力铸就的强大运载火箭，虽然在一些极端环境之下仍旧可能会出现损失，但却也有着其余任何火箭都无法达到的运载能力和强度"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:max_energy_containers",
+            "text": "这个世界上最为终极的电池，有着无法想象的庞大容量"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:charged_max_energy_containers",
+            "text": "已经充满的极限能源存储器，所拥有的能量几乎可以与恒星媲美，密度大到甚至足以扭曲时空"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:steady_supercritical_photons",
+            "text": "只有蓝超巨星的浩然能量之中才会凝聚而出的超高能光子，蕴含着千倍于普通光子的星能，星能的本质潜藏于其中"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:dark_matter",
+            "text": "几乎不与普通物质发生交互的特殊材料，按理来说应该是完全透光的，但因为被破损的时空连续体包裹了的原因，依旧会呈现出看上去极为迷人的黑色"
+        }
+    ]
+}

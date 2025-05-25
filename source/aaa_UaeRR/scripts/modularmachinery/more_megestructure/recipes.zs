@@ -56,8 +56,8 @@ var recipeCount = 0;
 // MachineBuilder.getBuilder("machine_name")
 //     .addMultiBlockModifier(modifier);
 
-MachineModifier.setInternalParallelism("ACAA", 2048);
-MachineModifier.setInternalParallelism("APAC", 8192);
+MachineModifier.setInternalParallelism("ACAA", 8192);
+MachineModifier.setInternalParallelism("APAC", 131072);
 MachineModifier.setInternalParallelism("G_MT", 32767);
 MachineModifier.setInternalParallelism("G_IC", 32767);
 MachineModifier.setInternalParallelism("G_CO", 32767);

@@ -1,0 +1,7095 @@
+{
+    "registryname": "cat_vs_bread",
+    "localizedname": "§a§l黄油吐司猫发电机",
+    "failure-action": "still",
+    "requires-blueprint": false,
+    "parts": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcontroller@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "contenttweaker:hxwz@5"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:hxwz@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 16,
+            "elements": [
+                "contenttweaker:baxwz@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:hxwz@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "contenttweaker:baxwz@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "contenttweaker:hxwz@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:hxwz@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 16,
+            "elements": [
+                "contenttweaker:space_time_fluids@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 16,
+            "elements": [
+                "contenttweaker:baxwz@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 16,
+            "elements": [
+                "contenttweaker:baxwz@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:baxwz@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -9,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 23,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:baxwz@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 25,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "contenttweaker:baxwz@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "contenttweaker:hxwz@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_fluids@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 21,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:hxwz@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:hxwz@7"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 24,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "contenttweaker:baxwz@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -9,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "contenttweaker:hxwz@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "contenttweaker:baxwz@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -9,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 19,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 19,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "contenttweaker:hxwz@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 16,
+            "elements": [
+                "contenttweaker:baxwz@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 16,
+            "elements": [
+                "contenttweaker:hxwz@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "contenttweaker:baxwz@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "contenttweaker:baxwz@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "contenttweaker:hxwz@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "contenttweaker:hxwz@5"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 9,
+            "elements": [
+                "contenttweaker:baxwz@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -9,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -9,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "contenttweaker:hxwz@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 16,
+            "elements": [
+                "contenttweaker:space_time_fluids@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 8,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "contenttweaker:hxwz@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 16,
+            "elements": [
+                "contenttweaker:space_time_fluids@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "contenttweaker:baxwz@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_fluids@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_fluids@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -9,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:baxwz@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@4"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 27,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "contenttweaker:baxwz@4"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:baxwz@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -9,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 7,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -9,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "contenttweaker:baxwz@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -9,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 27,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -9,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 24,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -9,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "contenttweaker:hxwz@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 16,
+            "elements": [
+                "contenttweaker:hxwz@5"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 22,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 16,
+            "elements": [
+                "contenttweaker:space_time_fluids@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "contenttweaker:hxwz@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:baxwz@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "contenttweaker:baxwz@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 28,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 14,
+            "elements": [
+                "contenttweaker:baxwz@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 26,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "contenttweaker:hxwz@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 16,
+            "elements": [
+                "contenttweaker:hxwz@6"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 16,
+            "elements": [
+                "contenttweaker:space_time_fluids@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 23,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "contenttweaker:hxwz@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 18,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 20,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_fluids@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 5,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 9,
+            "elements": [
+                "contenttweaker:hxwz@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 9,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "contenttweaker:baxwz@3"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "contenttweaker:hxwz@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 26,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:baxwz@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 22,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:glass_alloy@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "contenttweaker:hxwz@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:baxwz@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -9,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:baxwz@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 20,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -8,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 28,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "contenttweaker:hxwz@2"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "nuclearcraft:fluid_plasma@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "contenttweaker:hxwz@5"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "contenttweaker:hxwz@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "contenttweaker:hxwz@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "contenttweaker:hxwz@2"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "contenttweaker:baxwz@3"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 11,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 11,
+            "elements": [
+                "contenttweaker:hxwz@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_fluids@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 11,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 10,
+            "elements": [
+                "contenttweaker:hxwz@3"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 18,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 10,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "modularmachinery:blockenergyoutputhatch@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "contenttweaker:hxwz@5"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 10,
+            "elements": [
+                "contenttweaker:haxwz@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -5,
+            "z": 15,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -7,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "avaritiaddons:infinity_glass@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 25,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 13,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:crystalloid@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "contenttweaker:baxwz@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 14,
+            "elements": [
+                "contenttweaker:hxwz@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -6,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 21,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 12,
+            "elements": [
+                "contenttweaker:hxwz@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "thermalfoundation:storage_alloy@6"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -9,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "contenttweaker:hxwz@7"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -5,
+            "z": 13,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 7,
+            "elements": [
+                "contenttweaker:steady_ultra_dense_atomic_matter@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 7,
+            "elements": [
+                "contenttweaker:crystalloid@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -5,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "contenttweaker:space_time_coil@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 6,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 12,
+            "elements": [
+                "contenttweaker:baxwz@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "contenttweaker:space_time_condensation_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -6,
+            "z": 17,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "contenttweaker:arkmachineblock@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -8,
+            "z": 7,
+            "elements": [
+                "contenttweaker:arkforcefieldcontrolblock@0"
+            ]
+        }
+    ]}

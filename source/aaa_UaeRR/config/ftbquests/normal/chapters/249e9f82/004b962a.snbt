@@ -1,0 +1,17 @@
+{
+	x: -4.0d,
+	y: -3.0d,
+	text: [
+		"快了非常多,建议造1组"
+	],
+	dependencies: [
+		"c93f4130"
+	],
+	tasks: [{
+		uid: "d4d0b2f4",
+		type: "item",
+		items: [{
+			item: "modularmachinery:space_elevatormk4_factory_controller"
+		}]
+	}]
+}

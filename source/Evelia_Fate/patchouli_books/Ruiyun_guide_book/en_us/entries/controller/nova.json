@@ -1,0 +1,13 @@
+{
+    "name": "Kasumi_Nova的手办",
+    "icon": "modularmachinery:figureofnova_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:figureofnova_factory_controller",
+            "text": "通过消耗UU物质来产出大量的Kasumi_Nova的头和牛奶$(br)如果不想因为建造牛牛机而让你的基地变得怪怪的，或者说不想制作Vazkii的头自动化的话，那可以试着用一下它$(br)(这样的话，就算是在获得无限Nova头元件之前，也能用Nova头铺地和当厕纸用了)"
+        }
+    ]
+}

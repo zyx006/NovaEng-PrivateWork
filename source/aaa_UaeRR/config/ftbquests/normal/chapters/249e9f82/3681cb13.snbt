@@ -1,0 +1,24 @@
+{
+	x: -8.5d,
+	y: -1.0d,
+	text: [
+		"这里是超光速后的科技线,在14.1阶段后,因为我懒得写,所以你只能研究14.1的科技,在这个阶段你需要大量的基础资源,首先你应该建造全套大大机器"
+	],
+	dependencies: [
+		"8494f519"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "81866366",
+		type: "checkmark",
+		title: "这是哪里!",
+		icon: "avaritia:block_resource 1 1"
+	}],
+	rewards: [{
+		uid: "076775a5",
+		type: "item",
+		team_reward: 1b,
+		item: "minecraft:dirt",
+		count: 8192
+	}]
+}

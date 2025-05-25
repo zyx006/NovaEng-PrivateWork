@@ -1,0 +1,17 @@
+{
+    "name": "§c「§6裁光§c」§b星海§a原初§c之髓§r",
+    "icon": "modularmachinery:starpith_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:starpith_factory_controller",
+            "text": "和梦之能量核心相似的存电设备，但重要的是无线传输$(br)存储上限9.22*10^36RF,交互速度也可以达到这个数值$(br)不过并不是所有机器都能够接收无线电网的电量，支持的机器可以在旁边查看"
+        },
+        {
+            "type": "text",
+            "text": "需要由无线电网供电的机器：$(br)人造恒星、电路装配线、§c「§e塑世§c」§5鸿蒙§b演化§9控制机§r$(br)可以为无线电网提供电量的机器：$(br)§c「§6裁光§c」§b星海§a原初§c之髓§r、人造恒星"
+        }
+    ]
+}

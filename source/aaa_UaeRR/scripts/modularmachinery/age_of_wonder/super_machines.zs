@@ -200,7 +200,7 @@ MachineModifier.addCoreThread("super_compactor", FactoryRecipeThread.createCoreT
 MachineModifier.addCoreThread("super_compactor", FactoryRecipeThread.createCoreThread("§9§l非接触压印系统NCI-XIV"));
 MachineModifier.addCoreThread("super_compactor", FactoryRecipeThread.createCoreThread("§9§l非接触压印系统NCI-XV"));
 MachineModifier.addCoreThread("super_compactor", FactoryRecipeThread.createCoreThread("§9§l非接触压印系统NCI-XVI"));
-MachineModifier.setInternalParallelism("super_compactor", 1073741824);
+MachineModifier.setInternalParallelism("super_compactor", 268435456);
 //粉碎机
 RecipeBuilder.newBuilder("super_crasher_anti_viod_keeper","super_crasher",72000)
     .addInputs(<contenttweaker:anti_viod>)
@@ -316,7 +316,7 @@ MachineModifier.addCoreThread("super_crasher", FactoryRecipeThread.createCoreThr
 MachineModifier.addCoreThread("super_crasher", FactoryRecipeThread.createCoreThread("§9§l物质解构场MDF-XIV"));
 MachineModifier.addCoreThread("super_crasher", FactoryRecipeThread.createCoreThread("§9§l物质解构场MDF-XV"));
 MachineModifier.addCoreThread("super_crasher", FactoryRecipeThread.createCoreThread("§9§l物质解构场MDF-XVI"));
-MachineModifier.setInternalParallelism("super_crasher", 1073741824);
+MachineModifier.setInternalParallelism("super_crasher", 268435456);
 //熔化机
 RecipeBuilder.newBuilder("aw_smf_anti_viod_keeper","aw_smf",72000)
     .addInputs(<contenttweaker:anti_viod>)
@@ -364,7 +364,7 @@ MachineModifier.addCoreThread("aw_smf", FactoryRecipeThread.createCoreThread("§
 MachineModifier.addCoreThread("aw_smf", FactoryRecipeThread.createCoreThread("§4§l热寂模拟腔HDC-XIV"));
 MachineModifier.addCoreThread("aw_smf", FactoryRecipeThread.createCoreThread("§4§l热寂模拟腔HDC-XV"));
 MachineModifier.addCoreThread("aw_smf", FactoryRecipeThread.createCoreThread("§4§l热寂模拟腔HDC-XVI"));
-MachineModifier.setInternalParallelism("aw_smf", 1073741824);
+MachineModifier.setInternalParallelism("aw_smf", 268435456);
 //高温合金枢纽
 RecipeBuilder.newBuilder("aw_safs_anti_viod_keeper","aw_safs",72000)
     .addInputs(<contenttweaker:anti_viod>)
@@ -454,7 +454,7 @@ MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("�
 MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§4§l热寂模拟腔HDC-XIV"));
 MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§4§l热寂模拟腔HDC-XV"));
 MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§4§l热寂模拟腔HDC-XVI"));
-MachineModifier.setInternalParallelism("aw_safs", 1073741824);
+MachineModifier.setInternalParallelism("aw_safs", 268435456);
 //虚空万藏
 RecipeBuilder.newBuilder("safs_xkwz", "aw_safs", 1)
     .addInput(<minecraft:book>)
@@ -522,6 +522,17 @@ RecipeBuilder.newBuilder("aw_s_msm", "aw_s_msm", 1)
     .addOutput(<minecraft:prismarine_crystals> * 32)
     .addOutput(<minecraft:fish> * 64)
     .addOutput(<minecraft:gunpowder> * 64)
+    .addOutput(<botania:manaresource:5> * 64)
+    .addOutput(<extrabotany:material:3>)
+    .addOutput(<botania:manaresource> * 16)
+    .addOutput(<botania:managlass> * 16)
+    .addOutput(<botania:quartz:1> * 16)
+    .addOutput(<botania:manaresource:2> * 16)
+    .addOutput(<botania:manaresource:23> * 16)
+    .addOutput(<botania:manaresource:1> * 16)
+    .addOutput(<extrabotany:buddhistrelics>).setChance(0.1)
+    .addOutput(<enderio:item_material:20> * 64)
+    .addOutput(<thermalfoundation:material:770> * 64)
     .addRecipeTooltip([
         "§3§l通过展开奇点创造一个微型宇宙并给予智能自迭代"
     ])
@@ -759,6 +770,7 @@ RecipeBuilder.newBuilder("arc_ark_ingot_super_fucking_odal", "super_fucking_odal
     .addItemInputs([
         <ore:ingotInfinity>
     ])
+    .addInput(<contenttweaker:crystalpurple> * 1)
     .addOutput(<additions:novaextended-star_ingot> * 2)
     .addRecipeTooltip([
         "§3§l通过创世之力将原子重新排列"
@@ -884,7 +896,7 @@ RecipeBuilder.newBuilder("pmc_item_super_fucking_odal", "super_fucking_odal",720
         ])
         .build();
 //宇宙矩阵
-RecipeBuilder.newBuilder("ODAL_AR6", "super_fucking_odal", 1)
+RecipeBuilder.newBuilder("yzjz_super_fucking_odal", "super_fucking_odal", 1)
         .addInput(<contenttweaker:anti_viod> * 1)
         .addInput(<contenttweaker:space_time_condensation_block> * 1024)
         .addInput(<avaritia:block_resource:1> * 16384)
@@ -898,23 +910,23 @@ RecipeBuilder.newBuilder("ODAL_AR6", "super_fucking_odal", 1)
         .build();
 MachineModifier.setInternalParallelism("super_fucking_odal", 1048576);
 MachineModifier.setMaxThreads("super_fucking_odal", 0);
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l跨维锻造核心").addRecipe("aw_odal_anti_viod_keeper"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-I"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-II"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-III"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-IV"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-V"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VI"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VII"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VIII"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-IX"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-X"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XI"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XII"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XIII"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XIV"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XV"));
-MachineModifier.addCoreThread("aw_safs", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XVI"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l跨维锻造核心").addRecipe("aw_odal_anti_viod_keeper"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-I"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-II"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-III"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-IV"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-V"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VI"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VII"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-VIII"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-IX"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-X"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XI"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XII"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XIII"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XIV"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XV"));
+MachineModifier.addCoreThread("super_fucking_odal", FactoryRecipeThread.createCoreThread("§3§l因果印记KI-XVI"));
 //舰载机配方
 RecipeBuilder.newBuilder("aw_ship_board_ship_mk2", "ark_space_station", 3600)
     .addInput(<contenttweaker:industrial_circuit_v4> * 128)
@@ -980,7 +992,6 @@ RecipeBuilder.newBuilder("super_compactor_alloy","super_compactor",1)
     .addOutput(<mekanism:fluoriteclump> * 1048576)
     .addOutput(<futuremc:netherite_scrap> * 1048576)
     .addOutput(<rftools:dimensional_shard> * 1048576)
-    .addOutput(<ore:gemQuartzBlack> * 1048576)
     .addOutput(<astralsorcery:itemcraftingcomponent:1> * 1048576)
     .addOutput(<astralsorcery:itemcraftingcomponent:0> * 1048576)
     .addOutput(<thermalfoundation:material:132> * 1048576)
@@ -1027,4 +1038,119 @@ RecipeBuilder.newBuilder("super_compactor_crystal","super_compactor",1)
 RecipeBuilder.newBuilder("super_compactor_quasar_energy","super_compactor",1)
     .addOutput(<contenttweaker:quasar_energy> * 4000)
     .addInput(<contenttweaker:anti_viod> * 1)
+    .build();
+//Pt(铂)=Potato+Tomato
+<thermalfoundation:material:134>.addTooltip("§ePt");
+RecipeBuilder.newBuilder("pt_p_t","dptf_spc",1)
+    .addOutput(<botania_tweaks:compressed_tiny_potato_8> * 1073741824)
+    .addOutput(<harvestcraft:tomatoitem> * 1073741824)
+    .addInput(<thermalfoundation:material:134> * 1)
+    .addRecipeTooltip([
+        "§9§l通过时空线圈。。。算了编不下去了",
+        "那我问你那我问你",
+        "Pt(铂)=Potato(土豆)+Tomato(番茄)",
+    ])
+    .build();
+//Melons.gif(指1G西瓜) =Mg(镁)+Li(锂)+Fe(铁)+O(氧)+Sn(锡)
+<nuclearcraft:ingot:7>.addTooltip("§eMg");
+<nuclearcraft:ingot:6>.addTooltip("§eLi");
+<minecraft:iron_ingot>.addTooltip("§eFe");
+<thermalfoundation:material:129>.addTooltip("§eSn");
+RecipeBuilder.newBuilder("melon_melon_fuck_you","dptf_spc",1)
+    .addOutput(<minecraft:melon_block> * 1073741824)
+    .addInput(<nuclearcraft:ingot:7> * 1)
+    .addInput(<nuclearcraft:ingot:6> * 1)
+    .addInput(<minecraft:iron_ingot> * 1)
+    .addInput(<thermalfoundation:material:129> * 1)
+    .addInput(<liquid:oxygen> * 1000)
+    .addRecipeTooltip([
+        "§9§l通过时空线圈。。。算了编不下去了",
+        "那我问你那我问你",
+        "Melons.gif(指1G西瓜) =Mg(镁)+Li(锂)+Fe(铁)+O(氧)+Sn(锡)",
+    ])
+    .build();
+
+RecipeBuilder.newBuilder("aw_qzxc", "ark_space_station", 3600)
+    .addInput(<contenttweaker:anti_viod> * 12)
+    .addInput(<contenttweaker:stellaris_crystal> * 120)
+    .addInput(<contenttweaker:stellaris_alloy> * 120)
+    .addOutput(<modularmachinery:qzxc_factory_controller>)
+    .requireComputationPoint(4000*1000.0F)
+    .build();
+HyperNetHelper.proxyMachineForHyperNet("causal_refactor");
+RecipeBuilder.newBuilder("fty_toy_car_fibre_plastic","causal_refactor",7200)
+    .addInputs([
+        <contenttweaker:kevlar_plate> * 128,
+        <contenttweaker:stellaris_alloy> * 128,
+    ])
+    .addEnergyPerTickInput(200000000000)
+    .addOutput(<contenttweaker:fty_toy_car_fibre_plastic>)
+    .requireResearch("fty_tech")
+    .requireComputationPoint(20000.0F * 1000)
+    .build();
+RecipeBuilder.newBuilder("fty_toy_car_plastic","causal_refactor",7200)
+    .addInputs([
+        <contenttweaker:fty_toy_car_fibre_plastic> * 1,
+        <liquid:yh> * 1000,
+        <contenttweaker:industrial_circuit_v5> * 1073741824,
+        <contenttweaker:field_generator_v5> * 1073741824,
+    ])
+    .addEnergyPerTickInput(200000000000)
+    .addOutput(<contenttweaker:fty_toy_car_plastic>)
+    .requireResearch("fty_tech")
+    .requireComputationPoint(20000.0F * 1000)
+    .build();
+RecipeBuilder.newBuilder("aw_genetic_weaver_factory_controller","ark_space_station",7200)
+    .addInputs([
+        <contenttweaker:fty_toy_car_plastic> * 1,
+    ])
+    .addEnergyPerTickInput(200000000000)
+    .addOutput(<modularmachinery:aw_genetic_weaver_factory_controller>)
+    .requireResearch("fty_tech")
+    .requireComputationPoint(20000.0F * 1000)
+    .build();
+RecipeBuilder.newBuilder("fty_toy_car_handle_bar","ark_space_station",7200)
+    .addInputs([
+       <contenttweaker:sensor_v5> * 1073741824,
+    ])
+    .addEnergyPerTickInput(200000000000)
+    .addOutput(<contenttweaker:fty_toy_car_handle_bar>)
+    .requireResearch("fty_tech")
+    .requireComputationPoint(20000.0F * 1000)
+    .build();
+RecipeBuilder.newBuilder("fty_toy_car_wheel","ark_space_station",7200)
+    .addInputs([
+       <contenttweaker:fty_toy_car_fibre_plastic> * 128,
+       <eternalsingularity:eternal_singularity> * 1073741824,
+    ])
+    .addEnergyPerTickInput(200000000000)
+    .addOutput(<contenttweaker:fty_toy_car_wheel>)
+    .requireResearch("fty_tech")
+    .requireComputationPoint(20000.0F * 1000)
+    .build();
+RecipeBuilder.newBuilder("fty_toy_car","causal_refactor",7200)
+    .addInputs([
+       <contenttweaker:fty_toy_car_plastic> * 1024,
+       <contenttweaker:fty_toy_car_handle_bar> * 32,
+       <contenttweaker:fty_toy_car_wheel> * 64
+    ])
+    .addEnergyPerTickInput(200000000000)
+    .addOutput(<contenttweaker:fty_toy_car>)
+    .requireResearch("fty_tech")
+    .requireComputationPoint(20000.0F * 1000)
+    .build();
+RecipeBuilder.newBuilder("ftyingot","causal_refactor",72000)
+    .addInputs([
+       <contenttweaker:fty_toy_car>,
+       <ore:ingotArk> * 1073741824,
+       <ore:ingotAdamant> * 1073741824,
+       <ore:ingotAlloyT3> * 1073741824,
+       <contenttweaker:stellaris_food> * 72000,
+       <modularmachinery:phantom_energy_white_hole_creator_factory_controller> * 8
+    ])
+    .addEnergyPerTickInput(200000000000)
+    .addOutput(<contenttweaker:ftyingot>)
+    .requireResearch("fty_tech")
+    .addRecipeTooltip("§l§d最伟大的材料!!!")
+    .requireComputationPoint(80000.0F * 1000)
     .build();

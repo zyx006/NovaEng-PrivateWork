@@ -1,0 +1,13 @@
+{
+    "name": "拉贝尔之影",
+    "icon": "modularmachinery:shadow_factory_controller",
+    "category": "patchouli:controller",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "modularmachinery:shadow_factory_controller",
+            "text": "和精灵沟通之后制造出来的强大机器，能够快速高效地获得大量花瓣和花粉$(br)在结构中心的活石桶之中加入流体以获得并行和速度加成，数值可通过将鼠标移动到本页展示的控制器上查看$(br)由于结构的对称性，可以尝试四个控制器共用一个结构以节省流体使用"
+        }
+    ]
+}

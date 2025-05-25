@@ -1,0 +1,58 @@
+{
+    "name": "电路装配线相关材料",
+    "icon": "contenttweaker:overcircuit",
+    "category": "patchouli:item",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:integratedcircuit",
+            "text": "使用电路装配线制造出来的专属通用基板，用以制作一些相对低级的算力元件"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:quantumchip",
+            "text": "通过使用无尽之力稳定化量子跃迁而制造出来的特殊原料，可以用来制作高级的算力元件"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:circuit_boards",
+            "text": "最基础的电路基板"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:refine_circuit_boards",
+            "text": "稍微进阶一点的电路基板，能够提供极为特殊的环境"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:overcircuit",
+            "text": "最为强大的电路基板，足可以承载任何特殊的电路"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:rado_circuit",
+            "text": "以拉多为主体制造而成的集成电路，因为拉多的特殊力量而拥有了强大的计算能力"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:processor",
+            "text": "奇异系列电路的第一个电路，能够同时担负内存和GPU的功能，同时有着近乎无穷的耐久"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:assembly",
+            "text": "奇异系列电路的第二个，有着更加强大的算力和算力上限"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:processorcluster",
+            "text": "奇异系列电路的第三个，融合拉多之力之后拥有了不可思议的力量"
+        },
+        {
+            "type": "spotlight",
+            "item": "contenttweaker:mainframe",
+            "text": "奇异系列电路的最后一个，也是算力元件的顶点"
+        }
+    ]
+}

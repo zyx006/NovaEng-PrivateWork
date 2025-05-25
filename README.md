@@ -67,5 +67,13 @@
 
 点击它，你就可以开启拉取请求的流程，它最终会被提交给我们，我们进行合并后，你的修改就会在合集仓库中可见了。
 
+### 4、PR后事
+
+当你的PR被合并之后，你可以在自己的fork仓库中点击`Sync fork`菜单内的`Update branch`按钮与源仓库保持同步最新，随后可以在你的 VSCode 或其他软件中点击`源代码管理`内的`拉取`将已经与源仓库同步后的fork仓库再次同步到你的本地机器中。
+
+流转过程：源仓库→你的fork仓库→你的本地机器
+
+![alt text](./img/image-5.png)
+
 ## 👨‍💻开发推荐
 建议使用 [VSCode](https://code.visualstudio.com/) 克隆你所fork的仓库进行开发，并安装 `Chinese (Simplified)`、`ZenScript IntelliSense` 和 `Minecraft Color Highlighter` 插件辅助开发。

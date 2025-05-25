@@ -130,7 +130,7 @@ RecipeBuilder.newBuilder("birch_world_input1","birch_world",20)
             val map = data.asMap();
             val alloy =dData.getInt("alloy",0);
             val gas =dData.getInt("gas",0);
-            val crystal =dData.getInt("crystaly",0);
+            val crystal =dData.getInt("crystal",0);
             val darkmatter =dData.getInt("darkmatter",0);
             val builder =dData.getInt("builder",0);
             val scouting_point =dData.getInt("scouting_point",0);
@@ -167,7 +167,7 @@ RecipeBuilder.newBuilder("birch_world_input2","birch_world",20)
             val map = data.asMap();
             val alloy =dData.getInt("alloy",0);
             val gas =dData.getInt("gas",0);
-            val crystal =dData.getInt("crystaly",0);
+            val crystal =dData.getInt("crystal",0);
             val darkmatter =dData.getInt("darkmatter",0);
             val builder =dData.getInt("builder",0);
             val scouting_point =dData.getInt("scouting_point",0);
@@ -204,7 +204,7 @@ RecipeBuilder.newBuilder("birch_world_input3","birch_world",20)
             val map = data.asMap();
             val alloy =dData.getInt("alloy",0);
             val gas =dData.getInt("gas",0);
-            val crystal =dData.getInt("crystaly",0);
+            val crystal =dData.getInt("crystal",0);
             val darkmatter =dData.getInt("darkmatter",0);
             val builder =dData.getInt("builder",0);
             val scouting_point =dData.getInt("scouting_point",0);
@@ -242,7 +242,7 @@ RecipeBuilder.newBuilder("birch_world_input4","birch_world",20)
             val map = data.asMap();
             val alloy =dData.getInt("alloy",0);
             val gas =dData.getInt("gas",0);
-            val crystal =dData.getInt("crystaly",0);
+            val crystal =dData.getInt("crystal",0);
             val darkmatter =dData.getInt("darkmatter",0);
             val builder =dData.getInt("builder",0);
             val scouting_point =dData.getInt("scouting_point",0);
@@ -274,7 +274,7 @@ RecipeBuilder.newBuilder("birch_world_input5","birch_world",20)
             val map = data.asMap();
             val alloy =dData.getInt("alloy",0);
             val gas =dData.getInt("gas",0);
-            val crystal =dData.getInt("crystaly",0);
+            val crystal =dData.getInt("crystal",0);
             val darkmatter =dData.getInt("darkmatter",0);
             val builder =dData.getInt("builder",0);
             val scouting_point =dData.getInt("scouting_point",0);
@@ -306,7 +306,7 @@ RecipeBuilder.newBuilder("birch_world_input6","birch_world",20)
             val map = data.asMap();
             val alloy =dData.getInt("alloy",0);
             val gas =dData.getInt("gas",0);
-            val crystal =dData.getInt("crystaly",0);
+            val crystal =dData.getInt("crystal",0);
             val darkmatter =dData.getInt("darkmatter",0);
             val builder =dData.getInt("builder",0);
             val scouting_point =dData.getInt("scouting_point",0);
@@ -339,7 +339,7 @@ RecipeBuilder.newBuilder("birch_world_input7","birch_world",20)
             val map = data.asMap();
             val alloy =dData.getInt("alloy",0);
             val gas =dData.getInt("gas",0);
-            val crystal =dData.getInt("crystaly",0);
+            val crystal =dData.getInt("crystal",0);
             val darkmatter =dData.getInt("darkmatter",0);
             val builder =dData.getInt("builder",0);
             val scouting_point =dData.getInt("scouting_point",0);
@@ -363,7 +363,7 @@ RecipeBuilder.newBuilder("birch_world_build1","birch_world",20)
             val map = data.asMap();
             val nowalloy =dData.getInt("alloy",0);
             val nowgas =dData.getInt("gas",0);
-            val nowcrystal =dData.getInt("crystaly",0);
+            val nowcrystal =dData.getInt("crystal",0);
             val nowdarkmatter =dData.getInt("darkmatter",0);
             val nowbuilder =dData.getInt("builder",0);
             val nowscouting_point =dData.getInt("scouting_point",0);
@@ -397,7 +397,7 @@ RecipeBuilder.newBuilder("birch_world_build1","birch_world",20)
             val map = data.asMap();
             val alloy =dData.getInt("alloy",0);
             val gas =dData.getInt("gas",0);
-            val crystal =dData.getInt("crystaly",0);
+            val crystal =dData.getInt("crystal",0);
             val darkmatter =dData.getInt("darkmatter",0);
             val builder =dData.getInt("builder",0);
             val scouting_point =dData.getInt("scouting_point",0);
@@ -429,7 +429,7 @@ RecipeBuilder.newBuilder("birch_world_build2","birch_world",20)
             val map = data.asMap();
             val nowalloy =dData.getInt("alloy",0);
             val nowgas =dData.getInt("gas",0);
-            val nowcrystal =dData.getInt("crystaly",0);
+            val nowcrystal =dData.getInt("crystal",0);
             val nowdarkmatter =dData.getInt("darkmatter",0);
             val nowbuilder =dData.getInt("builder",0);
             val nowscouting_point =dData.getInt("scouting_point",0);
@@ -464,7 +464,7 @@ RecipeBuilder.newBuilder("birch_world_build2","birch_world",20)
             val map = data.asMap();
             val alloy =dData.getInt("alloy",0);
             val gas =dData.getInt("gas",0);
-            val crystal =dData.getInt("crystaly",0);
+            val crystal =dData.getInt("crystal",0);
             val darkmatter =dData.getInt("darkmatter",0);
             val builder =dData.getInt("builder",0);
             val scouting_point =dData.getInt("scouting_point",0);
@@ -496,7 +496,7 @@ RecipeBuilder.newBuilder("birch_world_build3","birch_world",20)
             val map = data.asMap();
             val nowalloy =dData.getInt("alloy",0);
             val nowgas =dData.getInt("gas",0);
-            val nowcrystal =dData.getInt("crystaly",0);
+            val nowcrystal =dData.getInt("crystal",0);
             val nowdarkmatter =dData.getInt("darkmatter",0);
             val nowbuilder =dData.getInt("builder",0);
             val nowscouting_point =dData.getInt("scouting_point",0);
@@ -534,7 +534,7 @@ RecipeBuilder.newBuilder("birch_world_build3","birch_world",20)
             val map = data.asMap();
             val alloy =dData.getInt("alloy",0);
             val gas =dData.getInt("gas",0);
-            val crystal =dData.getInt("crystaly",0);
+            val crystal =dData.getInt("crystal",0);
             val darkmatter =dData.getInt("darkmatter",0);
             val builder =dData.getInt("builder",0);
             val scouting_point =dData.getInt("scouting_point",0);
@@ -570,7 +570,7 @@ RecipeBuilder.newBuilder("birch_world_reception1","birch_world",10)
             val dData = D(data);
             val map = data.asMap();
             val nowcolony =dData.getInt("colony",0);
-            if(nowcolony > 0){
+            if(nowcolony < 1){
                 event.setFailed("§6§l缺少卓越长城");
             }
             if(isNull(event.controller.recipeThreadList[0].activeRecipe)){
@@ -595,7 +595,7 @@ RecipeBuilder.newBuilder("birch_world_reception2","birch_world",10)
             val dData = D(data);
             val map = data.asMap();
             val nowbirch =dData.getInt("birch",0);
-            if(nowbirch > 0){
+            if(nowbirch < 1){
                 event.setFailed("§6§l缺少伯奇世界");
             }
             if(isNull(event.controller.recipeThreadList[0].activeRecipe)){
@@ -621,7 +621,7 @@ RecipeBuilder.newBuilder("birch_world_reception3","birch_world",10)
             val dData = D(data);
             val map = data.asMap();
             val nowbirch_pro =dData.getInt("birch_pro",0);
-            if(nowbirch_pro > 0){
+            if(nowbirch_pro < 1){
                 event.setFailed("§6§l缺少寰宇星界");
             }
             if(isNull(event.controller.recipeThreadList[0].activeRecipe)){
