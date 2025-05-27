@@ -86,3 +86,9 @@ scripts\wind_turbinesy.zs
 config\modularmachinery\machinery\small_sun.json
 脚本路径:
 scripts\small_sun.zs
+
+15. 基岩钻机 (bedrock_drilling_rigs)
+配置文件路径:
+config\modularmachinery\machinery\bedrock_drilling_rigs.json
+脚本路径:
+scripts\bedrock_drilling_rigs.zs
