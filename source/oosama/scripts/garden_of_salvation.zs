@@ -37,10 +37,10 @@ recipes.addShapeless(
     "modularmachinery:garden_of_salvation_controller", // 输出物品的注册名
     <modularmachinery:garden_of_salvation_controller>, // 输出物品
     [  
-        <botania:livingrock> * 5, // 5 个 Botania 的活石
-        <avaritia:resource:1> * 1, // 1 个 Avaritia 的稀有资源（元数据为 1）
-        <botania:manaresource:4> * 1, // 1 个 Botania 的 Mana 资源（元数据为 4）
-        <botania:specialflower>.withTag({type: "jadedAmaranthus"}) * 4 // 4 个带有 NBT 标签的特殊花
+        <botania:livingrock> * 64, // 5 个 Botania 的活石
+        <botania:livingwood> * 64, // 5 个 Botania 的活木
+        <botania:manaresource>* 64, // 1 个 Botania 的 Mana 资源（元数据为 4）
+        <botania:specialflower>.withTag({type: "puredaisy"}) * 4  // 4 个带有 NBT 标签的特殊花
     ]
 );
 //产五颜六色的花瓣0
@@ -97,5 +97,18 @@ RecipeBuilder.newBuilder("gongyeyoujiranliao","garden_of_salvation", 20)
 .addItemOutput(<enderio:item_material:48>*10).setChance(0.333)
 .addItemOutput(<enderio:item_material:49>*10).setChance(0.333)
 .addItemOutput(<enderio:item_material:50>*10).setChance(0.333)
+.build();
+
+//产活石活木
+RecipeBuilder.newBuilder("huoshihuomu","garden_of_salvation", 600)
+.addItemInput(<contenttweaker:programming_circuit_c>*1).setChance(0)
+.addCatalystInput(<botania:overgrowthseed>,
+        ["使用增生之种右击一个草方块，该草方块将变为蕴魔土。", "↑只是玩笑这是一个催化剂罢了", "使工作时间§a减半§f。"],
+        [
+            RecipeModifierBuilder.create("modularmachinery:duration", "input", 0.50F, 1, false).build(),
+        ]).setChance(0)
+        
+.addItemOutput(<botania:livingrock>*32)
+.addItemOutput(<botania:livingwood>*32)
 .build();
 
