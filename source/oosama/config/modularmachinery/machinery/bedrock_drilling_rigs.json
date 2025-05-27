@@ -1,0 +1,4828 @@
+{
+    "registryname":"bedrock_drilling_rigs",
+    "localizedname":"基岩钻机",
+    "has-factory":true,
+    "color": "79767A",
+    "parts": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcontroller@2"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "advancedrocketry:drill@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "chisel:technical@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "chisel:technical@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "chisel:technical@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "chisel:technical@3"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "chisel:technical@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "chisel:technical@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "chisel:technical@3"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "chisel:technical@4"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "chisel:technical@3"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 8,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 9,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 9,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 4,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "z": 3,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 7,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 8,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 7,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "z": 5,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 9,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 9,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 9,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 8,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 2,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 8,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockinputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmepatternprovider",
+                "modularmachinery:blockoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "modularmachinery:blockenergyinputhatch",
+                "modularmachinery:blockfluidinputhatch",
+                "modularmachinery:blockfluidoutputhatch",
+                "modularmachinery:blockmegasoutputbus",
+                "modularmachinery:blockmeiteminputbus",
+                "modularmachinery:blockmefluidoutputbus",
+                "modularmachinery:blockmeitemoutputbus",
+                "minecraft:stonebrick@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "z": 9,
+            "elements": [
+                "chisel:technical1@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "z": 2,
+            "elements": [
+                "chisel:tyrian@1"
+            ]
+        }
+    ]}
