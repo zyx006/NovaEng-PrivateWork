@@ -140,7 +140,7 @@ RecipeBuilder.newBuilder("tiebingzhizuo", "ImplosionCompressor", 2)
 //制作铁栅栏（小小栅栏居然如此麻烦）
 RecipeBuilder.newBuilder("tiezhalanzhizuo", "ImplosionCompressor", 2)
     .addEnergyPerTickInput(14400) //电
-    .addInput(<thermalfoundation:material:32>) //铁外壳
+    .addInput(<ic2:casing:3>) //铁外壳
     .addItemOutput(<ic2:fence>*5)
         .addCatalystInput(<minecraft:tnt> * 1,  // TNT
         ["爆炸就是艺术！","此催化剂可以使产量提高100%"],
