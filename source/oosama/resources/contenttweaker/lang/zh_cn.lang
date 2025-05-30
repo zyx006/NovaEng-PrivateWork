@@ -20,23 +20,6 @@ fluid.trq=天然气
 fluid.wt=烷烃混合物
 fluid.jfh=激发态氦
 
-
-fluid.oil_tetranitromethane=四硝基甲烷
-fluid.oil_cetan_eboosted_diesel=高十六烷值柴油
-fluid.oil_sulfur_rich_light_fuel=含硫轻燃油
-fluid.oil_sulfur_rich_heavy_fuel=含硫重燃油
-fluid.oil_sulfur_rich_naphtha=含硫石脑油
-fluid.oil_sulfur_rich_refinery_gas=含硫炼油气
-fluid.oil_heavy_fuel=重燃油
-fluid.oil_light_fuel=轻燃油
-fluid.oil_fuel=燃油
-fluid.oil_h2s=硫化氢
-fluid.oil_hno3=硝酸
-fluid.oil_c2h2o=乙烯酮
-fluid.oil_c2h4o2=乙酸
-fluid.oil_charcoal_byproducts=木炭副产
-
-
 item.contenttweaker.universalalloyt1.name=§e基础通用合金
 item.contenttweaker.universalalloyt2.name=§c强化通用合金
 item.contenttweaker.universalalloyt3.name=§5终极通用合金

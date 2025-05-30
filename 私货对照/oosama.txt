@@ -92,3 +92,9 @@ scripts\small_sun.zs
 config\modularmachinery\machinery\bedrock_drilling_rigs.json
 脚本路径:
 scripts\bedrock_drilling_rigs.zs
+
+16. 天基深空环境探测器地面天线组阵系统 (large_round_pot)
+配置文件路径:
+config\modularmachinery\machinery\large_round_pot.json
+脚本路径:
+scripts\large_round_pot.zs
