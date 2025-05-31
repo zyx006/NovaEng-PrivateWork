@@ -4,10 +4,30 @@
 3.机器或许存在数值崩坏，过低或者过高，使用前请自行斟酌。
 QQ：554983922
 
+机器列表与功能简述：
+1. 压缩中子素吸积盘 (9x Neutron Plate) 压缩中子素吸积盘 
+2. 聚爆压缩机 (Implosion Compressor) 模块化外壳，线缆制作（取代ic2和热力压缩机配方或许有可能不全）
+3. 超维度等离子锻炉 (Dimensionally Transcendent Plasma Forge) 大号合金炉
+4. 巨型砖炉 (Mega Bricked Blast Furnace)  大号制作钢锭
+5. 无限晶胞 (Infinite Unit Cells)  大号水晶注能
+6. 深度化学扭曲仪 (Twist Space Technology) 大号化学反应釜
+7. 超维度激光雕刻矩阵 (Laser Etching) 大号压印机
+8. 哈斯陶吕克微生物支配者 (Hastalyk)  大号矿处
+9. 救赎花园 (Garden of Salvation) 模块化翡翠苋，直接输入魔力产出花瓣燃料（增加白雏菊功能）
+10. 魔力阵列 (Mana Machine) 模块化产能花
+11. 光能调控物质再造矩阵 (Starlight Matrix) 模块化星辉祭坛取代封包
+12. 魔力聚合机增加配方 (Ex Bot Crafter) 额外配方
+13. 太阳能板 (Solar Panel) 戴森球发电机模型来源于up勺子子子勺
+14. 风力涡轮机 (Wind Turbines) 戴森球发电机模型来源于up勺子子子勺
+15. 人造恒星 (Small Sun) 戴森球发电机模型来源于up勺子子子勺
+16. 基岩钻机 (bedrock_drilling_rigs) 模块化基岩粉
+17. 天基深空环境探测器地面天线组阵系统 (large_round_pot) 模块化氦三生产
+18.9重压缩重水泵（9x_Beng）杜绝堆量简单的九合一
+
 oil文件夹为轻量化石油化工的模型文件诸多为没有落实的卫星
 （请勿安装）
 
-OK那么开始机器列表介绍
+OK那么开始机器更新
 
 压缩中子素吸积盘 V1.0
 套用原模型，九合一直接产出粒和锭
