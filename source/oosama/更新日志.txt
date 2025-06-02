@@ -23,6 +23,7 @@ QQ：554983922
 16. 基岩钻机 (bedrock_drilling_rigs) 模块化基岩粉
 17. 天基深空环境探测器地面天线组阵系统 (large_round_pot) 模块化氦三生产
 18.9重压缩重水泵（9x_Beng）杜绝堆量简单的九合一
+19.终极物质复合工厂（advanced_antegrated_factory）额外配方补全热力EIO合金炉
 
 oil文件夹为轻量化石油化工的模型文件诸多为没有落实的卫星
 （请勿安装）
