@@ -115,5 +115,5 @@ item.contenttweaker.space_probe_mk3.name=§5宇宙探测器MKⅢ
 	
 tile.contenttweaker.spacetime_compression_field_generator.name=§3压缩时空立场发生器
 tile.contenttweaker.dimension_creation_casing.name=§q维度创造方块
-tile.contenttweaker.dimensional_stability_casing.name=§c维度稳定方块
-tile.contenttweaker.containment_field_generator.name=§v遏制场发生器
+tile.contenttweaker.dimensional_stability_casing.name=§e维度稳定方块
+tile.contenttweaker.containment_field_generator.name=§5遏制场发生器

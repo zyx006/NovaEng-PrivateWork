@@ -1,67 +1,67 @@
 1. 压缩中子素吸积盘 (9x Neutron Plate)
 配置文件路径:
-config\modularmachinery\machinery\neutron_plate\9x_neutron_platemk1.json
-config\modularmachinery\machinery\neutron_plate\9x_neutron_platemk2.json
+config\modularmachinery\machinery\oosama\neutron_plate\9x_neutron_platemk1.json
+config\modularmachinery\machinery\oosama\neutron_plate\9x_neutron_platemk2.json
 脚本路径:
 scripts\9x_neutron_plate.zs
 
 2. 聚爆压缩机 (Implosion Compressor)
 配置文件路径:
-config\modularmachinery\machinery\ImplosionCompressor.json
+config\modularmachinery\machinery\oosama\ImplosionCompressor.json
 脚本路径:
 scripts\ImplosionCompressor.zs
 
 3. 超维度等离子锻炉 (Dimensionally Transcendent Plasma Forge)
 配置文件路径:
-config\modularmachinery\machinery\dimensionally_transcendent_plasma_forge.json
+config\modularmachinery\machinery\oosama\dimensionally_transcendent_plasma_forge.json
 脚本路径:
 scripts\dimensionally_transcendent_plasma_forge.zs
 
 4. 巨型砖炉 (Mega Bricked Blast Furnace)
 配置文件路径:
-config\modularmachinery\machinery\mega_bricked_blast_furnace.json
+config\modularmachinery\machinery\oosama\mega_bricked_blast_furnace.json
 脚本路径:
 scripts\mega_bricked_blast_furnace.zs
 
 5. 无限晶胞 (Infinite Unit Cells)
 配置文件路径:
-config\modularmachinery\machinery\infinite_unit_cells.json
+config\modularmachinery\machinery\oosama\infinite_unit_cells.json
 脚本路径:
 scripts\infinite_unit_cells.zs
 
 6. 深度化学扭曲仪 (Twist Space Technology)
 配置文件路径:
-config\modularmachinery\machinery\twist_space_technology.json
+config\modularmachinery\machinery\oosama\twist_space_technology.json
 脚本路径:
 scripts\twist_space_technology.zs
 
 7. 超维度激光雕刻矩阵 (Laser Etching)
 配置文件路径:
-config\modularmachinery\machinery\laser_etching.json
+config\modularmachinery\machinery\oosama\laser_etching.json
 脚本路径:
 scripts\laser_etching.zs
 
 8. 哈斯陶吕克微生物支配者 (Hastalyk)
 配置文件路径:
-config\modularmachinery\machinery\hastalyk.json
+config\modularmachinery\machinery\oosama\hastalyk.json
 脚本路径:
 scripts\hastalyk.zs
 
 9. 救赎花园 (Garden of Salvation)
 配置文件路径:
-config\modularmachinery\machinery\garden_of_salvation.json
+config\modularmachinery\machinery\oosama\garden_of_salvation.json
 脚本路径:
 scripts\garden_of_salvation.zs
 
 10. 魔力阵列 (Mana Machine)
 配置文件路径:
-config\modularmachinery\machinery\mana_machine.json
+config\modularmachinery\machinery\oosama\mana_machine.json
 脚本路径:
 scripts\mana_machine.zs
 
 11. 光能调控物质再造矩阵 (Starlight Matrix)
 配置文件路径:
-config\modularmachinery\machinery\starlight_matrix.json
+config\modularmachinery\machinery\oosama\starlight_matrix.json
 脚本路径:
 scripts\starlight_matrix.zs
 
@@ -71,30 +71,35 @@ scripts\ex_bot_crafter.zs
 
 13. 太阳能板 (Solar Panel)
 配置文件路径:
-config\modularmachinery\machinery\solar_panel_114514.json
+config\modularmachinery\machinery\oosama\solar_panel_114514.json
 脚本路径:
 scripts\solar_panel_114514.zs
 
 14. 风力涡轮机 (Wind Turbines)
 配置文件路径:
-config\modularmachinery\machinery\wind_turbinesy.json
+config\modularmachinery\machinery\oosama\wind_turbinesy.json
 脚本路径:
 scripts\wind_turbinesy.zs
 
 15. 人造恒星 (Small Sun)
 配置文件路径:
-config\modularmachinery\machinery\small_sun.json
+config\modularmachinery\machinery\oosama\small_sun.json
 脚本路径:
 scripts\small_sun.zs
 
 15. 基岩钻机 (bedrock_drilling_rigs)
 配置文件路径:
-config\modularmachinery\machinery\bedrock_drilling_rigs.json
+config\modularmachinery\machinery\oosama\bedrock_drilling_rigs.json
 脚本路径:
 scripts\bedrock_drilling_rigs.zs
 
 16. 天基深空环境探测器地面天线组阵系统 (large_round_pot)
 配置文件路径:
-config\modularmachinery\machinery\large_round_pot.json
+config\modularmachinery\machinery\oosama\large_round_pot.json
 脚本路径:
 scripts\large_round_pot.zs
+
+17终极物质复合工厂（advanced_antegrated_factory）
+config\modularmachinery\machinery\oosama\advanced_antegrated_factory.json
+脚本路径:
+scripts\advanced_antegrated_factory.zs
