@@ -647,8 +647,15 @@ RecipeBuilder.newBuilder("endergy_alloy_ingot_recipe",machineName, time)
     .addOutput(<enderio:item_alloy_endergy_ingot>)
     .addEnergyPerTickInput(energyPerTick)
     .build();
-
-
+//感知锭
+RecipeBuilder.newBuilder("konwyouding",machineName, time)
+    .addInputs(
+        <tconevo:material>,
+        <bloodmagic:monster_soul>  //灵魂
+    )
+    .addOutput(<tconevo:metal:30>)
+    .addEnergyPerTickInput(energyPerTick)
+    .build();
 
 
 //嗨嗨嗨配方继承
