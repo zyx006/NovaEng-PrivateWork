@@ -409,6 +409,56 @@ RecipeBuilder.newBuilder("silicon_wafer_recipe", machineName, time)
     .addEnergyPerTickInput(energyPerTick)
     .build();
 
+//神经红色燃料配方
+RecipeBuilder.newBuilder("hongseranliao", machineName, time)
+    .addInputs(
+        <minecraft:beetroot>,
+        <ore:egg>*6,
+        <minecraft:clay_ball>*3
+    )
+    .addOutput(<minecraft:dye:1>*12)
+    .addEnergyPerTickInput(energyPerTick)
+    .build();
+
+//两个吃的
+RecipeBuilder.newBuilder("xiaobinggan", machineName, time)
+    .addInputs(
+        <ore:dustWheat>,
+        <minecraft:dye:3>
+    )
+    .addOutput(<minecraft:cookie>*12)
+    .addEnergyPerTickInput(energyPerTick)
+    .build();
+
+RecipeBuilder.newBuilder("mianbaobian", machineName, time)
+    .addInputs(
+        <ore:dustWheat>*3,
+        <ore:egg>
+    )
+    .addOutput(<enderio:item_material:70>*12)
+    .addEnergyPerTickInput(energyPerTick)
+    .build();
+//炉渣
+RecipeBuilder.newBuilder("timeisover", machineName, time)
+    .addInputs(
+        <ore:sand>,
+        <ore:dustRedstone>
+    )
+    .addOutput(<thermalfoundation:material:864>)
+    .addOutput(<thermalfoundation:material:865>).setChance(0.5)
+    .addEnergyPerTickInput(energyPerTick)
+    .build();
+//富炉渣
+RecipeBuilder.newBuilder("timeisoverallright", machineName, time)
+    .addInputs(
+        <ore:sand>,
+        <thermalfoundation:material:865>
+    )
+    .addOutput(<thermalfoundation:material:865>)
+    .addEnergyPerTickInput(energyPerTick)
+    .build();
+
+//三个有机染料
 RecipeBuilder.newBuilder("item_material75", machineName, time)
     .addIngredientArrayInput(IngredientArrayBuilder.newBuilder().addIngredients([
                 <ore:dustCoal>,
@@ -445,6 +495,20 @@ RecipeBuilder.newBuilder("item_material49", machineName, time)
     .addEnergyPerTickInput(energyPerTick)
     .build();
 
+    RecipeBuilder.newBuilder("item_material50", machineName, time)
+    .addIngredientArrayInput(IngredientArrayBuilder.newBuilder().addIngredients([
+                <ore:slimeball>,
+                <ore:egg>
+            ]))
+    .addInputs(
+        <ore:dustCoal>,
+        <ore:dustCharcoal>
+    )
+    .addOutput(<enderio:item_material:50>*4)
+    .addEnergyPerTickInput(energyPerTick)
+    .build();
+
+    //神秘的花
 
     // 创建死亡袋子配方（Death Pouch Recipe）
 RecipeBuilder.newBuilder("death_pouch_recipe", machineName, time)
@@ -562,7 +626,39 @@ RecipeBuilder.newBuilder("silver_dust_recipe", machineName, time)
     .addOutput(<enderio:block_fused_glass>)
     .addEnergyPerTickInput(energyPerTick)
     .build();
+// 创建工业绝缘块配方（Industrial Insulation Recipe）
+RecipeBuilder.newBuilder("industrial_insulation_recipe", machineName, time)
+    .addInputs(
+        <ore:dustTin>,              // 锡粉
+        <ore:dustLapis>,            // 青金石粉
+        <minecraft:wool>            // 羊毛
+    )
+    .addOutput(<enderio:block_industrial_insulation>)  // 输出工业绝缘块
+    .addEnergyPerTickInput(energyPerTick)    // 每 tick 所需能量
+    .build();                      // 注册该配方
 
+// 创建 Endergy 合金锭配方
+RecipeBuilder.newBuilder("endergy_alloy_ingot_recipe",machineName, time)
+    .addInputs(
+        <minecraft:clay_ball>,
+        <minecraft:gravel>,
+        <ore:cobblestone>  //原石
+    )
+    .addOutput(<enderio:item_alloy_endergy_ingot>)
+    .addEnergyPerTickInput(energyPerTick)
+    .build();
+//感知锭
+RecipeBuilder.newBuilder("konwyouding",machineName, time)
+    .addInputs(
+        <tconevo:material>,
+        <bloodmagic:monster_soul>  //灵魂
+    )
+    .addOutput(<tconevo:metal:30>)
+    .addEnergyPerTickInput(energyPerTick)
+    .build();
+
+
+//嗨嗨嗨配方继承
 
 RecipeAdapterBuilder.create("advanced_antegrated_factory", "modularmachinery:large_metallurgical_complex")
     .addModifier(RecipeModifierBuilder.create("modularmachinery:duration", "input", 0.025,  1, false).build())
