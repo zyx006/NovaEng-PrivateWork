@@ -64,19 +64,28 @@ RecipeBuilder.newBuilder("large_round_pot_2", "machine_arm",2400)
 
 //宇宙探测器配方
 //MKI
-recipes.addShaped( 
-    <contenttweaker:space_probe_mk1>, // 输出物品
-    [[<minecraft:dispenser>*64, <immersiveengineering:conveyor>*64, <minecraft:piston>*64],
-    [<contenttweaker:robot_arm_v1>*64, <contenttweaker:electric_motor_v1>*64, <contenttweaker:industrial_circuit_v1>*64],
-    [<contenttweaker:sensor_v1>*64, <appliedenergistics2:material:41>*64, <minecraft:string>*64]]
-);
-
+RecipeBuilder.newBuilder("yuzhouwurenjimk1", "machine_arm",10)
+    .addEnergyPerTickInput(8124000)
+    .addInputs([
+        <minecraft:dispenser>*64, 
+        <immersiveengineering:conveyor>*64, 
+        <minecraft:piston>*64,
+        <contenttweaker:robot_arm_v1>*64, 
+        <contenttweaker:electric_motor_v1>*64, 
+        <contenttweaker:industrial_circuit_v1>*64,
+        <contenttweaker:sensor_v1>*64, 
+        <appliedenergistics2:material:41>*64,
+        <minecraft:string>*64
+        ])
+    .addOutputs(<contenttweaker:space_probe_mk1> * 1) 
+    .build();
+    
 RecipeBuilder.newBuilder("yuzhouwurenjimk2", "machine_arm",10)
     .addEnergyPerTickInput(8124000)
     .addInputs([
-        <contenttweaker:space_probe_mk1> ,
+        <contenttweaker:space_probe_mk1>,
         <contenttweaker:robot_arm_v2>*16, 
-        <contenttweaker:electric_motor_v2>*16, 
+         <contenttweaker:electric_motor_v2>*16, 
         <contenttweaker:industrial_circuit_v2>*16,
         <contenttweaker:sensor_v2>*16
         ])

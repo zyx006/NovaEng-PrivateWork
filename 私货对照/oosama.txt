@@ -103,3 +103,9 @@ scripts\large_round_pot.zs
 config\modularmachinery\machinery\oosama\advanced_antegrated_factory.json
 脚本路径:
 scripts\advanced_antegrated_factory.zs
+
+18. 光之蚀梦者（light_dreameater）
+配置文件路径:
+config\modularmachinery\machinery\oosama\light_dreameater.json
+脚本路径:
+scripts\light_dreameater.zs
