@@ -51,44 +51,64 @@ RecipeBuilder.newBuilder("advanced_antegrated_factory", "workshop", 60)
                 ])
         .addOutput(<modularmachinery:advanced_antegrated_factory_factory_controller>)
         .build();
-var recipeCounter = 1;
 
 val baseGlass = <ore:dustObsidian>; // 基础玻璃材料
 val machineName = "advanced_antegrated_factory";  // 使用的机器名称
 val time = 5;                                   // 配方所需时间（单位：ticks）
 val energyPerTick = 10000;                          // 每 tick 所需能量
 
-//单质
-RecipeBuilder.newBuilder("separator_uranium", "advanced_antegrated_factory", 5) // 1秒 = 20 ticks
+
+//岩石粉碎配方
+    RecipeBuilder.newBuilder("separator_uranium", "item_shredder", 10)
+    .addInput(<ore:stoneAndesite>*10)
+    .addOutput(<nuclearcraft:dust:9>* 10)
+    .addOutput(<nuclearcraft:compound:11> * 6)
+    .addOutput(<nuclearcraft:gem_dust:10> * 3)
+    .addEnergyPerTickInput(10000) // 5.0 RF/t × 20 ticks = 100 RF
+    .build();
+
+  RecipeBuilder.newBuilder("stoneDiorite_is", "item_shredder", 10)
+    .addInput(<ore:stoneDiorite>*10)
+    .addOutput(<nuclearcraft:dust:10>* 10)
+    .addOutput(<mekanism:otherdust:7> * 9)
+    .addOutput(<nuclearcraft:gem_dust:9> * 7)
+    .addEnergyPerTickInput(10000) // 5.0 RF/t × 20 ticks = 100 RF
+    .build();
+
+    RecipeBuilder.newBuilder("stoneGranite_is", "item_shredder", 10)
+    .addInput(<ore:stoneGranite>*10)
+    .addOutput(<nuclearcraft:gem_dust:1>* 8)
+    .addOutput(<thermalfoundation:material:771>* 6)
+    .addOutput(<nuclearcraft:gem_dust:8>* 4)
+    .addEnergyPerTickInput(10000) // 5.0 RF/t × 20 ticks = 100 RF
+    .build();  
+    
+    //单质
+    RecipeBuilder.newBuilder("separator_uranium", "item_shredder", 10)
     .addIngredientArrayInput(IngredientArrayBuilder.newBuilder().addIngredients([
-        <ore:ingotUranium>,
-        <ore:dustUranium>
+        <ore:dustUranium>*10
             ]))
     .addOutput(<nuclearcraft:uranium:10>* 9)
     .addOutput(<nuclearcraft:uranium:5> * 1)
-    .addEnergyPerTickInput(energyPerTick) // 5.0 RF/t × 20 ticks = 100 RF
+    .addEnergyPerTickInput(10000) // 5.0 RF/t × 20 ticks = 100 RF
     .build();
 
-RecipeBuilder.newBuilder("separator_boron", "advanced_antegrated_factory", 5) // 1.2秒
+RecipeBuilder.newBuilder("separator_boron", "item_shredder", 10)
 .addIngredientArrayInput(IngredientArrayBuilder.newBuilder().addIngredients([
-        <ore:ingotBoron>,
-        <ore:dustBoron>
+        <ore:dustBoron>*12
              ]))
     .addOutput(<nuclearcraft:boron:1>* 9)
     .addOutput(<nuclearcraft:boron>* 3)
-    .addEnergyPerTickInput(energyPerTick)
+    .addEnergyPerTickInput(10000)
     .build();
-
-RecipeBuilder.newBuilder("separator_lithium", "advanced_antegrated_factory", 5)
+RecipeBuilder.newBuilder("separator_lithium", "item_shredder", 10)
 .addIngredientArrayInput(IngredientArrayBuilder.newBuilder().addIngredients([
-        <ore:ingotLithium>,
-        <ore:dustLithium>
+        <ore:dustLithium>*10
           ]))
     .addOutput(<nuclearcraft:lithium:1> * 9)
     .addOutput(<nuclearcraft:lithium> * 1)
-    .addEnergyPerTickInput(energyPerTick)
+    .addEnergyPerTickInput(10000)
     .build();
-
 // Titanium 硬化玻璃块配方
 RecipeBuilder.newBuilder("block_glasshardenedtitanium", machineName, time)
     .addInput(baseGlass)  // 添加基础玻璃作为输入

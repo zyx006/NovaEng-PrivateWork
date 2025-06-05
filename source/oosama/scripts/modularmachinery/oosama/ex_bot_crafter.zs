@@ -32,6 +32,18 @@ import novaeng.hypernet.HyperNetHelper;
 
 
 //魔力聚合机新增配方
+// V姐的头
+RecipeBuilder.newBuilder("mougerendehead", "bot_crafter", 20)
+    .addIngredientArrayInput(IngredientArrayBuilder.newBuilder().addIngredients([
+        <contenttweaker:iridescence>*16,
+        <botania:mushroom:6>*16,
+        <botania:petal:6>*16
+    ]))
+    .addInput(<ore:seed>) // 魔力消耗
+    .addOutput(<minecraft:skull:3>.withTag({SkullOwner:{Name: "Vazkii"}}))
+    .build();
+
+
 
 // 初阶符文合成表
 
@@ -44,7 +56,7 @@ RecipeBuilder.newBuilder("bc_water_rune", "bot_crafter", 20)
         <botania:manaresource:23>, // 魔力尘
         <botania:manaresource:0> // 魔力钢锭
     ])
-    .addManaInput(5200) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*5) // 魔力消耗
     .addOutput(<botania:rune:0> * 2)
     .build();
 
@@ -58,7 +70,7 @@ RecipeBuilder.newBuilder("bc_fire_rune", "bot_crafter", 20)
         <botania:manaresource:23>, // 魔力尘
         <botania:manaresource:0> // 魔力钢锭
     ])
-    .addManaInput(5200) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*5) // 魔力消耗
     .addOutput(<botania:rune:1> * 2)
     .build();
 
@@ -67,11 +79,11 @@ RecipeBuilder.newBuilder("bc_earth_rune", "bot_crafter", 20) // 时间设置为1
     .addInputs([
         <minecraft:stone>,
         <minecraft:coal_block>,
-        <ore:mushroom>, // 任意颜色蘑菇
+        <ore:listAllmushroom>, // 任意颜色蘑菇
         <botania:manaresource:23>, // 魔力尘
         <botania:manaresource:0> // 魔力钢锭
     ])
-    .addManaInput(5200) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*5) // 魔力消耗
     .addOutput(<botania:rune:2> * 2)
     .build();
 
@@ -106,7 +118,7 @@ RecipeBuilder.newBuilder("bc_wind_rune", "bot_crafter", 20)
         <botania:manaresource:23>, // 魔力尘
         <botania:manaresource:0> // 魔力钢锭
     ])
-    .addManaInput(5200) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*5) // 魔力消耗
     .addOutput(<botania:rune:3> * 2)
     .build();
 
@@ -121,7 +133,7 @@ RecipeBuilder.newBuilder("bc_spring_rune", "bot_crafter", 20)
     ])
     .addInputs(<botania:rune:0>).setChance(0) // 水之符文（不消耗）
     .addInputs(<botania:rune:1>).setChance(0) // 火之符文（不消耗）
-    .addManaInput(8000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*8) // 魔力消耗
     .addOutput(<botania:rune:4>)
     .build();
 
@@ -135,7 +147,7 @@ RecipeBuilder.newBuilder("bc_summer_rune", "bot_crafter", 20)
     ])
     .addInputs(<botania:rune:2>).setChance(0) // 地之符文（不消耗）
     .addInputs(<botania:rune:3>).setChance(0) // 风之符文（不消耗）
-    .addManaInput(8000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*8) // 魔力消耗
     .addOutput(<botania:rune:5>)
     .build();
 
@@ -148,7 +160,7 @@ RecipeBuilder.newBuilder("bc_autumn_rune", "bot_crafter", 20)
     ])
     .addInputs(<botania:rune:1>).setChance(0) // 火之符文（不消耗）
     .addInputs(<botania:rune:3>).setChance(0) // 风之符文（不消耗）
-    .addManaInput(8000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*8) // 魔力消耗
     .addOutput(<botania:rune:6>)
     .build();
 
@@ -162,7 +174,7 @@ RecipeBuilder.newBuilder("bc_winter_rune", "bot_crafter", 20)
     ])
     .addInputs(<botania:rune:0>).setChance(0) // 水之符文（不消耗）
     .addInputs(<botania:rune:2>).setChance(0) // 地之符文（不消耗）
-    .addManaInput(8000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*8) // 魔力消耗
     .addOutput(<botania:rune:7>)
     .build();
 
@@ -176,7 +188,7 @@ RecipeBuilder.newBuilder("bc_mana_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:1>).setChance(0) // 火之符文（不消耗）
     .addInputs(<botania:rune:2>).setChance(0) // 地之符文（不消耗）
     .addInputs(<botania:rune:3>).setChance(0) // 风之符文（不消耗）
-    .addManaInput(16000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*16) // 魔力消耗
     .addOutput(<botania:rune:8>)
     .build();
 
@@ -190,7 +202,7 @@ RecipeBuilder.newBuilder("bc_pride_rune", "bot_crafter", 20)
     ])
     .addInputs(<botania:rune:5>).setChance(0) // 夏之符文（不消耗）
     .addInputs(<botania:rune:1>).setChance(0) // 火之符文（不消耗）
-    .addManaInput(12000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:15>)
     .build();
 
@@ -202,7 +214,7 @@ RecipeBuilder.newBuilder("bc_envy_rune", "bot_crafter", 20)
     ])
     .addInputs(<botania:rune:7>).setChance(0) // 冬之符文（不消耗）
     .addInputs(<botania:rune:0>).setChance(0) // 水之符文（不消耗）
-    .addManaInput(12000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:14>)
     .build();
 
@@ -214,7 +226,7 @@ RecipeBuilder.newBuilder("bc_wrath_rune", "bot_crafter", 20)
     ])
     .addInputs(<botania:rune:7>).setChance(0) // 冬之符文（不消耗）
     .addInputs(<botania:rune:2>).setChance(0) // 地之符文（不消耗）
-    .addManaInput(12000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:13>)
     .build();
 
@@ -226,7 +238,7 @@ RecipeBuilder.newBuilder("bc_sloth_rune", "bot_crafter", 20)
     ])
     .addInputs(<botania:rune:6>).setChance(0) // 秋之符文（不消耗）
     .addInputs(<botania:rune:3>).setChance(0) // 风之符文（不消耗）
-    .addManaInput(12000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:12>)
     .build();
 
@@ -238,7 +250,7 @@ RecipeBuilder.newBuilder("bc_greed_rune", "bot_crafter", 20)
     ])
     .addInputs(<botania:rune:4>).setChance(0) // 春之符文（不消耗）
     .addInputs(<botania:rune:0>).setChance(0) // 水之符文（不消耗）
-    .addManaInput(12000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:11>)
     .build();
 
@@ -250,7 +262,7 @@ RecipeBuilder.newBuilder("bc_gluttony_rune", "bot_crafter", 20)
     ])
     .addInputs(<botania:rune:7>).setChance(0) // 冬之符文（不消耗）
     .addInputs(<botania:rune:1>).setChance(0) // 火之符文（不消耗）
-    .addManaInput(12000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:10>)
     .build();
 
@@ -262,7 +274,7 @@ RecipeBuilder.newBuilder("bc_lust_rune", "bot_crafter", 20)
     ])
     .addInputs(<botania:rune:5>).setChance(0) // 夏之符文（不消耗）
     .addInputs(<botania:rune:3>).setChance(0) // 风之符文（不消耗）
-    .addManaInput(12000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:9>)
     .build();
 
@@ -278,7 +290,7 @@ RecipeBuilder.newBuilder("player_head", "bot_crafter", 20)
         <botania:manaresource:8>  // 精灵尘
     ])
     .addInput(<botania:livingrock>) // 活石
-    .addManaInput(22500) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*22) // 魔力消耗
     .addOutput(<minecraft:skull:3>) // 注意：这里的输出可能需要根据实际需求调整
     .build();
 
@@ -289,7 +301,7 @@ RecipeBuilder.newBuilder("bc_soarleander_flower", "bot_crafter", 20)
         <minecraft:chicken>*8
     ])
     .addInput(<botania:livingrock>) // 活石
-    .addManaInput(8000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*8) // 魔力消耗
     .addOutput(<botania:specialflower>.withTag({type: "soarleander"})) // 输出：Soarleander 花
     .build();
 
@@ -304,7 +316,7 @@ RecipeBuilder.newBuilder("bc_enchanted_material", "bot_crafter", 20)
         <ore:elvenDragonstone>
     ])
     .addInput(<botania:livingrock>) // 活石
-    .addManaInput(100000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*100) // 魔力消耗
     .addOutput(<extrabotany:material:2>.withTag({
         ench: [
             {lvl: 5 as short, id: 1},
@@ -322,8 +334,9 @@ RecipeBuilder.newBuilder("bc_material_2", "bot_crafter", 20)
         <minecraft:gold_nugget>,
         <botania:livingrock> // 活石
     ])
-    .addManaInput(800) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*1)// 魔力消耗
     .addOutput(<extrabotany:material:2>) // 输出：Material:2
+    .addRecipeTooltip("育碧服务器？育碧服务器！")
     .build();
 
 // Froststar 合成
@@ -334,7 +347,7 @@ RecipeBuilder.newBuilder("bc_froststar", "bot_crafter", 20)
         <botania:rune:0> // 魔力符文
     ])
     .addInputs(<botania:livingrock>) // 活石
-    .addManaInput(2000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*2)// 魔力消耗
     .addOutput(<extrabotany:froststar>) // 输出：Froststar
     .build();
 
@@ -347,7 +360,7 @@ RecipeBuilder.newBuilder("bc_death_ring", "bot_crafter", 20)
         <botania:rune:7>, // Envy 符文
         <botania:livingrock> // 活石
     ])
-    .addManaInput(2000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*2)// 魔力消耗
     .addOutput(<extrabotany:deathring>) // 输出：Death Ring
     .build();
 
@@ -362,7 +375,7 @@ RecipeBuilder.newBuilder("bc_combatmaidchestdarkened", "bot_crafter", 20)
         <extrabotany:shadowwarriorboots>,
         <botania:livingrock> // 活石
     ])
-    .addManaInput(50000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*50) // 魔力消耗
     .addOutput(<extrabotany:combatmaidchestdarkened>) // 输出：Combat Maid Chest Darkened
     .build();
 
@@ -375,7 +388,7 @@ RecipeBuilder.newBuilder("bc_walljumping", "bot_crafter", 20)
         <minecraft:sticky_piston>,
         <botania:livingrock> // 活石
     ])
-    .addManaInput(2000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*2)// 魔力消耗
     .addOutput(<extrabotany:walljumping>) // 输出：Walljumping
     .build();
 
@@ -388,7 +401,7 @@ RecipeBuilder.newBuilder("bc_wallrunning", "bot_crafter", 20)
         <ore:stone>,
         <botania:livingrock> // 活石
     ])
-    .addManaInput(2000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*2)// 魔力消耗
     .addOutput(<extrabotany:wallrunning>) // 输出：Wallrunning
     .build();
 
@@ -400,7 +413,7 @@ RecipeBuilder.newBuilder("bc_elvenking", "bot_crafter", 20)
         <botania:rune:8>, // Spring 符文
         <botania:livingrock> // 活石
     ])
-    .addManaInput(4000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*4)// 魔力消耗
     .addOutput(<extrabotany:elvenking>) // 输出：Elvenking
     .build();
 
@@ -412,7 +425,7 @@ RecipeBuilder.newBuilder("bc_ultimatehammer", "bot_crafter", 20)
         <minecraft:gold_block>,
         <botania:livingrock> // 活石
     ])
-    .addManaInput(100000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*100) // 魔力消耗
     .addOutput(<extrabotany:ultimatehammer>) // 输出：Ultimate Hammer
     .build();
 
@@ -430,7 +443,7 @@ RecipeBuilder.newBuilder("bc_allforone", "bot_crafter", 20)
         <botania:rune:12>, // Pride 符文
         <botania:livingrock> // 活石
     ])
-    .addManaInput(50000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*50) // 魔力消耗
     .addOutput(<extrabotany:allforone>) // 输出：Allforone
     .build();
 
@@ -450,7 +463,7 @@ RecipeBuilder.newBuilder("bc_firstfractal", "bot_crafter", 20)
         <botania:manasteelsword>,
         <botania:livingrock> // 活石
     ])
-    .addManaInput(1000000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*1000) // 魔力消耗
     .addOutput(<extrabotany:firstfractal>) // 输出：Firstfractal
     .build();
 
@@ -475,6 +488,6 @@ RecipeBuilder.newBuilder("bc_advancedrocketry_crystal", "bot_crafter", 20)
         <botania:rune:15>,
         <botania:livingrock> // 活石
     ])
-    .addManaInput(1000000) // 魔力消耗
+    .addInput(<liquid:fluidedmana>*1000) // 魔力消耗
     .addOutput(<advancedrocketry:crystal>.withTag({"display": {"Lore": ["想想怎么利用它，不如试试用铿金与它熔炼出新物质？"], "Name": "重聚而出的晶块"}})) // 输出：Advanced Rocketry Crystal
     .build();
