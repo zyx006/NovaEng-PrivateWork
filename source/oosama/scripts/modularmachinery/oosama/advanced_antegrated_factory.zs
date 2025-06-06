@@ -677,6 +677,20 @@ RecipeBuilder.newBuilder("konwyouding",machineName, time)
     .addEnergyPerTickInput(energyPerTick)
     .build();
 
+//你太美合金
+RecipeBuilder.newBuilder("youaresomeili",machineName, time)
+    .addInputs(
+         <mets:niobium_titanium_dust>*4
+    )
+    .addIngredientArrayInput(IngredientArrayBuilder.newBuilder().addIngredients([
+         <ore:charcoal>,
+         <ore:coal>,
+         <contenttweaker:material_part:84>
+
+    ]))
+    .addOutput(<mets:niobium_titanium_ingot>* 4)
+    .addEnergyPerTickInput(energyPerTick)
+    .build();
 
 //嗨嗨嗨配方继承
 
