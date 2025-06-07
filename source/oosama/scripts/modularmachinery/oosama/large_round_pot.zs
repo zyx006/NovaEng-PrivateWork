@@ -68,7 +68,7 @@ RecipeBuilder.newBuilder("yuzhouwurenjimk1", "machine_arm",10)
     .addEnergyPerTickInput(8124000)
     .addInputs([
         <minecraft:dispenser>*64, 
-        <immersiveengineering:conveyor>*64, 
+        <immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineering:conveyor"}) * 64,
         <minecraft:piston>*64,
         <contenttweaker:robot_arm_v1>*64, 
         <contenttweaker:electric_motor_v1>*64, 

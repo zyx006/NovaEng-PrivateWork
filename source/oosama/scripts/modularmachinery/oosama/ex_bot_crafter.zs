@@ -41,6 +41,7 @@ RecipeBuilder.newBuilder("mougerendehead", "bot_crafter", 20)
     ]))
     .addInput(<ore:seed>) // 魔力消耗
     .addOutput(<minecraft:skull:3>.withTag({SkullOwner:{Name: "Vazkii"}}))
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 
@@ -58,6 +59,7 @@ RecipeBuilder.newBuilder("bc_water_rune", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*5) // 魔力消耗
     .addOutput(<botania:rune:0> * 2)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 
@@ -72,6 +74,7 @@ RecipeBuilder.newBuilder("bc_fire_rune", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*5) // 魔力消耗
     .addOutput(<botania:rune:1> * 2)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 地之符文 (botania:rune:2)
@@ -85,6 +88,7 @@ RecipeBuilder.newBuilder("bc_earth_rune", "bot_crafter", 20) // 时间设置为1
     ])
     .addInput(<liquid:fluidedmana>*5) // 魔力消耗
     .addOutput(<botania:rune:2> * 2)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 
@@ -120,6 +124,7 @@ RecipeBuilder.newBuilder("bc_wind_rune", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*5) // 魔力消耗
     .addOutput(<botania:rune:3> * 2)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 中阶符文合成表
@@ -135,6 +140,7 @@ RecipeBuilder.newBuilder("bc_spring_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:1>).setChance(0) // 火之符文（不消耗）
     .addInput(<liquid:fluidedmana>*8) // 魔力消耗
     .addOutput(<botania:rune:4>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 夏之符文 (botania:rune:5)
@@ -149,6 +155,7 @@ RecipeBuilder.newBuilder("bc_summer_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:3>).setChance(0) // 风之符文（不消耗）
     .addInput(<liquid:fluidedmana>*8) // 魔力消耗
     .addOutput(<botania:rune:5>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 秋之符文 (botania:rune:6)
@@ -162,6 +169,7 @@ RecipeBuilder.newBuilder("bc_autumn_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:3>).setChance(0) // 风之符文（不消耗）
     .addInput(<liquid:fluidedmana>*8) // 魔力消耗
     .addOutput(<botania:rune:6>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 冬之符文 (botania:rune:7)
@@ -176,6 +184,7 @@ RecipeBuilder.newBuilder("bc_winter_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:2>).setChance(0) // 地之符文（不消耗）
     .addInput(<liquid:fluidedmana>*8) // 魔力消耗
     .addOutput(<botania:rune:7>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     //魔力符文 (botania:rune:8)
@@ -190,6 +199,7 @@ RecipeBuilder.newBuilder("bc_mana_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:3>).setChance(0) // 风之符文（不消耗）
     .addInput(<liquid:fluidedmana>*16) // 魔力消耗
     .addOutput(<botania:rune:8>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 //高级符文合成表
@@ -204,6 +214,7 @@ RecipeBuilder.newBuilder("bc_pride_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:1>).setChance(0) // 火之符文（不消耗）
     .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:15>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 嫉妒符文 (botania:rune:14)
@@ -216,6 +227,7 @@ RecipeBuilder.newBuilder("bc_envy_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:0>).setChance(0) // 水之符文（不消耗）
     .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:14>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 暴怒符文 (botania:rune:13)
@@ -228,6 +240,7 @@ RecipeBuilder.newBuilder("bc_wrath_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:2>).setChance(0) // 地之符文（不消耗）
     .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:13>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 //懒惰符文 (botania:rune:12)
@@ -240,6 +253,7 @@ RecipeBuilder.newBuilder("bc_sloth_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:3>).setChance(0) // 风之符文（不消耗）
     .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:12>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 贪婪符文 (botania:rune:11)
@@ -252,6 +266,7 @@ RecipeBuilder.newBuilder("bc_greed_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:0>).setChance(0) // 水之符文（不消耗）
     .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:11>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 暴食符文 (botania:rune:10)
@@ -264,6 +279,7 @@ RecipeBuilder.newBuilder("bc_gluttony_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:1>).setChance(0) // 火之符文（不消耗）
     .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:10>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 欲望符文 (botania:rune:9)
@@ -276,6 +292,7 @@ RecipeBuilder.newBuilder("bc_lust_rune", "bot_crafter", 20)
     .addInputs(<botania:rune:3>).setChance(0) // 风之符文（不消耗）
     .addInput(<liquid:fluidedmana>*12)// 魔力消耗
     .addOutput(<botania:rune:9>)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 其他...
@@ -292,6 +309,7 @@ RecipeBuilder.newBuilder("player_head", "bot_crafter", 20)
     .addInput(<botania:livingrock>) // 活石
     .addInput(<liquid:fluidedmana>*22) // 魔力消耗
     .addOutput(<minecraft:skull:3>) // 注意：这里的输出可能需要根据实际需求调整
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     // Soarleander 花合成
@@ -303,6 +321,7 @@ RecipeBuilder.newBuilder("bc_soarleander_flower", "bot_crafter", 20)
     .addInput(<botania:livingrock>) // 活石
     .addInput(<liquid:fluidedmana>*8) // 魔力消耗
     .addOutput(<botania:specialflower>.withTag({type: "soarleander"})) // 输出：Soarleander 花
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // 强化材质合成
@@ -325,6 +344,7 @@ RecipeBuilder.newBuilder("bc_enchanted_material", "bot_crafter", 20)
             {lvl: 5 as short, id: 0}
         ]
     })) // 输出：附魔强化材质
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Material:2 合成
@@ -337,6 +357,7 @@ RecipeBuilder.newBuilder("bc_material_2", "bot_crafter", 20)
     .addInput(<liquid:fluidedmana>*1)// 魔力消耗
     .addOutput(<extrabotany:material:2>) // 输出：Material:2
     .addRecipeTooltip("育碧服务器？育碧服务器！")
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Froststar 合成
@@ -349,6 +370,7 @@ RecipeBuilder.newBuilder("bc_froststar", "bot_crafter", 20)
     .addInputs(<botania:livingrock>) // 活石
     .addInput(<liquid:fluidedmana>*2)// 魔力消耗
     .addOutput(<extrabotany:froststar>) // 输出：Froststar
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Death Ring 合成
@@ -362,6 +384,7 @@ RecipeBuilder.newBuilder("bc_death_ring", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*2)// 魔力消耗
     .addOutput(<extrabotany:deathring>) // 输出：Death Ring
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 
@@ -377,6 +400,7 @@ RecipeBuilder.newBuilder("bc_combatmaidchestdarkened", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*50) // 魔力消耗
     .addOutput(<extrabotany:combatmaidchestdarkened>) // 输出：Combat Maid Chest Darkened
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Walljumping 合成
@@ -390,6 +414,7 @@ RecipeBuilder.newBuilder("bc_walljumping", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*2)// 魔力消耗
     .addOutput(<extrabotany:walljumping>) // 输出：Walljumping
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Wallrunning 合成
@@ -403,6 +428,7 @@ RecipeBuilder.newBuilder("bc_wallrunning", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*2)// 魔力消耗
     .addOutput(<extrabotany:wallrunning>) // 输出：Wallrunning
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Elvenking 合成
@@ -415,6 +441,7 @@ RecipeBuilder.newBuilder("bc_elvenking", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*4)// 魔力消耗
     .addOutput(<extrabotany:elvenking>) // 输出：Elvenking
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Ultimate Hammer 合成
@@ -427,6 +454,7 @@ RecipeBuilder.newBuilder("bc_ultimatehammer", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*100) // 魔力消耗
     .addOutput(<extrabotany:ultimatehammer>) // 输出：Ultimate Hammer
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Allforone 合成
@@ -445,6 +473,7 @@ RecipeBuilder.newBuilder("bc_allforone", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*50) // 魔力消耗
     .addOutput(<extrabotany:allforone>) // 输出：Allforone
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 
@@ -465,6 +494,7 @@ RecipeBuilder.newBuilder("bc_firstfractal", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*1000) // 魔力消耗
     .addOutput(<extrabotany:firstfractal>) // 输出：Firstfractal
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Advancedrocketry Crystal 合成
@@ -490,4 +520,5 @@ RecipeBuilder.newBuilder("bc_advancedrocketry_crystal", "bot_crafter", 20)
     ])
     .addInput(<liquid:fluidedmana>*1000) // 魔力消耗
     .addOutput(<advancedrocketry:crystal>.withTag({"display": {"Lore": ["想想怎么利用它，不如试试用铿金与它熔炼出新物质？"], "Name": "重聚而出的晶块"}})) // 输出：Advanced Rocketry Crystal
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();

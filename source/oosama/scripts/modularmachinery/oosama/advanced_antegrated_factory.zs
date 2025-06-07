@@ -50,7 +50,7 @@ RecipeBuilder.newBuilder("advanced_antegrated_factory", "workshop", 60)
         <liquid:pyrotheum>*5000
                 ])
         .addOutput(<modularmachinery:advanced_antegrated_factory_factory_controller>)
-        .build();
+    .build();
 
 val baseGlass = <ore:dustObsidian>; // 基础玻璃材料
 val machineName = "advanced_antegrated_factory";  // 使用的机器名称
@@ -65,6 +65,7 @@ val energyPerTick = 10000;                          // 每 tick 所需能量
     .addOutput(<nuclearcraft:compound:11> * 6)
     .addOutput(<nuclearcraft:gem_dust:10> * 3)
     .addEnergyPerTickInput(10000) // 5.0 RF/t × 20 ticks = 100 RF
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
   RecipeBuilder.newBuilder("stoneDiorite_is", "item_shredder", 10)
@@ -73,6 +74,7 @@ val energyPerTick = 10000;                          // 每 tick 所需能量
     .addOutput(<mekanism:otherdust:7> * 9)
     .addOutput(<nuclearcraft:gem_dust:9> * 7)
     .addEnergyPerTickInput(10000) // 5.0 RF/t × 20 ticks = 100 RF
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     RecipeBuilder.newBuilder("stoneGranite_is", "item_shredder", 10)
@@ -81,6 +83,7 @@ val energyPerTick = 10000;                          // 每 tick 所需能量
     .addOutput(<thermalfoundation:material:771>* 6)
     .addOutput(<nuclearcraft:gem_dust:8>* 4)
     .addEnergyPerTickInput(10000) // 5.0 RF/t × 20 ticks = 100 RF
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();  
     
     //单质
@@ -91,6 +94,7 @@ val energyPerTick = 10000;                          // 每 tick 所需能量
     .addOutput(<nuclearcraft:uranium:10>* 9)
     .addOutput(<nuclearcraft:uranium:5> * 1)
     .addEnergyPerTickInput(10000) // 5.0 RF/t × 20 ticks = 100 RF
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 RecipeBuilder.newBuilder("separator_boron", "item_shredder", 10)
@@ -100,6 +104,7 @@ RecipeBuilder.newBuilder("separator_boron", "item_shredder", 10)
     .addOutput(<nuclearcraft:boron:1>* 9)
     .addOutput(<nuclearcraft:boron>* 3)
     .addEnergyPerTickInput(10000)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 RecipeBuilder.newBuilder("separator_lithium", "item_shredder", 10)
 .addIngredientArrayInput(IngredientArrayBuilder.newBuilder().addIngredients([
@@ -108,7 +113,33 @@ RecipeBuilder.newBuilder("separator_lithium", "item_shredder", 10)
     .addOutput(<nuclearcraft:lithium:1> * 9)
     .addOutput(<nuclearcraft:lithium> * 1)
     .addEnergyPerTickInput(10000)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
+
+//极寒末影锭（有别的更加优质的私货这个其实并不好用）
+RecipeBuilder.newBuilder("redstonerepository_socool_aaf", machineName, time)
+    .addInputs(
+        <thermalfoundation:material:1025>,
+        <thermalfoundation:material:167>
+        )  
+    .addOutput(<redstonerepository:material:1>) 
+    .addEnergyPerTickInput(energyPerTick)  // 设置每 tick 的能量需求
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
+    .build();  
+
+
+//科技枪里面的黑曜石钢锭
+RecipeBuilder.newBuilder("itemshared_aaf", machineName, time)
+    .addInputs(
+        <ore:dustObsidian>,
+        <ore:ingotSteel>
+        )  
+    .addOutput(<techguns:itemshared:84>) 
+    .addEnergyPerTickInput(energyPerTick)  // 设置每 tick 的能量需求
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
+    .build();  
+
+//各种玻璃啊
 // Titanium 硬化玻璃块配方
 RecipeBuilder.newBuilder("block_glasshardenedtitanium", machineName, time)
     .addInput(baseGlass)  // 添加基础玻璃作为输入
@@ -119,9 +150,10 @@ RecipeBuilder.newBuilder("block_glasshardenedtitanium", machineName, time)
                 <ore:dustTitanium>    // 或者钛粉尘
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedtitanium>)  // 输出为钛硬化玻璃块
+    .addOutput(<jaopca:block_glasshardenedtitanium>*2)  // 输出为钛硬化玻璃块
     .addEnergyPerTickInput(energyPerTick)  // 设置每 tick 的能量需求
-    .build();  // 构建并注册该配方
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
+    .build();  
 
 // Uranium 硬化玻璃块配方
 RecipeBuilder.newBuilder("block_glasshardeneduranium", machineName, time)
@@ -133,8 +165,9 @@ RecipeBuilder.newBuilder("block_glasshardeneduranium", machineName, time)
                 <ore:dustUranium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardeneduranium>)
+    .addOutput(<jaopca:block_glasshardeneduranium>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // WillowAlloy 硬化玻璃块配方
@@ -143,12 +176,13 @@ RecipeBuilder.newBuilder("block_glasshardenedwillowalloy", machineName, time)
     .addIngredientArrayInput(
         IngredientArrayBuilder.newBuilder()
             .addIngredients([
-                <ore:ingotWillowAlloy>,
-                <ore:dustWillowAlloy>
+                <ore:ingotWillowalloy>,
+                <ore:dustWillowalloy>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedwillowalloy>)
+    .addOutput(<jaopca:block_glasshardenedwillowalloy>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Dilithium 硬化玻璃块配方
@@ -161,8 +195,9 @@ RecipeBuilder.newBuilder("block_glasshardeneddilithium", machineName, time)
                 <ore:dustDilithium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardeneddilithium>)
+    .addOutput(<jaopca:block_glasshardeneddilithium>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Cobalt 硬化玻璃块配方
@@ -175,8 +210,9 @@ RecipeBuilder.newBuilder("block_glasshardenedcobalt", machineName, time)
                 <ore:dustCobalt>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedcobalt>)
+    .addOutput(<jaopca:block_glasshardenedcobalt>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // AstralStarmetal 硬化玻璃块配方
@@ -189,8 +225,9 @@ RecipeBuilder.newBuilder("block_glasshardenedastralstarmetal", machineName, time
                 <ore:dustAstralStarmetal>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedastralstarmetal>)
+    .addOutput(<jaopca:block_glasshardenedastralstarmetal>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Boron 硬化玻璃块配方
@@ -203,8 +240,9 @@ RecipeBuilder.newBuilder("block_glasshardenedboron", machineName, time)
                 <ore:dustBoron>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedboron>)
+    .addOutput(<jaopca:block_glasshardenedboron>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Gold 硬化玻璃块配方
@@ -217,8 +255,9 @@ RecipeBuilder.newBuilder("block_glasshardenedgold", machineName, time)
                 <ore:dustGold>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedgold>)
+    .addOutput(<jaopca:block_glasshardenedgold>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Thorium 硬化玻璃块配方
@@ -231,8 +270,9 @@ RecipeBuilder.newBuilder("block_glasshardenedthorium", machineName, time)
                 <ore:dustThorium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedthorium>)
+    .addOutput(<jaopca:block_glasshardenedthorium>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Draconium 硬化玻璃块配方
@@ -245,8 +285,9 @@ RecipeBuilder.newBuilder("block_glasshardeneddraconium", machineName, time)
                 <ore:dustDraconium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardeneddraconium>)
+    .addOutput(<jaopca:block_glasshardeneddraconium>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Iron 硬化玻璃块配方
@@ -259,8 +300,9 @@ RecipeBuilder.newBuilder("block_glasshardenediron", machineName, time)
                 <ore:dustIron>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenediron>)
+    .addOutput(<jaopca:block_glasshardenediron>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Osmium 硬化玻璃块配方
@@ -273,8 +315,9 @@ RecipeBuilder.newBuilder("block_glasshardenedosmium", machineName, time)
                 <ore:dustOsmium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedosmium>)
+    .addOutput(<jaopca:block_glasshardenedosmium>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Magnesium 硬化玻璃块配方
@@ -287,8 +330,9 @@ RecipeBuilder.newBuilder("block_glasshardenedmagnesium", machineName, time)
                 <ore:dustMagnesium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedmagnesium>)
+    .addOutput(<jaopca:block_glasshardenedmagnesium>    *2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 // Lithium 硬化玻璃块配方
@@ -301,8 +345,9 @@ RecipeBuilder.newBuilder("block_glasshardenedlithium", machineName, time)
                 <ore:dustLithium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedlithium>)
+    .addOutput(<jaopca:block_glasshardenedlithium>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 RecipeBuilder.newBuilder("block_glasshardenediron", machineName, time)
@@ -316,7 +361,8 @@ RecipeBuilder.newBuilder("block_glasshardenediron", machineName, time)
     )
     .addOutput(<jaopca:block_glasshardenediron>)  // 输出铁制硬化玻璃块
     .addEnergyPerTickInput(energyPerTick)  // 设置每 tick 所需能量
-    .build();  // 构建并注册该配方
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
+    .build();  
 
 RecipeBuilder.newBuilder("block_glasshardeneddraconium", machineName, time)
     .addInput(baseGlass)
@@ -327,8 +373,9 @@ RecipeBuilder.newBuilder("block_glasshardeneddraconium", machineName, time)
                 <ore:dustDraconium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardeneddraconium>)
+    .addOutput(<jaopca:block_glasshardeneddraconium>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 RecipeBuilder.newBuilder("block_glasshardenedthorium", machineName, time)
@@ -340,8 +387,9 @@ RecipeBuilder.newBuilder("block_glasshardenedthorium", machineName, time)
                 <ore:dustThorium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedthorium>)
+    .addOutput(<jaopca:block_glasshardenedthorium>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 
@@ -354,8 +402,9 @@ RecipeBuilder.newBuilder("block_glasshardenedmagnesium", machineName, time)
                 <ore:dustMagnesium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedmagnesium>)
+    .addOutput(<jaopca:block_glasshardenedmagnesium>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 RecipeBuilder.newBuilder("block_glasshardenedlithium", machineName, time)
@@ -367,8 +416,9 @@ RecipeBuilder.newBuilder("block_glasshardenedlithium", machineName, time)
                 <ore:dustLithium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedlithium>)
+    .addOutput(<jaopca:block_glasshardenedlithium>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 RecipeBuilder.newBuilder("block_glasshardenedosmium", machineName, time)
@@ -380,8 +430,9 @@ RecipeBuilder.newBuilder("block_glasshardenedosmium", machineName, time)
                 <ore:dustOsmium>
             ])
     )
-    .addOutput(<jaopca:block_glasshardenedosmium>)
+    .addOutput(<jaopca:block_glasshardenedosmium>*2)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 RecipeBuilder.newBuilder("ingots_lvhuangt", machineName, time)
@@ -395,6 +446,7 @@ RecipeBuilder.newBuilder("ingots_lvhuangt", machineName, time)
             ]))
     .addOutput(<tconstruct:ingots:5>*4)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
  RecipeBuilder.newBuilder("glitch_infused_ingot", machineName, time)
@@ -405,6 +457,7 @@ RecipeBuilder.newBuilder("ingots_lvhuangt", machineName, time)
     )
     .addOutput(<deepmoblearning:glitch_infused_ingot>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     // 创建 Glazed Nether Brick 配方
@@ -416,6 +469,7 @@ RecipeBuilder.newBuilder("glazed_nether_brick_recipe", machineName, time)
     )
     .addOutput(<ore:ingotBrickNetherGlazed>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     // 创建硅晶片配方（Silicon Wafer）
@@ -427,6 +481,7 @@ RecipeBuilder.newBuilder("silicon_wafer_recipe", machineName, time)
     )
     .addOutput(<enderio:item_material:39>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 //神经红色燃料配方
@@ -438,6 +493,7 @@ RecipeBuilder.newBuilder("hongseranliao", machineName, time)
     )
     .addOutput(<minecraft:dye:1>*12)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 //两个吃的
@@ -448,6 +504,7 @@ RecipeBuilder.newBuilder("xiaobinggan", machineName, time)
     )
     .addOutput(<minecraft:cookie>*12)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 RecipeBuilder.newBuilder("mianbaobian", machineName, time)
@@ -457,6 +514,7 @@ RecipeBuilder.newBuilder("mianbaobian", machineName, time)
     )
     .addOutput(<enderio:item_material:70>*12)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 //炉渣
 RecipeBuilder.newBuilder("timeisover", machineName, time)
@@ -467,6 +525,7 @@ RecipeBuilder.newBuilder("timeisover", machineName, time)
     .addOutput(<thermalfoundation:material:864>)
     .addOutput(<thermalfoundation:material:865>).setChance(0.5)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 //富炉渣
 RecipeBuilder.newBuilder("timeisoverallright", machineName, time)
@@ -476,6 +535,7 @@ RecipeBuilder.newBuilder("timeisoverallright", machineName, time)
     )
     .addOutput(<thermalfoundation:material:865>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 //三个有机染料
@@ -487,6 +547,7 @@ RecipeBuilder.newBuilder("item_material75", machineName, time)
     .addInput(<enderio:item_material:20>)
     .addOutput(<enderio:item_material:75>*4)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 RecipeBuilder.newBuilder("item_material49", machineName, time)
@@ -500,6 +561,7 @@ RecipeBuilder.newBuilder("item_material49", machineName, time)
     )
     .addOutput(<enderio:item_material:49>*4)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     RecipeBuilder.newBuilder("item_material48", machineName, time)
@@ -513,6 +575,7 @@ RecipeBuilder.newBuilder("item_material49", machineName, time)
     )
     .addOutput(<enderio:item_material:48>*4)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     RecipeBuilder.newBuilder("item_material50", machineName, time)
@@ -526,6 +589,7 @@ RecipeBuilder.newBuilder("item_material49", machineName, time)
     )
     .addOutput(<enderio:item_material:50>*4)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     //神秘的花
@@ -538,6 +602,7 @@ RecipeBuilder.newBuilder("death_pouch_recipe", machineName, time)
     )
     .addOutput(<enderio:block_death_pouch>)  // 输出死亡袋子
     .addEnergyPerTickInput(energyPerTick)              // 每 tick 所需能量
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();                                  // 注册该配方
 
 
@@ -550,6 +615,7 @@ RecipeBuilder.newBuilder("dark_steel_upgrade_recipe", machineName, time)
     )
     .addOutput(<enderio:item_dark_steel_upgrade>)  // 输出暗钢升级模块
     .addEnergyPerTickInput(energyPerTick)                   // 每 tick 所需能量
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();    
 
 // 创建铁粉配方（Iron Dust Recipe）
@@ -560,6 +626,7 @@ RecipeBuilder.newBuilder("iron_dust_recipe", machineName, time)
     )
     .addOutput(<enderio:item_material:1>) // 输出铁粉
     .addEnergyPerTickInput(energyPerTick)           // 每 tick 所需能量
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();                               // 注册该配方
 
 
@@ -571,6 +638,7 @@ RecipeBuilder.newBuilder("basic_capacitor_recipe", machineName, time)
     )
     .addOutput(<enderio:item_material:54>)  // 输出基础电容
     .addEnergyPerTickInput(energyPerTick)             // 每 tick 所需能量
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();                                 // 注册该配方
 
     // 创建银粉配方（Silver Dust Recipe）
@@ -581,6 +649,7 @@ RecipeBuilder.newBuilder("silver_dust_recipe", machineName, time)
     )
     .addOutput(<enderio:item_material:53>) // 输出银粉
     .addEnergyPerTickInput(energyPerTick)           // 每 tick 所需能量
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();                               // 注册该配方
 //石英玻璃
     RecipeBuilder.newBuilder("block_dark_fused_quartz", machineName, time)
@@ -593,6 +662,7 @@ RecipeBuilder.newBuilder("silver_dust_recipe", machineName, time)
     )
     .addOutput(<enderio:block_dark_fused_quartz>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     RecipeBuilder.newBuilder("block_enlightened_fused_quartz", machineName, time)
@@ -606,6 +676,7 @@ RecipeBuilder.newBuilder("silver_dust_recipe", machineName, time)
     ]))
     .addOutput(<enderio:block_enlightened_fused_quartz>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     RecipeBuilder.newBuilder("block_fused_quartz", machineName, time)
@@ -615,6 +686,7 @@ RecipeBuilder.newBuilder("silver_dust_recipe", machineName, time)
             ]))
     .addOutput(<enderio:block_fused_quartz>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 //纯净玻璃
@@ -625,6 +697,7 @@ RecipeBuilder.newBuilder("silver_dust_recipe", machineName, time)
     )
     .addOutput(<enderio:block_dark_fused_glass>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     RecipeBuilder.newBuilder("block_enlightened_fused_glass", machineName, time)
@@ -637,6 +710,7 @@ RecipeBuilder.newBuilder("silver_dust_recipe", machineName, time)
     ]))
     .addOutput(<enderio:block_enlightened_fused_glass>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
     RecipeBuilder.newBuilder("block_fused_glass", machineName, time)
@@ -645,6 +719,7 @@ RecipeBuilder.newBuilder("silver_dust_recipe", machineName, time)
     )
     .addOutput(<enderio:block_fused_glass>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 // 创建工业绝缘块配方（Industrial Insulation Recipe）
 RecipeBuilder.newBuilder("industrial_insulation_recipe", machineName, time)
@@ -655,6 +730,7 @@ RecipeBuilder.newBuilder("industrial_insulation_recipe", machineName, time)
     )
     .addOutput(<enderio:block_industrial_insulation>)  // 输出工业绝缘块
     .addEnergyPerTickInput(energyPerTick)    // 每 tick 所需能量
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();                      // 注册该配方
 
 // 创建 Endergy 合金锭配方
@@ -666,6 +742,7 @@ RecipeBuilder.newBuilder("endergy_alloy_ingot_recipe",machineName, time)
     )
     .addOutput(<enderio:item_alloy_endergy_ingot>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 //感知锭
 RecipeBuilder.newBuilder("konwyouding",machineName, time)
@@ -675,6 +752,7 @@ RecipeBuilder.newBuilder("konwyouding",machineName, time)
     )
     .addOutput(<tconevo:metal:30>)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 //你太美合金
@@ -690,6 +768,7 @@ RecipeBuilder.newBuilder("youaresomeili",machineName, time)
     ]))
     .addOutput(<mets:niobium_titanium_ingot>* 4)
     .addEnergyPerTickInput(energyPerTick)
+    .addRecipeTooltip("这个是§c私货§f自己加的配方！")
     .build();
 
 //嗨嗨嗨配方继承
