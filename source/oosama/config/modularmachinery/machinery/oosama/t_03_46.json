@@ -2604,14 +2604,6 @@
             ]
         },
         {
-            "x": 49,
-            "y": -34,
-            "z": -27,
-            "elements": [
-                "minecraft:air@0"
-            ]
-        },
-        {
             "x": -7,
             "y": -3,
             "z": 7,
@@ -3596,14 +3588,6 @@
             ]
         },
         {
-            "x": 49,
-            "y": -35,
-            "z": -27,
-            "elements": [
-                "minecraft:air@0"
-            ]
-        },
-        {
             "x": -5,
             "y": -3,
             "z": 5,
@@ -3689,14 +3673,6 @@
             "z": 7,
             "elements": [
                 "modularmachinery:blockcasing@0"
-            ]
-        },
-        {
-            "x": 49,
-            "y": -37,
-            "z": -27,
-            "elements": [
-                "minecraft:air@0"
             ]
         },
         {
@@ -5729,14 +5705,6 @@
             "z": 8,
             "elements": [
                 "modularmachinery:blockcasing@0"
-            ]
-        },
-        {
-            "x": 49,
-            "y": -33,
-            "z": -27,
-            "elements": [
-                "minecraft:air@0"
             ]
         },
         {
@@ -10281,14 +10249,6 @@
             "z": 4,
             "elements": [
                 "mekanism:plasticblock@0"
-            ]
-        },
-        {
-            "x": 49,
-            "y": -38,
-            "z": -27,
-            "elements": [
-                "minecraft:air@0"
             ]
         },
         {
@@ -16700,14 +16660,6 @@
             ]
         },
         {
-            "x": 49,
-            "y": -36,
-            "z": -27,
-            "elements": [
-                "minecraft:air@0"
-            ]
-        },
-        {
             "x": -8,
             "y": -1,
             "z": 10,
@@ -16913,14 +16865,6 @@
             "z": 13,
             "elements": [
                 "modularmachinery:blockcasing@0"
-            ]
-        },
-        {
-            "x": 49,
-            "y": -39,
-            "z": -27,
-            "elements": [
-                "minecraft:air@0"
             ]
         },
         {
