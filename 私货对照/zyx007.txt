@@ -35,3 +35,9 @@ config\modularmachinery\machinery
     zyx007-ShanXiCoal.json
 scripts
     zyx007-ShanXiCoal.zs
+
+7、黑曜石熔炼机
+config\modularmachinery\machinery
+    zyx007-obsidian.json
+scripts
+    zyx007-infinite_obsidian.zs
