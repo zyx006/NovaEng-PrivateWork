@@ -16,7 +16,7 @@ RecipeBuilder.newBuilder("solar_wind", "machine_arm", 1200)
         <gravisuite:crafting:1> * 48,
         <mekanism:machineblock3:14> * 4,
         <advancedrocketry:intake> * 48,
-        <mekanism:polyethene:2> * 16,
+        <mekanism:hdpe_sheet> * 16,
         <contenttweaker:carbon_nanotube> * 48,
         <nuclearcraft:alloy:13> * 16,
         <ic2:plate:14> * 16
@@ -76,9 +76,8 @@ RecipeBuilder.newBuilder("mk2_helium3", "mk2", 100, 2)
     .addPreCheckHandler(function(event as RecipeCheckEvent) {
         val ctrl = event.controller;
         val data = ctrl.customData;
-        val dData = D(data);
-        val ccl = dData.getInt("ccl", 0);
-        val bh = dData.getInt("bh", 0);
+        val ccl = data.getInt("ccl", 0);
+        val bh = data.getInt("bh", 0);
         if(bh < riers){
             if (ccl < riers) {
                 event.setFailed("§6启动能量缓存不足，无法开始配方！");
@@ -89,10 +88,9 @@ RecipeBuilder.newBuilder("mk2_helium3", "mk2", 100, 2)
     .addFactoryFinishHandler(function (event as FactoryRecipeFinishEvent) {
         val ctrl = event.controller;
         val data = ctrl.customData;
-        val dData = D(data);
         val map = data.asMap();
-        val ccl = dData.getInt("ccl", 0);
-        val bh = dData.getInt("bh", 0);
+        val ccl = data.getInt("ccl", 0);
+        val bh = data.getInt("bh", 0);
 
         if(bh < riers){
             map["ccl"] = ccl - riers;

@@ -48,8 +48,7 @@ RecipeBuilder.newBuilder("shanxi_coal_install_update", "shanxi_coal", 1, 0)
     .addPreCheckHandler(function(event as RecipeCheckEvent){
         val ctrl = event.controller;
         val data = ctrl.customData;
-        val dData = D(data);
-        val updateLevel = dData.getInt("updateLevel",0);
+        val updateLevel = data.getInt("updateLevel",0);
 
         if (updateLevel != 0) {
             event.setFailed("凋零核心已安装");
@@ -82,8 +81,7 @@ RecipeBuilder.newBuilder("shanxi_coal_install_update", "shanxi_coal", 1, 0)
 MMEvents.onControllerGUIRender("shanxi_coal", function(event as ControllerGUIRenderEvent) {
         val ctrl = event.controller;
         val data = ctrl.customData;
-        val dData = D(data);
-        val updateLevel = dData.getInt("updateLevel",0);
+        val updateLevel = data.getInt("updateLevel",0);
         var info as string[] = [];
         if (updateLevel == 1)
             info += "§b凋零核心：§6已安装";
@@ -97,8 +95,7 @@ RecipeBuilder.newBuilder("shanxi_coal_all_4", "shanxi_coal", 200, recipeCounter,
     .addPreCheckHandler(function(event as RecipeCheckEvent){
         val ctrl = event.controller;
         val data = ctrl.customData;
-        val dData = D(data);
-        val updateLevel = dData.getInt("updateLevel",0);
+        val updateLevel = data.getInt("updateLevel",0);
 
         if(updateLevel == 1)
             event.activeRecipe.maxParallelism *= 2;
@@ -133,8 +130,7 @@ RecipeBuilder.newBuilder("shanxi_coal_all_2", "shanxi_coal", 200, recipeCounter,
     .addPreCheckHandler(function(event as RecipeCheckEvent){
         val ctrl = event.controller;
         val data = ctrl.customData;
-        val dData = D(data);
-        val updateLevel = dData.getInt("updateLevel",0);
+        val updateLevel = data.getInt("updateLevel",0);
 
         if(updateLevel == 1)
             event.activeRecipe.maxParallelism *= 2;
@@ -166,8 +162,7 @@ RecipeBuilder.newBuilder("shanxi_coal_all_3", "shanxi_coal", 200, recipeCounter,
     .addPreCheckHandler(function(event as RecipeCheckEvent){
         val ctrl = event.controller;
         val data = ctrl.customData;
-        val dData = D(data);
-        val updateLevel = dData.getInt("updateLevel",0);
+        val updateLevel = data.getInt("updateLevel",0);
 
         if(updateLevel == 1)
             event.activeRecipe.maxParallelism *= 2;
@@ -199,8 +194,7 @@ RecipeBuilder.newBuilder("shanxi_coal_all_1", "shanxi_coal", 200, recipeCounter,
     .addPreCheckHandler(function(event as RecipeCheckEvent){
         val ctrl = event.controller;
         val data = ctrl.customData;
-        val dData = D(data);
-        val updateLevel = dData.getInt("updateLevel",0);
+        val updateLevel = data.getInt("updateLevel",0);
 
         if(updateLevel == 1)
             event.activeRecipe.maxParallelism *= 2;
@@ -230,8 +224,7 @@ RecipeBuilder.newBuilder("shanxi_coal_qidian", "shanxi_coal", 1900, recipeCounte
     .addPreCheckHandler(function(event as RecipeCheckEvent){
         val ctrl = event.controller;
         val data = ctrl.customData;
-        val dData = D(data);
-        val updateLevel = dData.getInt("updateLevel",0);
+        val updateLevel = data.getInt("updateLevel",0);
 
         if(updateLevel == 1)
             event.activeRecipe.maxParallelism *= 2;
@@ -253,8 +246,7 @@ RecipeBuilder.newBuilder("shanxi_coal_energey", "shanxi_coal", 200, recipeCounte
     .addPreCheckHandler(function(event as RecipeCheckEvent){
         val ctrl = event.controller;
         val data = ctrl.customData;
-        val dData = D(data);
-        val updateLevel = dData.getInt("updateLevel",0);
+        val updateLevel = data.getInt("updateLevel",0);
 
         if(updateLevel == 1)
             event.activeRecipe.maxParallelism *= 2;

@@ -55,3 +55,9 @@ QQ：1029606625
 
 2025/05/24 山西煤矿 v1.4
 修复控制器合成，替换不生成的灵魂土
+
+2025/10/21 山西煤矿 v1.5
+适配1.18.2，将D(data).get改为data.get改为data
+
+2025/10/21 实验性太阳风收集器 v1.2
+适配1.18.2，将D(data).get改为data.get改为data，将<mekanism:polyethene:2>修改为最新的<mekanism:hdpe_sheet>
